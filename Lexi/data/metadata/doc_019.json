@@ -1,0 +1,96 @@
+{
+  "doc_id": "doc_019",
+  "case_name": "Surendra Singh And Another vs Vijay Singh And Another on 19 January, 2018",
+  "court": "HIGH COURT OF JUDICATURE AT ALLAHABAD",
+  "year": 2018,
+  "judgment_date": "19.01.2018",
+  "citation": "",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": true,
+  "pay_and_recover_applied": false,
+  "involves_death": true,
+  "involves_injury": false,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "FAFO No. 3484 of 2012: Rs. 3,48,000/-; FAFO No. 1199 of 2016: Rs. 4,48,400/-; FAFO No. 1820 of 2002: Rs. 7,71,000/-; FAFO No. 4230 of 2017: Rs. 5,91,000/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Kapil Singh (deceased)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 1,22,000/-",
+      "final_amount": "Rs. 3,48,000/-",
+      "interest": "9% p.a. from date of filing of the claim petition",
+      "notes": "Notional income enhanced to Rs.36,000 p.a.; multiplier 18 applied; funeral and loss of estate awarded at Rs.12,000 each."
+    },
+    {
+      "claimant_or_victim": "Rakesh Kumar (deceased)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 2,68,500/-",
+      "final_amount": "Rs. 4,48,400/-",
+      "interest": "9% p.a. from date of filing of the claim petition",
+      "notes": "Fixed salary Rs.3,000/month accepted; future prospects @40% applied; multiplier 17 applied; loss of estate and funeral pegged at Rs.10,000 each."
+    },
+    {
+      "claimant_or_victim": "Pankaj Agarwal (deceased)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 1,35,000/-",
+      "final_amount": "Rs. 7,71,000/-",
+      "interest": "9% p.a. from date of filing of the claim petition",
+      "notes": "Income taken Rs.5,000/month; deduction for personal expenses applied; future prospects @40% applied; multiplier 18 applied."
+    },
+    {
+      "claimant_or_victim": "Dharmendra (deceased)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 3,94,500/-",
+      "final_amount": "Rs. 5,91,000/-",
+      "interest": null,
+      "notes": "Income estimated at Rs.45,000 p.a.; deduction 50% applied; future prospects @40% allowed; multiplier 18 applied; loss of estate and funeral awarded Rs.12,000 each."
+    }
+  ],
+  "facts": "These are four consolidated first appeals arising from motor-accident claims in which several bachelors (Kapil Singh, Rakesh Kumar, Pankaj Agarwal, Dharmendra) died in accidents involving mainly trucks and a Tata Scorpio (dates: 22.07.2010; 29.11.2003; 08.09.1997; 17.09.2010). Claimants (parents/legal representatives) sought enhancement of compensation awarded by various Motor Accident Claims Tribunals; one appeal was filed by an insurer contending the award was excessive. The issues common to the appeals were the correct multiplier to apply (age of deceased v. age of claimants), entitlement to future prospects for persons on fixed salary or self-employed, and proper awards for non-pecuniary heads.",
+  "arguments_claimant": "Claimants argued the multiplier should be applied with reference to the age of the deceased (not the claimant), that future prospects should be added even where the deceased had fixed income or was self-employed, and that conventional heads (funeral, loss of estate, non-pecuniary) were inadequately compensated. They sought enhancement of the Tribunal awards applying Sarla Verma/Pranay Sethi principles.",
+  "arguments_respondent": "Insurers argued the multiplier must be applied with reference to the age of the claimants, not the deceased, resisted allowance of future prospects for those on fixed income, and contended the Tribunal's deductions and conventional-head awards were reasonable. In one appeal the insurer challenged deduction rates for personal expenses and sought reduction of the award.",
+  "ratio_decidendi": "\"Thus, the compensation awarded in these cases has to be computed by invoking the multiplier commensurate to the age of the deceased as specified in the table drawn by the Supreme Court in the case of Smt. Sarla Verma (supra).\" The Court relied on the Supreme Court's direction that \"We therefore hold that the multiplier to be used should be as mentioned in column (4) of the table above...\" and recorded the constitutional bench conclusion: \"(vii) The age of the deceased should be the basis for applying the multiplier.\" The Court also applied the Supreme Court's rule on future prospects for self-employed or fixed salary deceased, quoting that \"In case the deceased was self-employed or on a fixed salary, an addition of 40% of the established income should be the warrant where the deceased was below the age of 40 years.\" Finally, the High Court held that these standardized principles (multiplier table, future-prospects percentages, and standardized non-pecuniary heads) must be applied to correct the Tribunal awards without reappraising facts.",
+  "final_order": "First Appeals Nos. 3484 of 2012, 1199 of 2016 and 1820 of 2002 are allowed and the Tribunal awards are enhanced to Rs.3,48,000/-; Rs.4,48,400/-; and Rs.7,71,000/- respectively. The appeal arising as FAFO No. 4230 of 2017 is dealt with on merits (insurer's challenge rejected) and compensation is enhanced to Rs.5,91,000/-. The differential amounts (and in the three specified matters interest @9% p.a. from date of filing) shall be paid by the insurer to the claimants within three months as directed.",
+  "summary": "This Allahabad High Court judgment (2018) consolidated four first appeals from motor-accident awards where young bachelors died. The Court applied the Supreme Court's standardized Sarla Verma/Pranay Sethi framework: multiplier must be based on the age of the deceased, future prospects percentages apply to fixed/salaried or self-employed deceased, and fixed conventional heads are to be awarded. The High Court enhanced the Tribunal awards in each matter (final totals: Rs.3,48,000; Rs.4,48,400; Rs.7,71,000; Rs.5,91,000) and ordered payment with interest within three months.",
+  "embedding_summary": "Surendra Singh & Ors. v. Vijay Singh & Ors., High Court of Allahabad, Judgment 19.01.2018 (FAFO Nos. 3484/2012, 1199/2016, 1820/2002, 4230/2017). Four motor-accident death cases (Kapil Singh 22.07.2010; Rakesh Kumar 29.11.2003; Pankaj Agarwal 08.09.1997; Dharmendra 17.09.2010) involving trucks/Tata Scorpio. Key legal issues: correct multiplier (age of deceased v. age of claimant), future prospects for salaried/self-employed deceased, and standard non-pecuniary heads. Court applied Supreme Court's Sarla Verma and National Insurance Co. v. Pranay Sethi (2017) principles: use Sarla Verma multiplier table, apply future prospects (40%/25%/10% for self-employed/fixed salary by age bands), standardized non-pecuniary awards (Rs.15,000/ Rs.40,000/ Rs.15,000 with 10% rise every 3 years), and permitted enhancement under Order XLI Rule 33 CPC without reappraisal. Outcomes: enhanced awards to Rs.3,48,000; Rs.4,48,400; Rs.7,71,000; Rs.5,91,000; insurers to pay differential amounts (interest 9% specified for several awards). Statutory references: Section 166, 163A, 168, 149(2) MV Act and Order XLI Rule 33 CPC discussed.",
+  "legal_principles": [
+    "Multiplier to be applied with reference to age of the deceased using the Sarla Verma table (as approved in Pranay Sethi)",
+    "Future prospects to be added for self-employed or fixed-salary deceased (40% if below 40; 25% for 40-50; 10% for 50-60)",
+    "Established income means actual income minus tax; notional income cannot attract future prospects",
+    "Standardized non-pecuniary awards (loss of estate, loss of consortium, funeral) as fixed sums with 10% enhancement every three years for U.P. cases not covered by Rule 220A",
+    "High Court may exercise Order XLI Rule 33 CPC to correct/ enhance awards (even without cross-objection) to ensure just and reasonable compensation without reappraising evidence",
+    "Tribunals should follow the Sarla Verma/Pranay Sethi methodology (Davies method) for Section 166 claims"
+  ],
+  "sections_cited": [
+    "Section 166 Motor Vehicles Act",
+    "Section 163A Motor Vehicles Act",
+    "Section 168 Motor Vehicles Act",
+    "Section 149(2) Motor Vehicles Act",
+    "Section 158(6) Motor Vehicles Act",
+    "Section 169 Motor Vehicles Act",
+    "Order XLI Rule 33 Civil Procedure Code",
+    "Section 168(2) Motor Vehicles Act",
+    "Section 220A U.P. Motor Vehicles Rules, 1998"
+  ],
+  "cases_cited": [
+    "National Insurance Company Ltd. vs Pranay Sethi and Others, (2017) (Constitution Bench)",
+    "Smt. Sarla Verma and Ors. vs Delhi Transport Corporation and Another, (2009) 6 SCC 121",
+    "Reshma Kumari and others vs Madan Mohan and Another, 2013 (9) SCC 65",
+    "New India Assurance Co. Ltd. vs Charlie, [2005 (10) SCC 720]",
+    "TN State Road Transport Corporation Ltd. vs Rajapriya, [2005 (6) SCC 236]",
+    "UP State Road Transport Corporation vs Krishna Bala, [2006 (6) SCC 249]",
+    "Sandhya Rani Debbarma vs National Insurance Ltd., (2016) 16 SCC 206",
+    "Munna Lal Jain vs Vipin Kumar Sharma and others, 2015 (6) SCC 347",
+    "Rajesh and others vs Rajbir and others, 2013 (9) SCC 54",
+    "Jitendra Khimshankar Trivedi & Ors vs Kasam Daud Kumbhar & Ors, 2015 (4) SCC 237",
+    "United India Insurance Co. Ltd. v. Shila Datta, (2011) 10 SCC 509",
+    "Nagappa vs Gurudayal Singh & Ors., 2003 2 SCC 274",
+    "Oriental Insurance Company Ltd. vs Mohd. Nasir & Anr., 2009 6 SCC 280",
+    "Ningamma & Anr. vs United India Insurance Company Ltd., 2009 13 SCC 710",
+    "Kalpanaraj and others vs Tamil Nadu State Transport Corporation, 2014 (3) TAC 707 (SC)"
+  ],
+  "bm25_text": "Surendra Singh And Another vs Vijay Singh And Another on 19 January, 2018 HIGH COURT OF JUDICATURE AT ALLAHABAD 2018 These are four consolidated first appeals arising from motor-accident claims in which several bachelors (Kapil Singh, Rakesh Kumar, Pankaj Agarwal, Dharmendra) died in accidents involving mainly trucks and a Tata Scorpio (dates: 22.07.2010; 29.11.2003; 08.09.1997; 17.09.2010). Claimants (parents/legal representatives) sought enhancement of compensation awarded by various Motor Accident Claims Tribunals; one appeal was filed by an insurer contending the award was excessive. The issues common to the appeals were the correct multiplier to apply (age of deceased v. age of claimants), entitlement to future prospects for persons on fixed salary or self-employed, and proper awards for non-pecuniary heads. Claimants argued the multiplier should be applied with reference to the age of the deceased (not the claimant), that future prospects should be added even where the deceased had fixed income or was self-employed, and that conventional heads (funeral, loss of estate, non-pecuniary) were inadequately compensated. They sought enhancement of the Tribunal awards applying Sarla Verma/Pranay Sethi principles. Insurers argued the multiplier must be applied with reference to the age of the claimants, not the deceased, resisted allowance of future prospects for those on fixed income, and contended the Tribunal's deductions and conventional-head awards were reasonable. In one appeal the insurer challenged deduction rates for personal expenses and sought reduction of the award. \"Thus, the compensation awarded in these cases has to be computed by invoking the multiplier commensurate to the age of the deceased as specified in the table drawn by the Supreme Court in the case of Smt. Sarla Verma (supra).\" The Court relied on the Supreme Court's direction that \"We therefore hold that the multiplier to be used should be as mentioned in column (4) of the table above...\" and recorded the constitutional bench conclusion: \"(vii) The age of the deceased should be the basis for applying the multiplier.\" The Court also applied the Supreme Court's rule on future prospects for self-employed or fixed salary deceased, quoting that \"In case the deceased was self-employed or on a fixed salary, an addition of 40% of the established income should be the warrant where the deceased was below the age of 40 years.\" Finally, the High Court held that these standardized principles (multiplier table, future-prospects percentages, and standardized non-pecuniary heads) must be applied to correct the Tribunal awards without reappraising facts. First Appeals Nos. 3484 of 2012, 1199 of 2016 and 1820 of 2002 are allowed and the Tribunal awards are enhanced to Rs.3,48,000/-; Rs.4,48,400/-; and Rs.7,71,000/- respectively. The appeal arising as FAFO No. 4230 of 2017 is dealt with on merits (insurer's challenge rejected) and compensation is enhanced to Rs.5,91,000/-. The differential amounts (and in the three specified matters interest @9% p.a. from date of filing) shall be paid by the insurer to the claimants within three months as directed. This Allahabad High Court judgment (2018) consolidated four first appeals from motor-accident awards where young bachelors died. The Court applied the Supreme Court's standardized Sarla Verma/Pranay Sethi framework: multiplier must be based on the age of the deceased, future prospects percentages apply to fixed/salaried or self-employed deceased, and fixed conventional heads are to be awarded. The High Court enhanced the Tribunal awards in each matter (final totals: Rs.3,48,000; Rs.4,48,400; Rs.7,71,000; Rs.5,91,000) and ordered payment with interest within three months. Surendra Singh & Ors. v. Vijay Singh & Ors., High Court of Allahabad, Judgment 19.01.2018 (FAFO Nos. 3484/2012, 1199/2016, 1820/2002, 4230/2017). Four motor-accident death cases (Kapil Singh 22.07.2010; Rakesh Kumar 29.11.2003; Pankaj Agarwal 08.09.1997; Dharmendra 17.09.2010) involving trucks/Tata Scorpio. Key legal issues: correct multiplier (age of deceased v. age of claimant), future prospects for salaried/self-employed deceased, and standard non-pecuniary heads. Court applied Supreme Court's Sarla Verma and National Insurance Co. v. Pranay Sethi (2017) principles: use Sarla Verma multiplier table, apply future prospects (40%/25%/10% for self-employed/fixed salary by age bands), standardized non-pecuniary awards (Rs.15,000/ Rs.40,000/ Rs.15,000 with 10% rise every 3 years), and permitted enhancement under Order XLI Rule 33 CPC without reappraisal. Outcomes: enhanced awards to Rs.3,48,000; Rs.4,48,400; Rs.7,71,000; Rs.5,91,000; insurers to pay differential amounts (interest 9% specified for several awards). Statutory references: Section 166, 163A, 168, 149(2) MV Act and Order XLI Rule 33 CPC discussed. Kapil Singh (deceased) Rs. 1,22,000/- Rs. 3,48,000/- 9% p.a. from date of filing of the claim petition Notional income enhanced to Rs.36,000 p.a.; multiplier 18 applied; funeral and loss of estate awarded at Rs.12,000 each. Rakesh Kumar (deceased) Rs. 2,68,500/- Rs. 4,48,400/- 9% p.a. from date of filing of the claim petition Fixed salary Rs.3,000/month accepted; future prospects @40% applied; multiplier 17 applied; loss of estate and funeral pegged at Rs.10,000 each. Pankaj Agarwal (deceased) Rs. 1,35,000/- Rs. 7,71,000/- 9% p.a. from date of filing of the claim petition Income taken Rs.5,000/month; deduction for personal expenses applied; future prospects @40% applied; multiplier 18 applied. Dharmendra (deceased) Rs. 3,94,500/- Rs. 5,91,000/- Income estimated at Rs.45,000 p.a.; deduction 50% applied; future prospects @40% allowed; multiplier 18 applied; loss of estate and funeral awarded Rs.12,000 each. Multiplier to be applied with reference to age of the deceased using the Sarla Verma table (as approved in Pranay Sethi) Future prospects to be added for self-employed or fixed-salary deceased (40% if below 40; 25% for 40-50; 10% for 50-60) Established income means actual income minus tax; notional income cannot attract future prospects Standardized non-pecuniary awards (loss of estate, loss of consortium, funeral) as fixed sums with 10% enhancement every three years for U.P. cases not covered by Rule 220A High Court may exercise Order XLI Rule 33 CPC to correct/ enhance awards (even without cross-objection) to ensure just and reasonable compensation without reappraising evidence Tribunals should follow the Sarla Verma/Pranay Sethi methodology (Davies method) for Section 166 claims Section 166 Motor Vehicles Act Section 163A Motor Vehicles Act Section 168 Motor Vehicles Act Section 149(2) Motor Vehicles Act Section 158(6) Motor Vehicles Act Section 169 Motor Vehicles Act Order XLI Rule 33 Civil Procedure Code Section 168(2) Motor Vehicles Act Section 220A U.P. Motor Vehicles Rules, 1998 National Insurance Company Ltd. vs Pranay Sethi and Others, (2017) (Constitution Bench) Smt. Sarla Verma and Ors. vs Delhi Transport Corporation and Another, (2009) 6 SCC 121 Reshma Kumari and others vs Madan Mohan and Another, 2013 (9) SCC 65 New India Assurance Co. Ltd. vs Charlie, [2005 (10) SCC 720] TN State Road Transport Corporation Ltd. vs Rajapriya, [2005 (6) SCC 236] UP State Road Transport Corporation vs Krishna Bala, [2006 (6) SCC 249] Sandhya Rani Debbarma vs National Insurance Ltd., (2016) 16 SCC 206 Munna Lal Jain vs Vipin Kumar Sharma and others, 2015 (6) SCC 347 Rajesh and others vs Rajbir and others, 2013 (9) SCC 54 Jitendra Khimshankar Trivedi & Ors vs Kasam Daud Kumbhar & Ors, 2015 (4) SCC 237 United India Insurance Co. Ltd. v. Shila Datta, (2011) 10 SCC 509 Nagappa vs Gurudayal Singh & Ors., 2003 2 SCC 274 Oriental Insurance Company Ltd. vs Mohd. Nasir & Anr., 2009 6 SCC 280 Ningamma & Anr. vs United India Insurance Company Ltd., 2009 13 SCC 710 Kalpanaraj and others vs Tamil Nadu State Transport Corporation, 2014 (3) TAC 707 (SC)"
+}

@@ -1,0 +1,85 @@
+{
+  "doc_id": "doc_033",
+  "case_name": "Satto & Ors vs New India Assurance Co Ltd on 6 September, 2013",
+  "court": "High Court of Delhi at New Delhi",
+  "year": 2013,
+  "judgment_date": "6th September, 2013",
+  "citation": "MAC.APP. 138/2011, 143/2011, 744/2011 & 30/2012",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": true,
+  "insurance_contested_liability": true,
+  "pay_and_recover_applied": true,
+  "involves_death": true,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "Harpal Singh (for deceased Naresh Kumar @ Setu): Rs.4,38,000/-; Satto (for deceased Naresh Kumar son of Kashmira): Rs.3,75,000/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Naresh Kumar @ Setu (deceased) - son of Harpal Singh",
+      "claim_type": "death",
+      "tribunal_amount": "Rs.4,24,000/-",
+      "final_amount": "Rs.4,38,000/-",
+      "interest": "7.5% p.a. on the enhanced amount of Rs.14,000/- as awarded by the Claims Tribunal",
+      "notes": "Enhanced amount of Rs.14,000/- to be released on deposit; overall award increased from Rs.4,24,000/- to Rs.4,38,000/-."
+    },
+    {
+      "claimant_or_victim": "Naresh Kumar (deceased) - son of Kashmira (Claimant Satto)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs.2,24,500/-",
+      "final_amount": "Rs.3,75,000/-",
+      "interest": "7.5% p.a. on the enhanced amount of Rs.1,50,500/- as awarded by the Claims Tribunal",
+      "notes": "50% of the enhanced compensation to be held in Fixed Deposit for one year; rest 50% to be released on deposit."
+    },
+    {
+      "claimant_or_victim": "Three injured claimants (combined)",
+      "claim_type": "injury",
+      "tribunal_amount": null,
+      "final_amount": null,
+      "interest": null,
+      "notes": "Compensation in respect of three injury cases was paid by the New India Assurance Company and not appealed; specific amounts are not stated in this judgment."
+    }
+  ],
+  "facts": "On the night intervening 11-12 September 2005 a tempo (No. UP-12K-5797) capsized near Harijan Basti, Bhalasva, Outer Ring Road after a tyre burst. Five persons travelling in the tempo included two who died and three who were injured. Five separate claim petitions were filed; three injury claims were paid by the insurer, and two death claims proceeded to appeal. FIR No.611/2005 was registered under Sections 279/337/304-A IPC against the driver Sunil Kumar.",
+  "arguments_claimant": "Claimants alleged the deceased were owners/authorized representatives of the goods (guava) being transported and were travelling inside the cabin, thus covered by the policy. They argued insurer's liability to third parties is statutory and the Claims Tribunal correctly made the insurer initially liable and granted recovery rights. They also contended the Tribunal's quantum was inadequate and sought enhancement.",
+  "arguments_respondent": "The Insurance Company argued the deceased were gratuitous passengers (or were sitting on top), denying coverage. It further contended the driver did not possess a valid licence for driving a commercial goods vehicle (only an LMV non-transport licence), constituting breach of policy conditions and absolving the insurer of liability. The insurer also challenged the quantum as excessive.",
+  "ratio_decidendi": "\"As per Section 149(2) of the Motor Vehicles Act (the Act), an insurer is entitled to defend the action on the grounds as mentioned under Section 149(2)(a)(i)(ii) of the Act. Thus, the onus is on the insurer to prove that there is breach of the condition of the policy. It is well settled that the breach must be conscious and willful. Even if a conscious breach on the part of the insured is established, still the insurer has a statutory liability to pay the compensation to the third party and will simply have the right to recover the same from the insured/tortfeasor either in the same proceedings or by independent proceedings as the case may be, as ordered by the Claims Tribunal or the Court.\" The court applied these principles to hold that the insurer must satisfy the award initially but is entitled to recover from the owner/driver without instituting independent civil proceedings.",
+  "final_order": "Appeals disposed. The Tribunal award for Harpal Singh (MAC APP.30/2012) enhanced from Rs.4,24,000/- to Rs.4,38,000/- (enhanced Rs.14,000/- carrying 7.5% p.a. interest); the award for Satto (MAC APP.744/2011) increased from Rs.2,24,500/- to Rs.3,75,000/- (enhanced Rs.1,50,500/- carrying 7.5% p.a. interest). The New India Assurance Company is statutorily liable to satisfy the awards but may recover amounts from the owner/driver in execution of this judgment.",
+  "summary": "This is a Delhi High Court motor-accident appeal arising from a tempo capsizing on 11-12 Sept 2005 causing two deaths and three injuries. The court held that insurer's liability to third parties is statutory and, even if there was a willful breach (driver lacking a valid licence for a commercial vehicle), the insurer must initially pay the claim but can recover from the owner/driver. The High Court enhanced the death awards to Rs.4,38,000 and Rs.3,75,000 respectively and directed release/deposit arrangements for the enhanced amounts. The insurer's right of recovery from insured/driver was preserved and may be pursued in execution.",
+  "embedding_summary": "Satto & Ors v. New India Assurance Co Ltd, High Court of Delhi, 2013 (MAC.APP.138/2011, 143/2011, 744/2011 & 30/2012). Motor accident on night of 11-12 Sept 2005 near Outer Ring Road: tempo No. UP-12K-5797 (goods vehicle) capsized after tyre burst; two fatalities (Naresh Kumar @ Setu; Naresh Kumar son of Kashmira) and three injured. Issues: whether deceased were owners/representatives of goods (covered), whether driver held valid licence (certificate showed LMV non-transport only), insurer's statutory liability under Motor Vehicles Act (Section 149(2)), and quantum of compensation (future prospects/additions). Court applied doctrine that \"the breach must be conscious and willful\" but insurer has \"statutory liability to pay the compensation to the third party\" and \"will simply have the right to recover the same from the insured/tortfeasor\" (pay-and-recover). Awards enhanced to Rs.4,38,000 and Rs.3,75,000; insurer to pay but may recover from owner/driver without independent proceedings. Key cited authorities: Skandia (1987) 2 SCC 654; Sohan Lal Passi (1996) 5 SCC 21; Swaran Singh (2004) 3 SCC 297; Anjana Shyam (2007) 7 SCC 445; Kamla (2001) 4 SCC 342; Lehru (2003) 3 SCC 338.",
+  "legal_principles": [
+    "Statutory liability of insurer to third parties under Motor Vehicles Act (must satisfy decree even if policy condition breached)",
+    "Breach of policy must be \"conscious and willful\" to found recovery rights against insured",
+    "Pay-and-recover doctrine: insurer pays victim and may recover from owner/driver in same execution proceedings",
+    "Insurer entitled to recover amounts paid from owner/driver where driver lacked valid licence for vehicle class",
+    "Liability limited by vehicle carrying capacity (pro rata distribution among excess passengers) as per Anjana Shyam",
+    "Future prospects/addition rules: Reshma Kumari binding; no future prospects addition for temporary/self-employed unless subsequent authority (Rajesh) applies"
+  ],
+  "sections_cited": [
+    "Section 149(2) Motor Vehicles Act 1988",
+    "Section 147 Motor Vehicles Act 1988",
+    "Section 6 of the Motor Vehicles (Amendment) Act, 1994",
+    "Chapter XI Motor Vehicles Act 1988",
+    "Order XII Rule 8 CPC",
+    "Sections 279, 337, 304-A IPC"
+  ],
+  "cases_cited": [
+    "Skandia Insurance Company Limited v. Kokilaben Chandravadan, (1987) 2 SCC 654",
+    "Sohan Lal Passi v. P. Sesh Reddy, (1996) 5 SCC 21",
+    "New India Assurance Co., Shimla v. Kamla and Ors., (2001) 4 SCC 342",
+    "United India Insurance Company Ltd. v. Lehru & Ors., (2003) 3 SCC 338",
+    "National Insurance Company Limited v. Swaran Singh & Ors., (2004) 3 SCC 297",
+    "National Insurance Co. Ltd. v. Anjana Shyam & Ors., (2007) 7 SCC 445",
+    "National Insurance Co. Ltd. v. Kusum Rai & Ors., (2006) 4 SCC 250",
+    "National Insurance Co. Ltd. v. Cholleti Bharatamma, (2008) 1 SCC 423",
+    "New India Assurance Co. Ltd. v. Asha Rani, (2003) 2 SCC 223",
+    "Reshma Kumari & Ors. v. Madan Mohan & Anr., 2013 (5) SCALE 160",
+    "Rajesh & Ors. v. Rajbir Singh & Ors., 2013 (6) SCALE 563",
+    "Sarla Verma (Smt.) & Ors. v. Delhi Transport Corporation & Anr., (2009) 6 SCC 121",
+    "Santosh Devi v. National Insurance Company Ltd. & Ors., 2012 (6) SCC 421",
+    "Union of India & Ors. v. S.K. Kapoor, (2011) 4 SCC 589",
+    "National Insurance Company v. Farzana & Ors., 2009 ACJ 2763"
+  ],
+  "bm25_text": "Satto & Ors vs New India Assurance Co Ltd on 6 September, 2013 High Court of Delhi at New Delhi 2013 On the night intervening 11-12 September 2005 a tempo (No. UP-12K-5797) capsized near Harijan Basti, Bhalasva, Outer Ring Road after a tyre burst. Five persons travelling in the tempo included two who died and three who were injured. Five separate claim petitions were filed; three injury claims were paid by the insurer, and two death claims proceeded to appeal. FIR No.611/2005 was registered under Sections 279/337/304-A IPC against the driver Sunil Kumar. Claimants alleged the deceased were owners/authorized representatives of the goods (guava) being transported and were travelling inside the cabin, thus covered by the policy. They argued insurer's liability to third parties is statutory and the Claims Tribunal correctly made the insurer initially liable and granted recovery rights. They also contended the Tribunal's quantum was inadequate and sought enhancement. The Insurance Company argued the deceased were gratuitous passengers (or were sitting on top), denying coverage. It further contended the driver did not possess a valid licence for driving a commercial goods vehicle (only an LMV non-transport licence), constituting breach of policy conditions and absolving the insurer of liability. The insurer also challenged the quantum as excessive. \"As per Section 149(2) of the Motor Vehicles Act (the Act), an insurer is entitled to defend the action on the grounds as mentioned under Section 149(2)(a)(i)(ii) of the Act. Thus, the onus is on the insurer to prove that there is breach of the condition of the policy. It is well settled that the breach must be conscious and willful. Even if a conscious breach on the part of the insured is established, still the insurer has a statutory liability to pay the compensation to the third party and will simply have the right to recover the same from the insured/tortfeasor either in the same proceedings or by independent proceedings as the case may be, as ordered by the Claims Tribunal or the Court.\" The court applied these principles to hold that the insurer must satisfy the award initially but is entitled to recover from the owner/driver without instituting independent civil proceedings. Appeals disposed. The Tribunal award for Harpal Singh (MAC APP.30/2012) enhanced from Rs.4,24,000/- to Rs.4,38,000/- (enhanced Rs.14,000/- carrying 7.5% p.a. interest); the award for Satto (MAC APP.744/2011) increased from Rs.2,24,500/- to Rs.3,75,000/- (enhanced Rs.1,50,500/- carrying 7.5% p.a. interest). The New India Assurance Company is statutorily liable to satisfy the awards but may recover amounts from the owner/driver in execution of this judgment. This is a Delhi High Court motor-accident appeal arising from a tempo capsizing on 11-12 Sept 2005 causing two deaths and three injuries. The court held that insurer's liability to third parties is statutory and, even if there was a willful breach (driver lacking a valid licence for a commercial vehicle), the insurer must initially pay the claim but can recover from the owner/driver. The High Court enhanced the death awards to Rs.4,38,000 and Rs.3,75,000 respectively and directed release/deposit arrangements for the enhanced amounts. The insurer's right of recovery from insured/driver was preserved and may be pursued in execution. Satto & Ors v. New India Assurance Co Ltd, High Court of Delhi, 2013 (MAC.APP.138/2011, 143/2011, 744/2011 & 30/2012). Motor accident on night of 11-12 Sept 2005 near Outer Ring Road: tempo No. UP-12K-5797 (goods vehicle) capsized after tyre burst; two fatalities (Naresh Kumar @ Setu; Naresh Kumar son of Kashmira) and three injured. Issues: whether deceased were owners/representatives of goods (covered), whether driver held valid licence (certificate showed LMV non-transport only), insurer's statutory liability under Motor Vehicles Act (Section 149(2)), and quantum of compensation (future prospects/additions). Court applied doctrine that \"the breach must be conscious and willful\" but insurer has \"statutory liability to pay the compensation to the third party\" and \"will simply have the right to recover the same from the insured/tortfeasor\" (pay-and-recover). Awards enhanced to Rs.4,38,000 and Rs.3,75,000; insurer to pay but may recover from owner/driver without independent proceedings. Key cited authorities: Skandia (1987) 2 SCC 654; Sohan Lal Passi (1996) 5 SCC 21; Swaran Singh (2004) 3 SCC 297; Anjana Shyam (2007) 7 SCC 445; Kamla (2001) 4 SCC 342; Lehru (2003) 3 SCC 338. Naresh Kumar @ Setu (deceased) - son of Harpal Singh Rs.4,24,000/- Rs.4,38,000/- 7.5% p.a. on the enhanced amount of Rs.14,000/- as awarded by the Claims Tribunal Enhanced amount of Rs.14,000/- to be released on deposit; overall award increased from Rs.4,24,000/- to Rs.4,38,000/-. Naresh Kumar (deceased) - son of Kashmira (Claimant Satto) Rs.2,24,500/- Rs.3,75,000/- 7.5% p.a. on the enhanced amount of Rs.1,50,500/- as awarded by the Claims Tribunal 50% of the enhanced compensation to be held in Fixed Deposit for one year; rest 50% to be released on deposit. Three injured claimants (combined) Compensation in respect of three injury cases was paid by the New India Assurance Company and not appealed; specific amounts are not stated in this judgment. Statutory liability of insurer to third parties under Motor Vehicles Act (must satisfy decree even if policy condition breached) Breach of policy must be \"conscious and willful\" to found recovery rights against insured Pay-and-recover doctrine: insurer pays victim and may recover from owner/driver in same execution proceedings Insurer entitled to recover amounts paid from owner/driver where driver lacked valid licence for vehicle class Liability limited by vehicle carrying capacity (pro rata distribution among excess passengers) as per Anjana Shyam Future prospects/addition rules: Reshma Kumari binding; no future prospects addition for temporary/self-employed unless subsequent authority (Rajesh) applies Section 149(2) Motor Vehicles Act 1988 Section 147 Motor Vehicles Act 1988 Section 6 of the Motor Vehicles (Amendment) Act, 1994 Chapter XI Motor Vehicles Act 1988 Order XII Rule 8 CPC Sections 279, 337, 304-A IPC Skandia Insurance Company Limited v. Kokilaben Chandravadan, (1987) 2 SCC 654 Sohan Lal Passi v. P. Sesh Reddy, (1996) 5 SCC 21 New India Assurance Co., Shimla v. Kamla and Ors., (2001) 4 SCC 342 United India Insurance Company Ltd. v. Lehru & Ors., (2003) 3 SCC 338 National Insurance Company Limited v. Swaran Singh & Ors., (2004) 3 SCC 297 National Insurance Co. Ltd. v. Anjana Shyam & Ors., (2007) 7 SCC 445 National Insurance Co. Ltd. v. Kusum Rai & Ors., (2006) 4 SCC 250 National Insurance Co. Ltd. v. Cholleti Bharatamma, (2008) 1 SCC 423 New India Assurance Co. Ltd. v. Asha Rani, (2003) 2 SCC 223 Reshma Kumari & Ors. v. Madan Mohan & Anr., 2013 (5) SCALE 160 Rajesh & Ors. v. Rajbir Singh & Ors., 2013 (6) SCALE 563 Sarla Verma (Smt.) & Ors. v. Delhi Transport Corporation & Anr., (2009) 6 SCC 121 Santosh Devi v. National Insurance Company Ltd. & Ors., 2012 (6) SCC 421 Union of India & Ors. v. S.K. Kapoor, (2011) 4 SCC 589 National Insurance Company v. Farzana & Ors., 2009 ACJ 2763"
+}

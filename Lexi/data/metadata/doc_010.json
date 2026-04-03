@@ -1,0 +1,86 @@
+{
+  "doc_id": "doc_010",
+  "case_name": "Raju Gupta S/O Sh. Madan Mohan Gupta vs Himachal Road on 8 October, 2018",
+  "court": "Motor Accident Claims Tribunal (Pilot Court) Karkardooma Courts, Delhi.",
+  "year": 2018,
+  "judgment_date": "08.10.2018",
+  "citation": "DAR Nos. 153/16, 154/16 & 155/16",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": false,
+  "pay_and_recover_applied": false,
+  "involves_death": false,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "Raju Gupta: Rs. 5,33,033/-; Neelam: Rs. 15,000/-; Satish Kumar: Rs. 15,000/-; Total: Rs. 5,63,033/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Raju Gupta",
+      "claim_type": "injury",
+      "tribunal_amount": null,
+      "final_amount": "Rs. 5,33,033/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "Award includes future loss of income, pain & suffering, loss of amenities, attendant charges, conveyance & medical bills; some amount placed in FDRs."
+    },
+    {
+      "claimant_or_victim": "Neelam (W/o Satish Kumar)",
+      "claim_type": "injury",
+      "tribunal_amount": null,
+      "final_amount": "Rs. 15,000/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "Simple injury award; no loss of wages proved."
+    },
+    {
+      "claimant_or_victim": "Satish Kumar",
+      "claim_type": "injury",
+      "tribunal_amount": null,
+      "final_amount": "Rs. 15,000/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "Simple injury award; no loss of wages proved."
+    }
+  ],
+  "facts": "On 15.02.2016 at about 2 AM an auto (DL 1 RM 0893) carrying passengers was being driven rashly and collided with a standing truck (HR55F2507) at Wazirabad Road in front of Sonia Vihar Water Plant, Delhi. Multiple passengers (petitioners Raju Gupta, Neelam and Satish Kumar) sustained injuries and FIR No. 155/16 was lodged at PS Khajoori Khas for offences under IPC 279/337/338. Petitioners filed three connected DAR petitions (Nos. 153/16, 154/16 & 155/16) claiming compensation under the Motor Vehicles Act. Respondents denied involvement; respondent No.3 (insurance company) admitted a valid policy for the offending vehicle.",
+  "arguments_claimant": "Claimants pleaded they sustained injuries in the accident, produced medical records and bills, and in Raju's case a disability certificate showing 37% physical disability. Raju claimed he earned Rs.20,000/month though produced no income proof; claimants sought compensation for medical expenses, loss of wages, future loss of earnings, pain and suffering, attendant charges and loss of amenities.",
+  "arguments_respondent": "Respondent Nos.1 and 2 denied the averments and involvement in the accident, contending false implication; they produced GPS tracking evidence. Respondent No.3 (insurer) in written statement admitted the insurance policy was valid and did not establish any breach of policy terms; respondents also argued lack of proof of income for claims of loss of earnings.",
+  "ratio_decidendi": "The Tribunal held that 'To succeed in the claim petitions in view of Section 166 of the MV Act, it is for the claimant to prove that vehicle which caused the accident was being driven rashly and negligently by its driver.' The court applied the standard that claimants need establish their case on the 'touchstone of preponderance of probability' and that 'the standard of proof beyond reasonable doubt could not have been applied.' Relying on Raj Kumar v. Ajay Kumar & Anr. the Tribunal reiterated that 'the award must be just' and compensation should 'fully and adequately restore the claimant to the position prior to the accident' and be assessed under the accepted heads (pecuniary and non-pecuniary). Applying these principles to the facts, the Tribunal found the testimony, FIR and criminal record prima facie established negligence, assessed permanent/functional disability at 20% for Raju and applied multiplier and heads (future loss, pain & suffering, attendant charges etc.) to arrive at the award.",
+  "final_order": "All three DAR petitions were allowed. Insurance company was directed to pay Rs. 5,33,033/- to Raju Gupta within one month with interest @9% p.a. from date of filing and to deposit the amount with UCO Bank (with Rs.4,00,000/- kept in four FDRs). Insurance company was directed to pay Rs.15,000/- each to Neelam and Satish Kumar within one month with interest @9% p.a.",
+  "summary": "This is a MACT award (DAR Nos.153/16,154/16 &155/16) arising from a collision on 15.02.2016 in Sonia Vihar, Delhi where an auto hit a standing truck and several passengers were injured. The Tribunal held negligence was established on preponderance of probability, accepted medical evidence (including a 37% disability certificate for Raju) and awarded Rs.5,33,033 to Raju (various heads) and Rs.15,000 each to the other two claimants, with interest @9% per annum, payable by the insurer who admitted the policy. Practical outcome: insurer liable to pay the awards; part of large award for Raju placed in FDRs for protection.",
+  "embedding_summary": "DAR Nos. 153/16, 154/16 & 155/16 (Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, 2018) — Petitioners Raju Gupta, Neelam (W/o Satish) and Satish Kumar injured on 15.02.2016 at about 2 AM when auto DL1RM0893 allegedly driven rashly collided with standing truck HR55F2507 at Wazirabad Road/Sonia Vihar. FIR No.155/16 (IPC 279/337/338) and criminal record relied on; GPS tracking report produced by respondents. Key legal issues: negligence proof under Section 166 Motor Vehicles Act 1988 on 'preponderance of probability', assessment of permanent disability (functional disability 20% for Raju), multiplier method for future loss, and insurer liability where policy valid. Outcome: insurer directed to pay Raju Rs.5,33,033 (with part in FDRs) and Neelam and Satish Rs.15,000 each; interest @9% p.a. from filing. Cases relied on include Bimla Devi v. HRTC (2009), Raj Kumar v. Ajay Kumar (2011) 1 SCC 343, Kaushnumma Begum (2001 ACJ 421 SC), and various Delhi High Court and SC authorities on compensation principles.",
+  "legal_principles": [
+    "Claimant must prove rashness/negligence under Section 166 MV Act on preponderance of probability",
+    "Tribunal may rely on FIR/charge-sheet/criminal record and need not apply criminal standard of proof",
+    "Assessment of future loss: determine permanent disability, translate to percentage loss of earning capacity (not automatically equal), apply multiplier method",
+    "Where insurer admits valid policy and no policy breach is proved insurer is liable to pay compensation",
+    "Courts may order part of award to be kept in FDRs for protection of claimant and permit staggered release",
+    "Interest on award to be paid by insurer from date of filing until realization"
+  ],
+  "sections_cited": [
+    "Section 166 Motor Vehicles Act 1988",
+    "Section 140 Motor Vehicles Act 1988",
+    "Section 279 IPC",
+    "Section 337 IPC",
+    "Section 338 IPC",
+    "Motor Vehicles Act 1988"
+  ],
+  "cases_cited": [
+    "Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530",
+    "Parmeshwari v. Amir Chand, (2011) 11 SCC 635",
+    "Kusum Lata v. Satbir, (2011) 3 SCC 646",
+    "United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2) T.A.C. 846 (Del.)",
+    "Cholamandalam M.S. General Insurance Co. Ltd. v. Kamlesh, 2009 (3) AD (Delhi) 310",
+    "National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287",
+    "Kaushnumma Begum and others v. New India Assurance Company Limited, 2001 ACJ 421 SC",
+    "Raj Kumar v. Ajay Kumar & Anr., (2011) 1 SCC 343",
+    "National Insurance Company Ltd. Vs. Pranay Sethi and Ors. (SLP (C) No.25590/2014)",
+    "New India Assurance Co. Ltd. Vs. Gopali & Ors., 2012 ACJ 2131 SC",
+    "Jiju Kuruvila & Ors. Vs. Kunjujamma Mohan & Ors., 2013 ACJ 2141 SC",
+    "Puttamma Vs. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 SC",
+    "C. K. Subramonia Iyer v. T. Kunhikuttan Nair, AIR 1970 SC 375",
+    "R.D. Hattangadi v. Pest Control (India) Ltd., 1995 (1) SCC 551",
+    "Baker v. Willoughby, 1970 AC 467",
+    "Delhi Transport Corporation and Anr. v. Lalita, AIR 1981 Delhi 558"
+  ],
+  "bm25_text": "Raju Gupta S/O Sh. Madan Mohan Gupta vs Himachal Road on 8 October, 2018 Motor Accident Claims Tribunal (Pilot Court) Karkardooma Courts, Delhi. 2018 On 15.02.2016 at about 2 AM an auto (DL 1 RM 0893) carrying passengers was being driven rashly and collided with a standing truck (HR55F2507) at Wazirabad Road in front of Sonia Vihar Water Plant, Delhi. Multiple passengers (petitioners Raju Gupta, Neelam and Satish Kumar) sustained injuries and FIR No. 155/16 was lodged at PS Khajoori Khas for offences under IPC 279/337/338. Petitioners filed three connected DAR petitions (Nos. 153/16, 154/16 & 155/16) claiming compensation under the Motor Vehicles Act. Respondents denied involvement; respondent No.3 (insurance company) admitted a valid policy for the offending vehicle. Claimants pleaded they sustained injuries in the accident, produced medical records and bills, and in Raju's case a disability certificate showing 37% physical disability. Raju claimed he earned Rs.20,000/month though produced no income proof; claimants sought compensation for medical expenses, loss of wages, future loss of earnings, pain and suffering, attendant charges and loss of amenities. Respondent Nos.1 and 2 denied the averments and involvement in the accident, contending false implication; they produced GPS tracking evidence. Respondent No.3 (insurer) in written statement admitted the insurance policy was valid and did not establish any breach of policy terms; respondents also argued lack of proof of income for claims of loss of earnings. The Tribunal held that 'To succeed in the claim petitions in view of Section 166 of the MV Act, it is for the claimant to prove that vehicle which caused the accident was being driven rashly and negligently by its driver.' The court applied the standard that claimants need establish their case on the 'touchstone of preponderance of probability' and that 'the standard of proof beyond reasonable doubt could not have been applied.' Relying on Raj Kumar v. Ajay Kumar & Anr. the Tribunal reiterated that 'the award must be just' and compensation should 'fully and adequately restore the claimant to the position prior to the accident' and be assessed under the accepted heads (pecuniary and non-pecuniary). Applying these principles to the facts, the Tribunal found the testimony, FIR and criminal record prima facie established negligence, assessed permanent/functional disability at 20% for Raju and applied multiplier and heads (future loss, pain & suffering, attendant charges etc.) to arrive at the award. All three DAR petitions were allowed. Insurance company was directed to pay Rs. 5,33,033/- to Raju Gupta within one month with interest @9% p.a. from date of filing and to deposit the amount with UCO Bank (with Rs.4,00,000/- kept in four FDRs). Insurance company was directed to pay Rs.15,000/- each to Neelam and Satish Kumar within one month with interest @9% p.a. This is a MACT award (DAR Nos.153/16,154/16 &155/16) arising from a collision on 15.02.2016 in Sonia Vihar, Delhi where an auto hit a standing truck and several passengers were injured. The Tribunal held negligence was established on preponderance of probability, accepted medical evidence (including a 37% disability certificate for Raju) and awarded Rs.5,33,033 to Raju (various heads) and Rs.15,000 each to the other two claimants, with interest @9% per annum, payable by the insurer who admitted the policy. Practical outcome: insurer liable to pay the awards; part of large award for Raju placed in FDRs for protection. DAR Nos. 153/16, 154/16 & 155/16 (Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, 2018) — Petitioners Raju Gupta, Neelam (W/o Satish) and Satish Kumar injured on 15.02.2016 at about 2 AM when auto DL1RM0893 allegedly driven rashly collided with standing truck HR55F2507 at Wazirabad Road/Sonia Vihar. FIR No.155/16 (IPC 279/337/338) and criminal record relied on; GPS tracking report produced by respondents. Key legal issues: negligence proof under Section 166 Motor Vehicles Act 1988 on 'preponderance of probability', assessment of permanent disability (functional disability 20% for Raju), multiplier method for future loss, and insurer liability where policy valid. Outcome: insurer directed to pay Raju Rs.5,33,033 (with part in FDRs) and Neelam and Satish Rs.15,000 each; interest @9% p.a. from filing. Cases relied on include Bimla Devi v. HRTC (2009), Raj Kumar v. Ajay Kumar (2011) 1 SCC 343, Kaushnumma Begum (2001 ACJ 421 SC), and various Delhi High Court and SC authorities on compensation principles. Raju Gupta Rs. 5,33,033/- 9% p.a. from date of filing of petition till realization Award includes future loss of income, pain & suffering, loss of amenities, attendant charges, conveyance & medical bills; some amount placed in FDRs. Neelam (W/o Satish Kumar) Rs. 15,000/- 9% p.a. from date of filing of petition till realization Simple injury award; no loss of wages proved. Satish Kumar Rs. 15,000/- 9% p.a. from date of filing of petition till realization Simple injury award; no loss of wages proved. Claimant must prove rashness/negligence under Section 166 MV Act on preponderance of probability Tribunal may rely on FIR/charge-sheet/criminal record and need not apply criminal standard of proof Assessment of future loss: determine permanent disability, translate to percentage loss of earning capacity (not automatically equal), apply multiplier method Where insurer admits valid policy and no policy breach is proved insurer is liable to pay compensation Courts may order part of award to be kept in FDRs for protection of claimant and permit staggered release Interest on award to be paid by insurer from date of filing until realization Section 166 Motor Vehicles Act 1988 Section 140 Motor Vehicles Act 1988 Section 279 IPC Section 337 IPC Section 338 IPC Motor Vehicles Act 1988 Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530 Parmeshwari v. Amir Chand, (2011) 11 SCC 635 Kusum Lata v. Satbir, (2011) 3 SCC 646 United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2) T.A.C. 846 (Del.) Cholamandalam M.S. General Insurance Co. Ltd. v. Kamlesh, 2009 (3) AD (Delhi) 310 National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287 Kaushnumma Begum and others v. New India Assurance Company Limited, 2001 ACJ 421 SC Raj Kumar v. Ajay Kumar & Anr., (2011) 1 SCC 343 National Insurance Company Ltd. Vs. Pranay Sethi and Ors. (SLP (C) No.25590/2014) New India Assurance Co. Ltd. Vs. Gopali & Ors., 2012 ACJ 2131 SC Jiju Kuruvila & Ors. Vs. Kunjujamma Mohan & Ors., 2013 ACJ 2141 SC Puttamma Vs. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 SC C. K. Subramonia Iyer v. T. Kunhikuttan Nair, AIR 1970 SC 375 R.D. Hattangadi v. Pest Control (India) Ltd., 1995 (1) SCC 551 Baker v. Willoughby, 1970 AC 467 Delhi Transport Corporation and Anr. v. Lalita, AIR 1981 Delhi 558"
+}

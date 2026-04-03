@@ -1,0 +1,100 @@
+{
+  "doc_id": "doc_021",
+  "case_name": "Both R/O E−365 vs Naseem",
+  "court": "Motor Accident Claims Tribunal(Pilot Court) Karkardooma Courts, Delhi.",
+  "year": 2018,
+  "judgment_date": "16.04.2018",
+  "citation": "MACT Nos. 14615/15, 15128/15, 15129/15 & 15182/15",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": false,
+  "pay_and_recover_applied": false,
+  "involves_death": true,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "Rs. 9,51,613/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Shaksham Shukla (deceased)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 6,53,334/-",
+      "final_amount": "Rs. 6,53,334/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "Amount Rs. 5,00,000 kept in five FDRs for petitioner No.2; balance to petitioner No.2's savings account as ordered."
+    },
+    {
+      "claimant_or_victim": "Anushka Shukla (injured, minor about 6 years)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 88,663/-",
+      "final_amount": "Rs. 88,663/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "Includes medical bills, pain & suffering, attendant and special diet/conveyance lumpsums."
+    },
+    {
+      "claimant_or_victim": "Meena Shukla (injured)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 1,83,444/-",
+      "final_amount": "Rs. 1,83,444/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "Includes medical bills, pain & suffering and loss of wages for three months."
+    },
+    {
+      "claimant_or_victim": "Vansh Shukla (injured)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 26,172/-",
+      "final_amount": "Rs. 26,172/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "Awarded for medical bills and simple injury (lump sum)."
+    }
+  ],
+  "facts": "On 09.06.2015 at about 5:45 hrs on NH-24 near Village Kotra (PS Praswa), a high-speed truck (No. UP 27 5376) coming from opposite side hit a Wagon R (No. DL 2 CAL 3562). The collision resulted in the death of five-year-old Shaksham Shukla and grievous/simple injuries to Anushka Shukla, Meena Shukla and Vansh Shukla. FIR No.16/15 was registered under sections 279/337/338/304A/427 IPC. Petitioners filed four connected MACT claims under Sections 166 and 140 of the Motor Vehicles Act seeking compensation from the driver/owner and the insurer.",
+  "arguments_claimant": "Claimants pleaded that the accident occurred due to the rash and negligent driving of the truck (UP 27 5376) and relied on FIR, criminal record and eyewitness affidavits to establish negligence. They sought compensation (death petition sought Rs. 50,00,000; injured petition claimed up to Rs. 20,00,000 in one instance) and relied on established MACT/Supreme Court principles for calculation of pecuniary and non-pecuniary loss, including the Delhi High Court formula for death of a child.",
+  "arguments_respondent": "Respondent No.1 (driver) proceeded ex parte. Respondent No.2 (owner) denied liability and contended there was no fault of its driver. Respondent No.3 (United India Insurance Co. Ltd.) filed a written statement admitting the vehicle was insured under policy No. 0805013114P107786597 valid from 31.12.2014 to 30.12.2015 and did not produce evidence of policy breach or other defenses to negate liability.",
+  "ratio_decidendi": "The Tribunal applied the preponderance standard for MACT claims, noting that \"the claimants were merely to establish their case on the touchstone of preponderance of probability. The standard of proof beyond reasonable doubt could not have been applied.\" For computation of compensation in the death of a child the Tribunal followed the Delhi High Court formula: that \"the notional income of non-earning persons (Rs. 15,000/- p.a) as specified in the second schedule ... shall be assumed to be the income of the deceased child, and taken into account after it is inflation corrected with the help of Cost Inflation Index (CII) ...\" and applying the formula \"Rs. 15,000/- X A / 331\". The Tribunal further applied the prescribed adjustments: rounding off to the next thousand, reducing the notional income \"to two-third, the deduction to the extent of one third being towards personal & living expenses\", applying the appropriate multiplier (ten for children up to age 10) and adding a similar sum as composite non-pecuniary damages.",
+  "final_order": "All four claim petitions are allowed. United India Insurance Co. Ltd. is directed to pay: Rs. 6,53,334/- (MACT No.14615/15), Rs. 88,663/- (MACT No.15128/15), Rs. 1,83,444/- (MACT No.15129/15) and Rs. 26,172/- (MACT No.15182/15) within one month with interest @ 9% p.a. from the date of filing of the petitions until realization; deposit and FDR directions for MACT No.14615/15 as ordered.",
+  "summary": "This MACT judgment (Karkardooma Courts, 16.04.2018) deals with four connected claims arising from a 09.06.2015 collision between a truck and a Wagon R that caused the death of a five-year-old child and injuries to three others. The Tribunal found negligence on the part of the truck driver on the preponderance of probabilities and held the insurer liable (policy admitted) to pay compensation. Compensation totaling Rs. 9,51,613/- was awarded across the four petitions with interest at 9% p.a. and specific deposit/FDR directions for the child-death award.",
+  "embedding_summary": "Both R/O E-365 vs Naseem, MACT Nos. 14615/15, 15128/15, 15129/15 & 15182/15, Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, decision dated 16.04.2018. Accident on 09.06.2015 on NH-24 Village Kotra: truck (UP 27 5376) collided with Wagon R (DL 2 CAL 3562) causing death of Shaksham Shukla (age ~5) and injuries to Anushka, Meena and Vansh. Claims filed under Section 166 & 140 MV Act; FIR and criminal records relied on to establish negligence on preponderance standard. Court applied Delhi High Court child-death formula: assume notional income Rs.15,000 p.a., inflation-correct via CII (Rs.15,000 x A/331), deduct one-third for personal expenses, apply multiplier (10 for <10 years) and add equal sum as composite non-pecuniary damages. Insurer (United India Insurance) held liable; final awards: Rs.6,53,334; Rs.88,663; Rs.1,83,444; Rs.26,172 (total Rs.9,51,613) with 9% p.a. interest and specific bank/FDR directions.",
+  "legal_principles": [
+    "Preponderance of probability standard for MACT claims (\"the claimants were merely to establish their case on the touchstone of preponderance of probability\").",
+    "Delhi High Court child-death compensation formula: assume notional income Rs.15,000 p.a., inflation-correct using CII (Rs.15,000 X A/331), reduce by one-third for personal expenses, apply appropriate multiplier (10 for children up to 10 years), and add an equal amount as composite non-pecuniary damages.",
+    "Insurer liable where valid policy exists and no evidence of policy breach was produced by insurer.",
+    "Award of interest at 9% p.a. from the date of filing until realization on MACT awards.",
+    "Lump-sum compensation permissible for attendant/household services even if services rendered gratuitously by family members."
+  ],
+  "sections_cited": [
+    "Section 166 Motor Vehicles Act, 1988",
+    "Section 140 Motor Vehicles Act, 1988",
+    "Section 163-A Motor Vehicles Act, 1988",
+    "Section 48 Income Tax Act, 1961",
+    "Section 279 IPC",
+    "Section 337 IPC",
+    "Section 338 IPC",
+    "Section 304A IPC",
+    "Section 427 IPC"
+  ],
+  "cases_cited": [
+    "Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530",
+    "Parmeshwari v. Amir Chand, (2011) 11 SCC 635",
+    "Kusum Lata v. Satbir, (2011) 3 SCC 646",
+    "United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2) T.A.C. 846 (Del.)",
+    "Cholamandalam M.S. General Insurance Co. Ltd. v. Kamlesh, 2009 (3) AD (Delhi) 310",
+    "National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287 (Delhi High Court)",
+    "Kaushnumma Begum & Ors. v. New India Assurance Co. Ltd., 2001 ACJ 421 SC",
+    "R. K. Malik v. Kiran Pal, 2009 (14) SCC 1",
+    "Nagappa v. Gurdayal Singh, 2003 (2) SCC 274",
+    "UP State Road Transport Corporation v. Trilok Chandra, (1996) 4 SCC 362",
+    "General Manager Kerala State Road Transport Corporation v. Susamma Thomas, (1994) 2 SCC 176",
+    "Sarla Verma v. DTC, (2009) 6 SCC 121",
+    "Raj Kumar v. Ajay Kumar & Anr., (2011) 1 SCC 343",
+    "C. K. Subramonia Iyer v. T. Kunhikuttan Nair, AIR 1970 SC 375",
+    "R.D. Hattangadi v. Pest Control (India) Ltd., 1995 (1) SCC 551",
+    "Baker v. Willoughby, 1970 AC 467",
+    "New India Assurance Co. Ltd. v. Gopali & Ors., 2012 ACJ 2131 SC",
+    "Jiju Kuruvila & Ors. v. Kunjujamma Mohan & Ors., 2013 ACJ 2141 SC",
+    "Puttamma v. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 SC",
+    "New India Assurance Company Limited v. Kashmiri Lal, 2007 ACJ 688 (Delhi High Court)"
+  ],
+  "bm25_text": "Both R/O E−365 vs Naseem Motor Accident Claims Tribunal(Pilot Court) Karkardooma Courts, Delhi. 2018 On 09.06.2015 at about 5:45 hrs on NH-24 near Village Kotra (PS Praswa), a high-speed truck (No. UP 27 5376) coming from opposite side hit a Wagon R (No. DL 2 CAL 3562). The collision resulted in the death of five-year-old Shaksham Shukla and grievous/simple injuries to Anushka Shukla, Meena Shukla and Vansh Shukla. FIR No.16/15 was registered under sections 279/337/338/304A/427 IPC. Petitioners filed four connected MACT claims under Sections 166 and 140 of the Motor Vehicles Act seeking compensation from the driver/owner and the insurer. Claimants pleaded that the accident occurred due to the rash and negligent driving of the truck (UP 27 5376) and relied on FIR, criminal record and eyewitness affidavits to establish negligence. They sought compensation (death petition sought Rs. 50,00,000; injured petition claimed up to Rs. 20,00,000 in one instance) and relied on established MACT/Supreme Court principles for calculation of pecuniary and non-pecuniary loss, including the Delhi High Court formula for death of a child. Respondent No.1 (driver) proceeded ex parte. Respondent No.2 (owner) denied liability and contended there was no fault of its driver. Respondent No.3 (United India Insurance Co. Ltd.) filed a written statement admitting the vehicle was insured under policy No. 0805013114P107786597 valid from 31.12.2014 to 30.12.2015 and did not produce evidence of policy breach or other defenses to negate liability. The Tribunal applied the preponderance standard for MACT claims, noting that \"the claimants were merely to establish their case on the touchstone of preponderance of probability. The standard of proof beyond reasonable doubt could not have been applied.\" For computation of compensation in the death of a child the Tribunal followed the Delhi High Court formula: that \"the notional income of non-earning persons (Rs. 15,000/- p.a) as specified in the second schedule ... shall be assumed to be the income of the deceased child, and taken into account after it is inflation corrected with the help of Cost Inflation Index (CII) ...\" and applying the formula \"Rs. 15,000/- X A / 331\". The Tribunal further applied the prescribed adjustments: rounding off to the next thousand, reducing the notional income \"to two-third, the deduction to the extent of one third being towards personal & living expenses\", applying the appropriate multiplier (ten for children up to age 10) and adding a similar sum as composite non-pecuniary damages. All four claim petitions are allowed. United India Insurance Co. Ltd. is directed to pay: Rs. 6,53,334/- (MACT No.14615/15), Rs. 88,663/- (MACT No.15128/15), Rs. 1,83,444/- (MACT No.15129/15) and Rs. 26,172/- (MACT No.15182/15) within one month with interest @ 9% p.a. from the date of filing of the petitions until realization; deposit and FDR directions for MACT No.14615/15 as ordered. This MACT judgment (Karkardooma Courts, 16.04.2018) deals with four connected claims arising from a 09.06.2015 collision between a truck and a Wagon R that caused the death of a five-year-old child and injuries to three others. The Tribunal found negligence on the part of the truck driver on the preponderance of probabilities and held the insurer liable (policy admitted) to pay compensation. Compensation totaling Rs. 9,51,613/- was awarded across the four petitions with interest at 9% p.a. and specific deposit/FDR directions for the child-death award. Both R/O E-365 vs Naseem, MACT Nos. 14615/15, 15128/15, 15129/15 & 15182/15, Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, decision dated 16.04.2018. Accident on 09.06.2015 on NH-24 Village Kotra: truck (UP 27 5376) collided with Wagon R (DL 2 CAL 3562) causing death of Shaksham Shukla (age ~5) and injuries to Anushka, Meena and Vansh. Claims filed under Section 166 & 140 MV Act; FIR and criminal records relied on to establish negligence on preponderance standard. Court applied Delhi High Court child-death formula: assume notional income Rs.15,000 p.a., inflation-correct via CII (Rs.15,000 x A/331), deduct one-third for personal expenses, apply multiplier (10 for <10 years) and add equal sum as composite non-pecuniary damages. Insurer (United India Insurance) held liable; final awards: Rs.6,53,334; Rs.88,663; Rs.1,83,444; Rs.26,172 (total Rs.9,51,613) with 9% p.a. interest and specific bank/FDR directions. Shaksham Shukla (deceased) Rs. 6,53,334/- Rs. 6,53,334/- 9% p.a. from date of filing of petition till realization Amount Rs. 5,00,000 kept in five FDRs for petitioner No.2; balance to petitioner No.2's savings account as ordered. Anushka Shukla (injured, minor about 6 years) Rs. 88,663/- Rs. 88,663/- 9% p.a. from date of filing of petition till realization Includes medical bills, pain & suffering, attendant and special diet/conveyance lumpsums. Meena Shukla (injured) Rs. 1,83,444/- Rs. 1,83,444/- 9% p.a. from date of filing of petition till realization Includes medical bills, pain & suffering and loss of wages for three months. Vansh Shukla (injured) Rs. 26,172/- Rs. 26,172/- 9% p.a. from date of filing of petition till realization Awarded for medical bills and simple injury (lump sum). Preponderance of probability standard for MACT claims (\"the claimants were merely to establish their case on the touchstone of preponderance of probability\"). Delhi High Court child-death compensation formula: assume notional income Rs.15,000 p.a., inflation-correct using CII (Rs.15,000 X A/331), reduce by one-third for personal expenses, apply appropriate multiplier (10 for children up to 10 years), and add an equal amount as composite non-pecuniary damages. Insurer liable where valid policy exists and no evidence of policy breach was produced by insurer. Award of interest at 9% p.a. from the date of filing until realization on MACT awards. Lump-sum compensation permissible for attendant/household services even if services rendered gratuitously by family members. Section 166 Motor Vehicles Act, 1988 Section 140 Motor Vehicles Act, 1988 Section 163-A Motor Vehicles Act, 1988 Section 48 Income Tax Act, 1961 Section 279 IPC Section 337 IPC Section 338 IPC Section 304A IPC Section 427 IPC Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530 Parmeshwari v. Amir Chand, (2011) 11 SCC 635 Kusum Lata v. Satbir, (2011) 3 SCC 646 United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2) T.A.C. 846 (Del.) Cholamandalam M.S. General Insurance Co. Ltd. v. Kamlesh, 2009 (3) AD (Delhi) 310 National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287 (Delhi High Court) Kaushnumma Begum & Ors. v. New India Assurance Co. Ltd., 2001 ACJ 421 SC R. K. Malik v. Kiran Pal, 2009 (14) SCC 1 Nagappa v. Gurdayal Singh, 2003 (2) SCC 274 UP State Road Transport Corporation v. Trilok Chandra, (1996) 4 SCC 362 General Manager Kerala State Road Transport Corporation v. Susamma Thomas, (1994) 2 SCC 176 Sarla Verma v. DTC, (2009) 6 SCC 121 Raj Kumar v. Ajay Kumar & Anr., (2011) 1 SCC 343 C. K. Subramonia Iyer v. T. Kunhikuttan Nair, AIR 1970 SC 375 R.D. Hattangadi v. Pest Control (India) Ltd., 1995 (1) SCC 551 Baker v. Willoughby, 1970 AC 467 New India Assurance Co. Ltd. v. Gopali & Ors., 2012 ACJ 2131 SC Jiju Kuruvila & Ors. v. Kunjujamma Mohan & Ors., 2013 ACJ 2141 SC Puttamma v. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 SC New India Assurance Company Limited v. Kashmiri Lal, 2007 ACJ 688 (Delhi High Court)"
+}

@@ -1,0 +1,99 @@
+{
+  "doc_id": "doc_006",
+  "case_name": "National Insurance Company Ltd. Thr. ... vs Smt. Meena And 4 Others",
+  "court": "High Court of Judicature at Allahabad, Lucknow Bench",
+  "year": 2024,
+  "judgment_date": "18 June 2024",
+  "citation": "2024:AHC-LKO:43597",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": true,
+  "insurance_contested_liability": true,
+  "pay_and_recover_applied": true,
+  "involves_death": true,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "partial",
+  "compensation_amount": "Rs. 13,74,876/- (plus 7% simple interest from date of filing until payment)",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Sundar Lal (deceased) / Claim Petition No.190 of 2009 - aggregate award to claimants",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 4,26,880/-",
+      "final_amount": "Rs. 13,74,876/-",
+      "interest": "7% simple interest from date of filing of the Claim Petition till actual payment",
+      "notes": "High Court modified Tribunal award and calculated loss of dependency with 30% future prospects and multiplier 13."
+    },
+    {
+      "claimant_or_victim": "Claimant No.1 Smt. Meena",
+      "claim_type": "death",
+      "tribunal_amount": null,
+      "final_amount": "Rs. 9,74,876/- (of which Rs. 2,00,000/- to be deposited in fixed deposit for two years)",
+      "interest": "7% simple interest from date of filing of the Claim Petition till actual payment",
+      "notes": "Receives residual share after specified distribution to other claimants."
+    },
+    {
+      "claimant_or_victim": "Claimant No.2 Mr. Surendra",
+      "claim_type": "death",
+      "tribunal_amount": null,
+      "final_amount": "Rs. 1,00,000/-",
+      "interest": "7% simple interest from date of filing of the Claim Petition till actual payment",
+      "notes": null
+    },
+    {
+      "claimant_or_victim": "Claimant No.3 Mr. Virendra",
+      "claim_type": "death",
+      "tribunal_amount": null,
+      "final_amount": "Rs. 1,00,000/-",
+      "interest": "7% simple interest from date of filing of the Claim Petition till actual payment",
+      "notes": null
+    },
+    {
+      "claimant_or_victim": "Claimant No.4 Renu",
+      "claim_type": "death",
+      "tribunal_amount": null,
+      "final_amount": "Rs. 2,00,000/-",
+      "interest": "7% simple interest from date of filing of the Claim Petition till actual payment",
+      "notes": null
+    }
+  ],
+  "facts": "On 12 May 2006 at about 7:00 A.M. Sundar Lal was riding a moped (Reg. No. UP-32-AB/8094) near Neelam Traders, Devpur Tara, Police Station Talkatora, District Lucknow when a tanker (Reg. No. UP32-T/6251) allegedly driven negligently collided with the moped. Sundar Lal was admitted from 12.5.2006 to 15.5.2006 and died of his injuries on 15.5.2006. Eye-witnesses including Ram Gopal (who was riding with the deceased and also injured) testified that the deceased was on the left side and not negligent. The claimants filed MACP No.190 of 2009 seeking Rs.30,00,000/- in compensation.",
+  "arguments_claimant": "Claimants argued that credible eyewitness evidence (P.W.-2 and others) established 100% negligence of the tanker driver and that the Tribunal erred in relying on the police site plan to find contributory negligence. They contended no deduction should be made for V.P.F. or festival advance and that 30% should be added to income for future prospects because the deceased was a government servant.",
+  "arguments_respondent": "The insurer argued the site plan (filed by claimants) showed a head-on collision, attracting contributory negligence of 50% to the deceased. The insurer also relied on precedent to argue it should be exonerated because the driver did not possess a valid driving licence, amounting to breach of policy conditions, and therefore the insurer cannot be held liable to pay compensation.",
+  "ratio_decidendi": "The Court held that insurer liability cannot be denied automatically for absence/invalidity of driving licence where statutory and precedent law requires consideration of the 'main purpose' and 'fundamental breach' principles; quoting the Supreme Court in S. Iyyapan: \"Mere absence, fake or invalid driving licence or disqualification of the driver for driving at the relevant time, are not in themselves defences available to the insurer\" and that \"insurer is liable to pay compensation to the claimants and further it can recover the amount of compensation from the insured i.e. owner of the vehicle.\" The Court applied that principle here, noting the learned Tribunal had recorded that the driver did not possess a valid licence but had nevertheless directed insurer to pay with a right of recovery, and therefore dismissed the insurer's appeal: \"F.A.F.O. No. 148 of 2012 filed by the insurer is liable to be dismissed in the light of the law laid down by the Hon'ble Supreme Court in the case of S. Iyyapan (supra).\" Separately, on causation and contributory negligence the Court held that credible eyewitness testimony cannot be displaced by an unproved site plan: \"once there was consistent testimony of the P.W.-2 ... there was no occasion for the learned Tribunal to discard the testimony of P.W.-2 and hold the accident ... to be result of the contributory negligence on the basis of site plan/sketch which too nowhere provides that the accident in question was a head-on collision.\" Applying these principles, the Court found 100% negligence of the tanker driver and awarded full compensation payable by the insurer with right of recovery from the owner.",
+  "final_order": "F.A.F.O. No. 148 of 2012 (insurer's appeal) is dismissed. F.A.F.O. No. 123 of 2012 (claimants' appeal) is partly allowed: the Tribunal award is modified and the Claim Petition is allowed for Rs.13,74,876/- with 7% simple interest from date of filing till payment. The National Insurance Company Limited is directed to pay the amount within three months and is given the right to recover the amount from the vehicle owner Mr. Anil Kumar Gupta. Specified distribution among claimants is ordered (Claimants 2-4: Rs.100,000;100,000;200,000; remainder to Claimant No.1 with Rs.200,000 FD for two years).",
+  "summary": "This is an appeal from a Motor Accident Claims Tribunal award concerning a 2006 collision between a tanker and a moped in Lucknow in which the rider Sundar Lal died. The insurer appealed arguing the tanker driver lacked a valid licence and that a site plan showed a head-on collision attracting contributory negligence; claimants appealed on quantum and deductions. The High Court applied Supreme Court precedents (notably S. Iyyapan) to hold the insurer must pay compensation and can recover from the owner (pay-and-recover), found eyewitness evidence more reliable than the site plan and held the tanker driver 100% negligent. The Court awarded Rs.13,74,876 with 7% simple interest and directed insurer to pay within three months with a right of recovery.",
+  "embedding_summary": "National Insurance Company Ltd. through its Assistant Manager v. Smt. Meena & Ors., High Court of Allahabad (Lucknow Bench), Neutral Citation 2024:AHC-LKO:43597, Judgment dated 18 June 2024. Accident on 12.05.2006 near Neelam Traders, Devpur Tara, Talkatora, Lucknow: Tanker (Reg. UP32-T/6251) collided with moped (Reg. UP-32-AB/8094); deceased Sundar Lal died on 15.05.2006, eyewitness Ram Gopal injured. Core legal issues: (1) insurer liability where driver lacked valid driving licence (policy breach) — applied S. Iyyapan and United India/Sujata Arora authorities; (2) reliability of police site plan vs credible eyewitness evidence on contributory negligence — applied Saroj Devi and Bijoy Kumar Dugar; (3) quantum: addition for future prospects as per Pranay Sethi. Outcome: insurer's appeal dismissed; claimants' appeal partly allowed; award modified to Rs.13,74,876/- with 7% simple interest from filing; insurer directed to pay and given right to recover from owner; distribution among claimants ordered. Sections and doctrines referenced: Section 149(2) (MV Act), pay-and-recover, contributory negligence, future prospects multiplier guidance.",
+  "legal_principles": [
+    "Insurer liable to pay third-party compensation despite driver's absence/invalidity of licence; insurer has right to recover from owner (pay-and-recover) as per S. Iyyapan",
+    "Credible eyewitness testimony cannot be displaced by an unproven police site plan; site plan must actually demonstrate head-on collision before attributing contributory negligence",
+    "Contributory negligence (50%-50%) applies only where head-on collision is established on evidence; mere site plan without proof is insufficient",
+    "For a deceased government servant aged 40-50, add 30% to income towards future prospects (Pranay Sethi guidance)",
+    "Tribunal discretion on interest can be adjusted on appeal (increased from 6% to 7% in this case)",
+    "Insurer seeking to avoid liability under Section 149(2) must prove 'breach' by the insured and that breach was fundamental and contributed to the accident"
+  ],
+  "sections_cited": [
+    "Section 145 Motor Vehicles Act 1988",
+    "Section 146 Motor Vehicles Act 1988",
+    "Section 147 Motor Vehicles Act 1988",
+    "Section 149(2) Motor Vehicles Act 1988",
+    "Section 163-A Motor Vehicles Act 1988",
+    "Section 166 Motor Vehicles Act 1988",
+    "Section 165 Motor Vehicles Act 1988",
+    "Section 168 Motor Vehicles Act 1988",
+    "Section 174 Motor Vehicles Act 1988"
+  ],
+  "cases_cited": [
+    "United India Insurance Company Limited through its Divisional Manager Vs. Sujata Arora & Ors. 2013 (3) T.A.C. 29 (S.C.)",
+    "S. Iyyapan Vs. M/s. United India Insurance Company Limited & Anr. 2013 (3) T.A.C. 392 (S.C.)",
+    "National Insurance Co. Ltd. v. Swaran Singh & Ors., (2004) 3 SCC 297",
+    "Bijoy Kumar Dugar Vs. Bidya Dhar Dutta & Ors. (2006) 3 SCC 242",
+    "Saroj Devi & Ors. Vs. Narendra Singh & Ors. 2023 (2) T.A.C. 707 (S.C.)",
+    "National Insurance Company Limited Vs. Pranay Sethi and Ors. 2017 (4) T.A.C. 673 (S.C.)",
+    "National Insurance Co. Ltd. v. Kusum Rai and Others, (2006) 4 SCC 250",
+    "National Insurance Company Ltd. v. Annappa Irappa Nesaria alias Nesaragi and Others, 2008 (3) SCC 464",
+    "United India Insurance Company Limited Vs. Hussain Sab & Ors. 2006 A.C.J. 1352 (Karnataka High Court)",
+    "Bijoy Kumar Dugar (referred again in reasoning) and accompanying High Court and Supreme Court authorities cited in text"
+  ],
+  "bm25_text": "National Insurance Company Ltd. Thr. ... vs Smt. Meena And 4 Others High Court of Judicature at Allahabad, Lucknow Bench 2024 On 12 May 2006 at about 7:00 A.M. Sundar Lal was riding a moped (Reg. No. UP-32-AB/8094) near Neelam Traders, Devpur Tara, Police Station Talkatora, District Lucknow when a tanker (Reg. No. UP32-T/6251) allegedly driven negligently collided with the moped. Sundar Lal was admitted from 12.5.2006 to 15.5.2006 and died of his injuries on 15.5.2006. Eye-witnesses including Ram Gopal (who was riding with the deceased and also injured) testified that the deceased was on the left side and not negligent. The claimants filed MACP No.190 of 2009 seeking Rs.30,00,000/- in compensation. Claimants argued that credible eyewitness evidence (P.W.-2 and others) established 100% negligence of the tanker driver and that the Tribunal erred in relying on the police site plan to find contributory negligence. They contended no deduction should be made for V.P.F. or festival advance and that 30% should be added to income for future prospects because the deceased was a government servant. The insurer argued the site plan (filed by claimants) showed a head-on collision, attracting contributory negligence of 50% to the deceased. The insurer also relied on precedent to argue it should be exonerated because the driver did not possess a valid driving licence, amounting to breach of policy conditions, and therefore the insurer cannot be held liable to pay compensation. The Court held that insurer liability cannot be denied automatically for absence/invalidity of driving licence where statutory and precedent law requires consideration of the 'main purpose' and 'fundamental breach' principles; quoting the Supreme Court in S. Iyyapan: \"Mere absence, fake or invalid driving licence or disqualification of the driver for driving at the relevant time, are not in themselves defences available to the insurer\" and that \"insurer is liable to pay compensation to the claimants and further it can recover the amount of compensation from the insured i.e. owner of the vehicle.\" The Court applied that principle here, noting the learned Tribunal had recorded that the driver did not possess a valid licence but had nevertheless directed insurer to pay with a right of recovery, and therefore dismissed the insurer's appeal: \"F.A.F.O. No. 148 of 2012 filed by the insurer is liable to be dismissed in the light of the law laid down by the Hon'ble Supreme Court in the case of S. Iyyapan (supra).\" Separately, on causation and contributory negligence the Court held that credible eyewitness testimony cannot be displaced by an unproved site plan: \"once there was consistent testimony of the P.W.-2 ... there was no occasion for the learned Tribunal to discard the testimony of P.W.-2 and hold the accident ... to be result of the contributory negligence on the basis of site plan/sketch which too nowhere provides that the accident in question was a head-on collision.\" Applying these principles, the Court found 100% negligence of the tanker driver and awarded full compensation payable by the insurer with right of recovery from the owner. F.A.F.O. No. 148 of 2012 (insurer's appeal) is dismissed. F.A.F.O. No. 123 of 2012 (claimants' appeal) is partly allowed: the Tribunal award is modified and the Claim Petition is allowed for Rs.13,74,876/- with 7% simple interest from date of filing till payment. The National Insurance Company Limited is directed to pay the amount within three months and is given the right to recover the amount from the vehicle owner Mr. Anil Kumar Gupta. Specified distribution among claimants is ordered (Claimants 2-4: Rs.100,000;100,000;200,000; remainder to Claimant No.1 with Rs.200,000 FD for two years). This is an appeal from a Motor Accident Claims Tribunal award concerning a 2006 collision between a tanker and a moped in Lucknow in which the rider Sundar Lal died. The insurer appealed arguing the tanker driver lacked a valid licence and that a site plan showed a head-on collision attracting contributory negligence; claimants appealed on quantum and deductions. The High Court applied Supreme Court precedents (notably S. Iyyapan) to hold the insurer must pay compensation and can recover from the owner (pay-and-recover), found eyewitness evidence more reliable than the site plan and held the tanker driver 100% negligent. The Court awarded Rs.13,74,876 with 7% simple interest and directed insurer to pay within three months with a right of recovery. National Insurance Company Ltd. through its Assistant Manager v. Smt. Meena & Ors., High Court of Allahabad (Lucknow Bench), Neutral Citation 2024:AHC-LKO:43597, Judgment dated 18 June 2024. Accident on 12.05.2006 near Neelam Traders, Devpur Tara, Talkatora, Lucknow: Tanker (Reg. UP32-T/6251) collided with moped (Reg. UP-32-AB/8094); deceased Sundar Lal died on 15.05.2006, eyewitness Ram Gopal injured. Core legal issues: (1) insurer liability where driver lacked valid driving licence (policy breach) — applied S. Iyyapan and United India/Sujata Arora authorities; (2) reliability of police site plan vs credible eyewitness evidence on contributory negligence — applied Saroj Devi and Bijoy Kumar Dugar; (3) quantum: addition for future prospects as per Pranay Sethi. Outcome: insurer's appeal dismissed; claimants' appeal partly allowed; award modified to Rs.13,74,876/- with 7% simple interest from filing; insurer directed to pay and given right to recover from owner; distribution among claimants ordered. Sections and doctrines referenced: Section 149(2) (MV Act), pay-and-recover, contributory negligence, future prospects multiplier guidance. Sundar Lal (deceased) / Claim Petition No.190 of 2009 - aggregate award to claimants Rs. 4,26,880/- Rs. 13,74,876/- 7% simple interest from date of filing of the Claim Petition till actual payment High Court modified Tribunal award and calculated loss of dependency with 30% future prospects and multiplier 13. Claimant No.1 Smt. Meena Rs. 9,74,876/- (of which Rs. 2,00,000/- to be deposited in fixed deposit for two years) 7% simple interest from date of filing of the Claim Petition till actual payment Receives residual share after specified distribution to other claimants. Claimant No.2 Mr. Surendra Rs. 1,00,000/- 7% simple interest from date of filing of the Claim Petition till actual payment Claimant No.3 Mr. Virendra Rs. 1,00,000/- 7% simple interest from date of filing of the Claim Petition till actual payment Claimant No.4 Renu Rs. 2,00,000/- 7% simple interest from date of filing of the Claim Petition till actual payment Insurer liable to pay third-party compensation despite driver's absence/invalidity of licence; insurer has right to recover from owner (pay-and-recover) as per S. Iyyapan Credible eyewitness testimony cannot be displaced by an unproven police site plan; site plan must actually demonstrate head-on collision before attributing contributory negligence Contributory negligence (50%-50%) applies only where head-on collision is established on evidence; mere site plan without proof is insufficient For a deceased government servant aged 40-50, add 30% to income towards future prospects (Pranay Sethi guidance) Tribunal discretion on interest can be adjusted on appeal (increased from 6% to 7% in this case) Insurer seeking to avoid liability under Section 149(2) must prove 'breach' by the insured and that breach was fundamental and contributed to the accident Section 145 Motor Vehicles Act 1988 Section 146 Motor Vehicles Act 1988 Section 147 Motor Vehicles Act 1988 Section 149(2) Motor Vehicles Act 1988 Section 163-A Motor Vehicles Act 1988 Section 166 Motor Vehicles Act 1988 Section 165 Motor Vehicles Act 1988 Section 168 Motor Vehicles Act 1988 Section 174 Motor Vehicles Act 1988 United India Insurance Company Limited through its Divisional Manager Vs. Sujata Arora & Ors. 2013 (3) T.A.C. 29 (S.C.) S. Iyyapan Vs. M/s. United India Insurance Company Limited & Anr. 2013 (3) T.A.C. 392 (S.C.) National Insurance Co. Ltd. v. Swaran Singh & Ors., (2004) 3 SCC 297 Bijoy Kumar Dugar Vs. Bidya Dhar Dutta & Ors. (2006) 3 SCC 242 Saroj Devi & Ors. Vs. Narendra Singh & Ors. 2023 (2) T.A.C. 707 (S.C.) National Insurance Company Limited Vs. Pranay Sethi and Ors. 2017 (4) T.A.C. 673 (S.C.) National Insurance Co. Ltd. v. Kusum Rai and Others, (2006) 4 SCC 250 National Insurance Company Ltd. v. Annappa Irappa Nesaria alias Nesaragi and Others, 2008 (3) SCC 464 United India Insurance Company Limited Vs. Hussain Sab & Ors. 2006 A.C.J. 1352 (Karnataka High Court) Bijoy Kumar Dugar (referred again in reasoning) and accompanying High Court and Supreme Court authorities cited in text"
+}

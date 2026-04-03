@@ -1,0 +1,6 @@
+{
+  "_note": "Example per-model prices in USD per 1M tokens. Update these to match your current OpenAI pricing.",
+  "gpt-5-mini": { "in": 0.25, "out": 2.0 },
+  "gpt-5.2": { "in": 1.75, "out": 14.0 },
+  "gpt-4.1-nano": { "in": 0.1, "out": 0.4 }
+}

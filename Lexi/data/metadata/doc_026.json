@@ -1,0 +1,148 @@
+{
+  "doc_id": "doc_026",
+  "case_name": "National Insurance Co. Ltd. vs Ellappa",
+  "court": "High Court of Judicature at Madras",
+  "year": 2009,
+  "judgment_date": "13.02.2009",
+  "citation": "C.M.A.Nos.2038 to 2048 of 2002; AIR 2009 (NOC) 1724 (MAD.)",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": true,
+  "pay_and_recover_applied": true,
+  "involves_death": true,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "Rs.2,34,000/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "MCOP No.226/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.13,000/-",
+      "final_amount": "Rs.13,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.264/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.7,000/-",
+      "final_amount": "Rs.7,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.263/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.23,000/-",
+      "final_amount": "Rs.23,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.240/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.9,000/-",
+      "final_amount": "Rs.9,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.239/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.10,000/-",
+      "final_amount": "Rs.10,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.430/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.64,000/-",
+      "final_amount": "Rs.64,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.265/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.12,000/-",
+      "final_amount": "Rs.12,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.432/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.40,000/-",
+      "final_amount": "Rs.40,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.271/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.7,000/-",
+      "final_amount": "Rs.7,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.227/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.9,000/-",
+      "final_amount": "Rs.9,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    },
+    {
+      "claimant_or_victim": "MCOP No.431/1996",
+      "claim_type": "unknown",
+      "tribunal_amount": "Rs.40,000/-",
+      "final_amount": "Rs.40,000/-",
+      "interest": null,
+      "notes": "Tribunal award confirmed by High Court; pay-and-recover direction applied."
+    }
+  ],
+  "facts": "On 21.06.1991 a tempo (Reg. No. TN-29 Y-1724) en route to Thenkanikottai capsized near Koottur diversion road, allegedly due to rash and negligent driving. Claimants (passengers) sustained injuries and some persons died; the owner-cum-driver was the first respondent and National Insurance Co. Ltd. was the insurer. Multiple MACT OPs were filed (MACT, Hosur) claiming compensation; the Tribunal found the owner liable and made awards in various MCOPs. The insurer contested liability on grounds that passengers in a goods vehicle were not covered by the policy and also alleged invalid licence, but the High Court confirmed the Tribunal's quantum and directed the insurer to pay and recover from the owner in the circumstances.",
+  "arguments_claimant": "Claimants argued the tempo was driven rashly and negligently causing capsizing and resulting injuries/deaths, that the owner-cum-driver was liable and the insurer (National Insurance) as insurer of the vehicle should pay compensation. They sought confirmation of Tribunal awards and immediate payment due to poor financial position and long delay in litigation.",
+  "arguments_respondent": "The owner (first respondent) denied negligence and said he possessed a valid licence and that the accident occurred due to unavoidable circumstances. The insurer (appellant) denied liability arguing the policy did not cover passengers in a goods vehicle (unauthorised carriage of passengers) and in additional pleadings alleged the driver did not have a valid licence at the time.",
+  "ratio_decidendi": "The Court recognised the settled Supreme Court principle that '\"the inevitable conclusion, therefore, is that provisions of the Act do not enjoin any statutory liability on the owner of a vehicle to get his vehicle insured for any passenger travelling in a goods carriage and the insurer would have no liability therefor.\"' It also noted that '\"Since there is no statutory requirement to cover the liability in respect of a passenger in a goods vehicle, the principle of 'pay and recover', as statutorily recognised in Section 149(4) and Section 149(5), is not applicable ipso facto to such cases\"' but held that the appellate court has discretion in appropriate circumstances. Applying these principles to the facts (poor village claimants, long delay, and conduct of insurer in depositing interim relief), the court exercised its discretion and ordered that '\"the appellant be directed to pay the compensation first to claimants and to recover the same from the owner of the vehicle/first respondent in the MCOPs.\"' The Court qualified this by emphasizing that such 'pay and recover' directions are not automatic and depend on the circumstances of each case and earlier decisions.",
+  "final_order": "All CMAs disposed; the Tribunal's awards (as listed) are confirmed. The appellant (National Insurance Co.) is directed to pay the awarded compensation to the claimants within eight weeks and may recover the amounts from the owner; connected miscellaneous petitions are closed and there is no order as to costs.",
+  "summary": "This is a Madras High Court appeal by National Insurance challenging MACT Hosur awards arising from a 1991 tempo capsizing (TN-29 Y-1724) that caused injuries and deaths. The insurer argued policy exclusion for passengers in a goods vehicle and alleged invalid licence; the Tribunal had held the owner liable and awarded compensation. The High Court confirmed the Tribunal's quantum and, exercising its discretion because of the claimants' plight and interim payment by insurer, directed the insurer to 'pay and recover' from the owner. The total confirmed compensation across the connected MCOPs is Rs.2,34,000/-.",
+  "embedding_summary": "National Insurance Co. Ltd. v. Ellappa, High Court of Madras, C.M.A.Nos.2038-2048 of 2002, judgment dated 13.02.2009 (AIR 2009 (NOC) 1724 (MAD.)). Accident dated 21.06.1991: tempo TN-29 Y-1724 (goods vehicle) capsized near Koottur diversion road en route to Thenkanikottai; multiple MACT (Hosur) claims for injuries and deaths. Key legal issues: insurer liability for passengers in goods carriage, applicability of Section 147 and Section 149(4)/(5) Motor Vehicles Act, and the 'pay and recover' doctrine. Court reviewed Supreme Court precedents (Asha Rani / Baljit Kaur / Vedwati / Swaran Singh / Kamla / Nanjappan etc.) and confirmed Tribunal awards for MACT OP Nos.226,264,263,240,239,430,265,432,271,227,431 (total Rs.2,34,000/-), but exercised discretion to direct insurer to pay first and recover from owner due to delay, claimants' poverty and insurer's conduct; time for deposit eight weeks.",
+  "legal_principles": [
+    "Insurer not statutorily liable to indemnify passengers travelling in a goods vehicle (no automatic cover under Section 147).",
+    "Pay-and-recover doctrine is discretionary and not ipso facto applicable to passengers in goods vehicles; court may direct insurer to 'pay and recover' depending on circumstances.",
+    "Where insurer establishes breach of policy conditions, insurer can seek recovery from insured, but tribunal may require insured to furnish security before release (per Nanjappan guidance).",
+    "If insurer has by conduct deposited interim relief or delays would prejudice poor claimants, appellate court may order insurer to pay and then recover from owner.",
+    "Owner-cum-driver remains primarily liable for injuries/deaths to passengers in a goods vehicle."
+  ],
+  "sections_cited": [
+    "Section 147 Motor Vehicles Act, 1988",
+    "Section 149 Motor Vehicles Act, 1988",
+    "Section 149(4) Motor Vehicles Act, 1988",
+    "Section 149(5) Motor Vehicles Act, 1988"
+  ],
+  "cases_cited": [
+    "New India Assurance Co. Ltd. v. Asha Rani and Others, 2003(2) SCC 223",
+    "National Insurance Co. Ltd. v. Baljit Kaur and others, 2004 (2) S.C.C. 1",
+    "National Insurance Co. Ltd. v. Bommithi Subbhayamma, 2005 (12) S.C.C. 243",
+    "New India Assurance Co. Ltd. v. Vedwati, 2007(1) TN MAC 205(SC) : 2007(3) SCALE 397",
+    "Smt. Thokchom Ongbi Sangeeta alias Sangi Devi v. Oriental Insurance Co. Ltd., 2008 (1) TNMAC 59 (SC)",
+    "Oriental Insurance Co. Ltd. v. Devireddy Konda Reddy and Ors, AIR 2003 S.C. 1009",
+    "National Insurance Company Ltd. v. Ajit Kumar and Ors, AIR 2003 S.C. 3093",
+    "New India Assurance Co. v. Kamla and Others, AIR 2001 SC 1419 : 2001 (4) SCC 342",
+    "National Insurance Co. Ltd. v. Swaran Singh and Others, AIR 2004 SC 1531 : 2004 (3) SCC 297",
+    "Oriental Insurance Co. Ltd. v. Nanjappan and others, 2004 (13) SCC 224",
+    "National Insurance Co. Ltd. v. Kusum Rai & others, 2006 (4) SCC 2005",
+    "Oriental Insurance Co. Ltd. v. Meena Variyal & Others, A.I.R. 2007 SC 1609",
+    "National Insurance Co. Ltd. v. Anjana Shyam & Others, A.I.R. 2007 SC 2870",
+    "Sardari & Others v. Sushil Kumar & Others, 2008(2) Supreme 451",
+    "Satpal Singh v. New India Assurance Co. Ltd., 2000 (1) SCC 237",
+    "Branch Manager, United India Insurance Company Ltd. v. Nagammal and others, Full Bench, Madras High Court, 2009-I-CTC-1",
+    "M/s. United India Insurance vs. Selvam and others, Division Bench, 2006(1) MLJ 154"
+  ],
+  "bm25_text": "National Insurance Co. Ltd. vs Ellappa High Court of Judicature at Madras 2009 On 21.06.1991 a tempo (Reg. No. TN-29 Y-1724) en route to Thenkanikottai capsized near Koottur diversion road, allegedly due to rash and negligent driving. Claimants (passengers) sustained injuries and some persons died; the owner-cum-driver was the first respondent and National Insurance Co. Ltd. was the insurer. Multiple MACT OPs were filed (MACT, Hosur) claiming compensation; the Tribunal found the owner liable and made awards in various MCOPs. The insurer contested liability on grounds that passengers in a goods vehicle were not covered by the policy and also alleged invalid licence, but the High Court confirmed the Tribunal's quantum and directed the insurer to pay and recover from the owner in the circumstances. Claimants argued the tempo was driven rashly and negligently causing capsizing and resulting injuries/deaths, that the owner-cum-driver was liable and the insurer (National Insurance) as insurer of the vehicle should pay compensation. They sought confirmation of Tribunal awards and immediate payment due to poor financial position and long delay in litigation. The owner (first respondent) denied negligence and said he possessed a valid licence and that the accident occurred due to unavoidable circumstances. The insurer (appellant) denied liability arguing the policy did not cover passengers in a goods vehicle (unauthorised carriage of passengers) and in additional pleadings alleged the driver did not have a valid licence at the time. The Court recognised the settled Supreme Court principle that '\"the inevitable conclusion, therefore, is that provisions of the Act do not enjoin any statutory liability on the owner of a vehicle to get his vehicle insured for any passenger travelling in a goods carriage and the insurer would have no liability therefor.\"' It also noted that '\"Since there is no statutory requirement to cover the liability in respect of a passenger in a goods vehicle, the principle of 'pay and recover', as statutorily recognised in Section 149(4) and Section 149(5), is not applicable ipso facto to such cases\"' but held that the appellate court has discretion in appropriate circumstances. Applying these principles to the facts (poor village claimants, long delay, and conduct of insurer in depositing interim relief), the court exercised its discretion and ordered that '\"the appellant be directed to pay the compensation first to claimants and to recover the same from the owner of the vehicle/first respondent in the MCOPs.\"' The Court qualified this by emphasizing that such 'pay and recover' directions are not automatic and depend on the circumstances of each case and earlier decisions. All CMAs disposed; the Tribunal's awards (as listed) are confirmed. The appellant (National Insurance Co.) is directed to pay the awarded compensation to the claimants within eight weeks and may recover the amounts from the owner; connected miscellaneous petitions are closed and there is no order as to costs. This is a Madras High Court appeal by National Insurance challenging MACT Hosur awards arising from a 1991 tempo capsizing (TN-29 Y-1724) that caused injuries and deaths. The insurer argued policy exclusion for passengers in a goods vehicle and alleged invalid licence; the Tribunal had held the owner liable and awarded compensation. The High Court confirmed the Tribunal's quantum and, exercising its discretion because of the claimants' plight and interim payment by insurer, directed the insurer to 'pay and recover' from the owner. The total confirmed compensation across the connected MCOPs is Rs.2,34,000/-. National Insurance Co. Ltd. v. Ellappa, High Court of Madras, C.M.A.Nos.2038-2048 of 2002, judgment dated 13.02.2009 (AIR 2009 (NOC) 1724 (MAD.)). Accident dated 21.06.1991: tempo TN-29 Y-1724 (goods vehicle) capsized near Koottur diversion road en route to Thenkanikottai; multiple MACT (Hosur) claims for injuries and deaths. Key legal issues: insurer liability for passengers in goods carriage, applicability of Section 147 and Section 149(4)/(5) Motor Vehicles Act, and the 'pay and recover' doctrine. Court reviewed Supreme Court precedents (Asha Rani / Baljit Kaur / Vedwati / Swaran Singh / Kamla / Nanjappan etc.) and confirmed Tribunal awards for MACT OP Nos.226,264,263,240,239,430,265,432,271,227,431 (total Rs.2,34,000/-), but exercised discretion to direct insurer to pay first and recover from owner due to delay, claimants' poverty and insurer's conduct; time for deposit eight weeks. MCOP No.226/1996 Rs.13,000/- Rs.13,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.264/1996 Rs.7,000/- Rs.7,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.263/1996 Rs.23,000/- Rs.23,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.240/1996 Rs.9,000/- Rs.9,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.239/1996 Rs.10,000/- Rs.10,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.430/1996 Rs.64,000/- Rs.64,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.265/1996 Rs.12,000/- Rs.12,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.432/1996 Rs.40,000/- Rs.40,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.271/1996 Rs.7,000/- Rs.7,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.227/1996 Rs.9,000/- Rs.9,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. MCOP No.431/1996 Rs.40,000/- Rs.40,000/- Tribunal award confirmed by High Court; pay-and-recover direction applied. Insurer not statutorily liable to indemnify passengers travelling in a goods vehicle (no automatic cover under Section 147). Pay-and-recover doctrine is discretionary and not ipso facto applicable to passengers in goods vehicles; court may direct insurer to 'pay and recover' depending on circumstances. Where insurer establishes breach of policy conditions, insurer can seek recovery from insured, but tribunal may require insured to furnish security before release (per Nanjappan guidance). If insurer has by conduct deposited interim relief or delays would prejudice poor claimants, appellate court may order insurer to pay and then recover from owner. Owner-cum-driver remains primarily liable for injuries/deaths to passengers in a goods vehicle. Section 147 Motor Vehicles Act, 1988 Section 149 Motor Vehicles Act, 1988 Section 149(4) Motor Vehicles Act, 1988 Section 149(5) Motor Vehicles Act, 1988 New India Assurance Co. Ltd. v. Asha Rani and Others, 2003(2) SCC 223 National Insurance Co. Ltd. v. Baljit Kaur and others, 2004 (2) S.C.C. 1 National Insurance Co. Ltd. v. Bommithi Subbhayamma, 2005 (12) S.C.C. 243 New India Assurance Co. Ltd. v. Vedwati, 2007(1) TN MAC 205(SC) : 2007(3) SCALE 397 Smt. Thokchom Ongbi Sangeeta alias Sangi Devi v. Oriental Insurance Co. Ltd., 2008 (1) TNMAC 59 (SC) Oriental Insurance Co. Ltd. v. Devireddy Konda Reddy and Ors, AIR 2003 S.C. 1009 National Insurance Company Ltd. v. Ajit Kumar and Ors, AIR 2003 S.C. 3093 New India Assurance Co. v. Kamla and Others, AIR 2001 SC 1419 : 2001 (4) SCC 342 National Insurance Co. Ltd. v. Swaran Singh and Others, AIR 2004 SC 1531 : 2004 (3) SCC 297 Oriental Insurance Co. Ltd. v. Nanjappan and others, 2004 (13) SCC 224 National Insurance Co. Ltd. v. Kusum Rai & others, 2006 (4) SCC 2005 Oriental Insurance Co. Ltd. v. Meena Variyal & Others, A.I.R. 2007 SC 1609 National Insurance Co. Ltd. v. Anjana Shyam & Others, A.I.R. 2007 SC 2870 Sardari & Others v. Sushil Kumar & Others, 2008(2) Supreme 451 Satpal Singh v. New India Assurance Co. Ltd., 2000 (1) SCC 237 Branch Manager, United India Insurance Company Ltd. v. Nagammal and others, Full Bench, Madras High Court, 2009-I-CTC-1 M/s. United India Insurance vs. Selvam and others, Division Bench, 2006(1) MLJ 154"
+}

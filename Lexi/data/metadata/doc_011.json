@@ -1,0 +1,82 @@
+{
+  "doc_id": "doc_011",
+  "case_name": "Asfaq Ahmad Father vs Satender & Ors And 124/18 Titled on 15 September, 2018",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2018,
+  "judgment_date": "15.09.2018",
+  "citation": "MACT Nos. 74/18 & 124/18",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": true,
+  "pay_and_recover_applied": false,
+  "involves_death": true,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "MACT No.74/18: Rs. 12,36,660/-; MACT No.124/18: Rs. 1,89,150/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Istkhar (deceased) - Claimants Asfaq Ahmad & Ors (MACT No.74/18)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 12,36,660/-",
+      "final_amount": "Rs. 12,36,660/-",
+      "interest": "9% p.a. from the date of filing of petition till realization",
+      "notes": "Out of Rs.12,36,660/-, Rs.10,00,000/- to be kept in 10 FDRs of Rs.1,00,000/- each in the name of petitioner No.2 with staggered maturities."
+    },
+    {
+      "claimant_or_victim": "Sherddin (injured) - Claimant (MACT No.124/18)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 1,89,150/-",
+      "final_amount": "Rs. 1,89,150/-",
+      "interest": "9% p.a. from the date of filing of petition till realization",
+      "notes": null
+    }
+  ],
+  "facts": "On 10.02.2018 at about 5 PM near Village Neeti/Neetali on Baghpat road (Meerut/Baghpat), deceased Istkhar and Sherddin were riding a Hero Honda motorcycle (DL1SZ1427) when a bus No. UP 15 AT 4990/4900 driven by respondent No.1 struck them. Istkhar was declared brought dead at Baghpat Hospital after postmortem; Sherddin sustained serious injuries. FIR/chargesheet (Crime No.166/18 u/s 279/337/427/304A IPC), PMR and other records were produced. Two connected claim petitions were filed: MACT No.74/18 (death) and MACT No.124/18 (injury).",
+  "arguments_claimant": "Claimants argued the bus was driven rashly and negligently causing death/injury and relied on FIR, chargesheet, postmortem report and medical records to establish negligence and entitlement to compensation under Section 166 of the Motor Vehicles Act. For loss of dependency the father claimed deceased earned about Rs.30,000/month; educational documents were relied on and minimum wages for a matriculate were adopted where income evidence was absent.",
+  "arguments_respondent": "Respondents denied liability and maintainability, contending the motorcyclist was overtaking a dumper and was at fault; they asserted the bus driver complied with traffic rules and held a valid driving licence. The insurer filed a written statement contesting the petition but did not produce evidence to prove policy breach or to rebut claimants' documentary evidence.",
+  "ratio_decidendi": "The Tribunal held the core legal question was whether the offending vehicle was driven rashly and negligently and relied upon the civil standard of proof under Section 166 MV Act: \"To succeed in the claim petition in view of Section 166 of the MV Act, it is for the claimant to prove that vehicle which caused the accident was being driven rashly and negligently by its driver.\" The court applied the preponderance of probabilities standard, noting that \"The claimants were merely to establish their case on the touchstone of preponderance of probability. The standard of proof beyond reasonable doubt could not have been applied.\" It further held that criminal records such as FIR, chargesheet, PMR and mechanical inspection report \"are sufficient proof to reach to the conclusion that the driver was negligent,\" and qualified that the terms \"rashness and negligence has to be construed lightly... because the chapter in the Motor Vehicles Act dealing with compensation is a benevolent legislation and not a penal one.\"",
+  "final_order": "Both claim petitions were allowed. In MACT No.74/18 the insurance company was directed to pay Rs.12,36,660/- with interest @9% p.a. from date of filing; Rs.10,00,000/- of the award to be placed in 10 FDRs in the name of petitioner No.2 and the balance released per court directions. In MACT No.124/18 the insurance company was directed to pay Rs.1,89,150/- with interest @9% p.a.; both amounts to be deposited with UCO Bank, KKD Courts Branch within 30 days.",
+  "summary": "This is a motor-accident MACT judgment from Karkardooma Courts (2018) arising from a collision on 10.02.2018 where a bus hit a motorcycle, killing Istkhar and injuring Sherddin. The Tribunal found the bus driver negligent on the preponderance of probabilities standard and awarded compensation: Rs.12,36,660/- (death) and Rs.1,89,150/- (injury), with interest at 9% p.a., payable by the insurer. The decision affirms that FIR/chargesheet/PMR can be sufficient to establish negligence under Section 166 MV Act and treats the MV Act as benevolent legislation construed lightly. The insurer was held liable to pay and instructed to deposit the awards with the bank with FDR arrangements for part of the death award.",
+  "embedding_summary": "Asfaq Ahmad v. Satender & Ors, MACT Nos. 74/18 & 124/18, Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, judgment dated 15.09.2018. Accident on 10.02.2018 near Village Neeti/Neetali, Baghpat road: bus (No. UP 15 AT 4990/4900) collided with a Hero Honda motorcycle (DL1SZ1427); Istkhar died and Sherddin injured. Issues: negligence under Section 166 Motor Vehicles Act 1988, standard of proof (preponderance of probabilities), admissibility/sufficiency of FIR, chargesheet, PMR and mechanical inspection report, and insurer liability. Tribunal applied precedents (Bimla Devi v. HRTC (2009), Parmeshwari v. Amir Chand (2011), Sarla Verma (2009), Nagappa v. Gurdayal Singh (2003), Trilok Chandra (1996), Pranay Sethi guidance on multipliers) and awarded Rs.12,36,660/- (death, MACT 74/18) and Rs.1,89,150/- (injury, MACT 124/18) with interest @9% p.a.; insurer directed to deposit awards with UCO Bank and to create FDRs for part of the death award.",
+  "legal_principles": [
+    "Claimant must prove rash and negligent driving under Section 166 MV Act on the touchstone of preponderance of probabilities (not beyond reasonable doubt).",
+    "Certified criminal records (FIR, chargesheet), postmortem report and mechanical inspection report are sufficient evidence to establish driver negligence when uncontradicted.",
+    "Motor Vehicles Act compensation provisions are benevolent; 'rashness and negligence' are to be construed lightly in claims proceedings.",
+    "Where a valid insurance policy exists and no policy breach is shown, insurer is liable to pay the award.",
+    "Multiplier method for dependency applied (multiplier 17 for age ~28) with 50% deduction for bachelor status.",
+    "Interest on MACT awards to be paid at 9% p.a. from date of petition till realization; deposit of award with court-linked bank and creation of FDRs for protection of award funds."
+  ],
+  "sections_cited": [
+    "Section 166 Motor Vehicles Act 1988",
+    "Section 140 Motor Vehicles Act 1988",
+    "Section 279 IPC",
+    "Section 337 IPC",
+    "Section 427 IPC",
+    "Section 304-A IPC"
+  ],
+  "cases_cited": [
+    "Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530",
+    "Parmeshwari v. Amir Chand, (2011) 11 SCC 635",
+    "Kusum Lata v. Satbir, (2011) 3 SCC 646",
+    "United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2), T.A.C. 846 (Del.)",
+    "Cholamandalam M.S. General Insurance Co. Ltd. v. Kamlesh, 2009 (3) AD (Delhi) 310",
+    "National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287",
+    "Kaushnumma Begum and others v. New India Assurance Company Limited, 2001 ACJ 421 SC",
+    "Nagappa v. Gurdayal Singh, 2003 (2) SCC 274",
+    "UP State Road Transport Corporation v. Trilok Chandra, (1996) 4 SCC 362",
+    "General Manager Kerala State Road Transport Corporation v. Susamma Thomas, (1994) 2 SCC 176",
+    "Sarla Verma v. DTC, (2009) 6 SCC 121",
+    "R. K. Malik v. Kiran Pal, 2009 (14) SCC 1",
+    "Munna Lal Jain and Others v. Vipin Kumar Sharma, MANU/SC/0640/2015",
+    "National Insurance Co. Ltd. v. Pranay Sethi & Ors., SLP (Civil) No.25590/2014 (decided 31.10.2017)",
+    "Laxmidhar Nayak & Ors. v. Juggal Kishore Behera & Ors., MANU/SC/1506/2017",
+    "Raj Kumar v. Ajay Kumar & Anr., (2011) 1 SCC 343",
+    "New India Assurance Company Limited v. Kashmiri Lal, 2007 ACJ 688",
+    "The New India Assurance Co. Ltd. v. Gopali & Ors., 2012 ACJ 2131 SC",
+    "Jiju Kuruvila & Ors. v. Kunjujamma Mohan & Ors., 2013 ACJ 2141 SC",
+    "Puttamma v. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 SC"
+  ],
+  "bm25_text": "Asfaq Ahmad Father vs Satender & Ors And 124/18 Titled on 15 September, 2018 Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi 2018 On 10.02.2018 at about 5 PM near Village Neeti/Neetali on Baghpat road (Meerut/Baghpat), deceased Istkhar and Sherddin were riding a Hero Honda motorcycle (DL1SZ1427) when a bus No. UP 15 AT 4990/4900 driven by respondent No.1 struck them. Istkhar was declared brought dead at Baghpat Hospital after postmortem; Sherddin sustained serious injuries. FIR/chargesheet (Crime No.166/18 u/s 279/337/427/304A IPC), PMR and other records were produced. Two connected claim petitions were filed: MACT No.74/18 (death) and MACT No.124/18 (injury). Claimants argued the bus was driven rashly and negligently causing death/injury and relied on FIR, chargesheet, postmortem report and medical records to establish negligence and entitlement to compensation under Section 166 of the Motor Vehicles Act. For loss of dependency the father claimed deceased earned about Rs.30,000/month; educational documents were relied on and minimum wages for a matriculate were adopted where income evidence was absent. Respondents denied liability and maintainability, contending the motorcyclist was overtaking a dumper and was at fault; they asserted the bus driver complied with traffic rules and held a valid driving licence. The insurer filed a written statement contesting the petition but did not produce evidence to prove policy breach or to rebut claimants' documentary evidence. The Tribunal held the core legal question was whether the offending vehicle was driven rashly and negligently and relied upon the civil standard of proof under Section 166 MV Act: \"To succeed in the claim petition in view of Section 166 of the MV Act, it is for the claimant to prove that vehicle which caused the accident was being driven rashly and negligently by its driver.\" The court applied the preponderance of probabilities standard, noting that \"The claimants were merely to establish their case on the touchstone of preponderance of probability. The standard of proof beyond reasonable doubt could not have been applied.\" It further held that criminal records such as FIR, chargesheet, PMR and mechanical inspection report \"are sufficient proof to reach to the conclusion that the driver was negligent,\" and qualified that the terms \"rashness and negligence has to be construed lightly... because the chapter in the Motor Vehicles Act dealing with compensation is a benevolent legislation and not a penal one.\" Both claim petitions were allowed. In MACT No.74/18 the insurance company was directed to pay Rs.12,36,660/- with interest @9% p.a. from date of filing; Rs.10,00,000/- of the award to be placed in 10 FDRs in the name of petitioner No.2 and the balance released per court directions. In MACT No.124/18 the insurance company was directed to pay Rs.1,89,150/- with interest @9% p.a.; both amounts to be deposited with UCO Bank, KKD Courts Branch within 30 days. This is a motor-accident MACT judgment from Karkardooma Courts (2018) arising from a collision on 10.02.2018 where a bus hit a motorcycle, killing Istkhar and injuring Sherddin. The Tribunal found the bus driver negligent on the preponderance of probabilities standard and awarded compensation: Rs.12,36,660/- (death) and Rs.1,89,150/- (injury), with interest at 9% p.a., payable by the insurer. The decision affirms that FIR/chargesheet/PMR can be sufficient to establish negligence under Section 166 MV Act and treats the MV Act as benevolent legislation construed lightly. The insurer was held liable to pay and instructed to deposit the awards with the bank with FDR arrangements for part of the death award. Asfaq Ahmad v. Satender & Ors, MACT Nos. 74/18 & 124/18, Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, judgment dated 15.09.2018. Accident on 10.02.2018 near Village Neeti/Neetali, Baghpat road: bus (No. UP 15 AT 4990/4900) collided with a Hero Honda motorcycle (DL1SZ1427); Istkhar died and Sherddin injured. Issues: negligence under Section 166 Motor Vehicles Act 1988, standard of proof (preponderance of probabilities), admissibility/sufficiency of FIR, chargesheet, PMR and mechanical inspection report, and insurer liability. Tribunal applied precedents (Bimla Devi v. HRTC (2009), Parmeshwari v. Amir Chand (2011), Sarla Verma (2009), Nagappa v. Gurdayal Singh (2003), Trilok Chandra (1996), Pranay Sethi guidance on multipliers) and awarded Rs.12,36,660/- (death, MACT 74/18) and Rs.1,89,150/- (injury, MACT 124/18) with interest @9% p.a.; insurer directed to deposit awards with UCO Bank and to create FDRs for part of the death award. Istkhar (deceased) - Claimants Asfaq Ahmad & Ors (MACT No.74/18) Rs. 12,36,660/- Rs. 12,36,660/- 9% p.a. from the date of filing of petition till realization Out of Rs.12,36,660/-, Rs.10,00,000/- to be kept in 10 FDRs of Rs.1,00,000/- each in the name of petitioner No.2 with staggered maturities. Sherddin (injured) - Claimant (MACT No.124/18) Rs. 1,89,150/- Rs. 1,89,150/- 9% p.a. from the date of filing of petition till realization Claimant must prove rash and negligent driving under Section 166 MV Act on the touchstone of preponderance of probabilities (not beyond reasonable doubt). Certified criminal records (FIR, chargesheet), postmortem report and mechanical inspection report are sufficient evidence to establish driver negligence when uncontradicted. Motor Vehicles Act compensation provisions are benevolent; 'rashness and negligence' are to be construed lightly in claims proceedings. Where a valid insurance policy exists and no policy breach is shown, insurer is liable to pay the award. Multiplier method for dependency applied (multiplier 17 for age ~28) with 50% deduction for bachelor status. Interest on MACT awards to be paid at 9% p.a. from date of petition till realization; deposit of award with court-linked bank and creation of FDRs for protection of award funds. Section 166 Motor Vehicles Act 1988 Section 140 Motor Vehicles Act 1988 Section 279 IPC Section 337 IPC Section 427 IPC Section 304-A IPC Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530 Parmeshwari v. Amir Chand, (2011) 11 SCC 635 Kusum Lata v. Satbir, (2011) 3 SCC 646 United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2), T.A.C. 846 (Del.) Cholamandalam M.S. General Insurance Co. Ltd. v. Kamlesh, 2009 (3) AD (Delhi) 310 National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287 Kaushnumma Begum and others v. New India Assurance Company Limited, 2001 ACJ 421 SC Nagappa v. Gurdayal Singh, 2003 (2) SCC 274 UP State Road Transport Corporation v. Trilok Chandra, (1996) 4 SCC 362 General Manager Kerala State Road Transport Corporation v. Susamma Thomas, (1994) 2 SCC 176 Sarla Verma v. DTC, (2009) 6 SCC 121 R. K. Malik v. Kiran Pal, 2009 (14) SCC 1 Munna Lal Jain and Others v. Vipin Kumar Sharma, MANU/SC/0640/2015 National Insurance Co. Ltd. v. Pranay Sethi & Ors., SLP (Civil) No.25590/2014 (decided 31.10.2017) Laxmidhar Nayak & Ors. v. Juggal Kishore Behera & Ors., MANU/SC/1506/2017 Raj Kumar v. Ajay Kumar & Anr., (2011) 1 SCC 343 New India Assurance Company Limited v. Kashmiri Lal, 2007 ACJ 688 The New India Assurance Co. Ltd. v. Gopali & Ors., 2012 ACJ 2131 SC Jiju Kuruvila & Ors. v. Kunjujamma Mohan & Ors., 2013 ACJ 2141 SC Puttamma v. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 SC"
+}

@@ -77,14 +77,45 @@ class ParsedJudgment:
     char_count: int = 0
     token_estimate: int = 0  # rough: chars / 4
 
-    def truncated_for_llm(self, max_chars: int = 24_000) -> str:
+    def truncated_for_llm(self, max_chars: int | None = 24_000) -> str:
+        text, _ = self._build_truncated_for_llm(max_chars=max_chars)
+        return text
+
+    def truncated_for_llm_with_report(self, max_chars: int | None = 24_000) -> tuple[str, dict]:
+        """
+        Return (truncated_text, report) where report describes how much of each
+        section was included and rough token estimates.
+        """
+        return self._build_truncated_for_llm(max_chars=max_chars)
+
+    def _build_truncated_for_llm(self, max_chars: int | None = 24_000) -> tuple[str, dict]:
         """
         Return text safe for LLM context window.
         Prioritises header + detected sections over raw truncation.
         24000 chars ≈ 6000 tokens — fits Claude Haiku / GPT-4o-mini easily.
         """
+        report: dict = {
+            "max_chars": max_chars,
+            "full_text_chars": len(self.full_text or ""),
+            "full_text_tokens_est": len(self.full_text or "") // 4,
+            "header_chars": 0,
+            "tail_chars": 0,
+            "included_sections": [],  # list of dicts
+            "result_chars": 0,
+            "result_tokens_est": 0,
+            "no_truncation": False,
+        }
+
+        if max_chars is None:
+            report["no_truncation"] = True
+            report["result_chars"] = len(self.full_text or "")
+            report["result_tokens_est"] = len(self.full_text or "") // 4
+            return self.full_text, report
+
         if len(self.full_text) <= max_chars:
-            return self.full_text
+            report["result_chars"] = len(self.full_text)
+            report["result_tokens_est"] = len(self.full_text) // 4
+            return self.full_text, report
 
         # Smart truncation: keep header, detected sections, and tail
         parts: list[str] = []
@@ -94,24 +125,52 @@ class ParsedJudgment:
         header_chunk = self.full_text[:3000]
         parts.append(header_chunk)
         budget -= len(header_chunk)
+        report["header_chars"] = len(header_chunk)
 
         # Keep last 2000 chars (usually the order)
         tail_chunk = self.full_text[-2000:]
         budget -= len(tail_chunk)
+        report["tail_chars"] = len(tail_chunk)
 
-        # Fill middle with detected sections in priority order
-        priority = ["ratio", "facts", "arguments", "issues"]
+        # Fill middle with detected sections in priority order.
+        # We prefer ORDER/RATIO because they often contain: final compensation figures,
+        # citations, holdings, and the operative directions.
+        per_section_cap = {
+            "order": 8000,
+            "ratio": 8000,
+            "facts": 4500,
+            "arguments": 3000,
+            "issues": 2000,
+        }
+        priority = ["order", "ratio", "facts", "arguments", "issues"]
         for sec in priority:
             if sec in self.detected_sections and budget > 500:
-                text = self.detected_sections[sec][:min(budget, 4000)]
-                parts.append(f"\n\n[SECTION: {sec.upper()}]\n{text}")
-                budget -= len(text)
+                cap = per_section_cap.get(sec, 4000)
+                take = min(budget, cap)
+                available = self.detected_sections[sec] or ""
+                included = available[:take]
+                parts.append(f"\n\n[SECTION: {sec.upper()}]\n{included}")
+                budget -= len(included)
+
+                report["included_sections"].append(
+                    {
+                        "section": sec,
+                        "available_chars": len(available),
+                        "available_tokens_est": len(available) // 4,
+                        "included_chars": len(included),
+                        "included_tokens_est": len(included) // 4,
+                        "cap_chars": cap,
+                    }
+                )
 
         parts.append(f"\n\n[FINAL SECTION]\n{tail_chunk}")
-        return "\n".join(parts)
+        out = "\n".join(parts)
+        report["result_chars"] = len(out)
+        report["result_tokens_est"] = len(out) // 4
+        return out, report
 
 
-def parse_pdf(pdf_path: str | Path) -> ParsedJudgment:
+def parse_pdf(pdf_path: str | Path, section_cap_chars: int | None = 15000) -> ParsedJudgment:
     """
     Extract full text from a court judgment PDF and detect sections.
     Returns a ParsedJudgment ready for the LLM extraction step.
@@ -135,7 +194,7 @@ def parse_pdf(pdf_path: str | Path) -> ParsedJudgment:
     full_text = _clean_indian_judgment_text(full_text)
 
     # Detect section boundaries
-    detected = _detect_sections(full_text)
+    detected = _detect_sections(full_text, cap_chars=section_cap_chars)
 
     return ParsedJudgment(
         doc_id=doc_id,
@@ -162,7 +221,7 @@ def _clean_indian_judgment_text(text: str) -> str:
     return text.strip()
 
 
-def _detect_sections(text: str) -> dict[str, str]:
+def _detect_sections(text: str, cap_chars: int | None = 15000) -> dict[str, str]:
     """
     Find approximate section boundaries using regex markers.
     Returns a dict mapping section name → section text.
@@ -192,7 +251,9 @@ def _detect_sections(text: str) -> dict[str, str]:
     detected: dict[str, str] = {}
     for i, (pos, sec) in enumerate(ordered):
         end = ordered[i + 1][0] if i + 1 < len(ordered) else len(text)
-        # Cap each section at 5000 chars to avoid runaway sections
-        detected[sec] = text[pos:end][:5000]
+        section_text = text[pos:end]
+        if cap_chars is not None:
+            section_text = section_text[:cap_chars]
+        detected[sec] = section_text
 
     return detected

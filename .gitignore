@@ -1,0 +1,13 @@
+# Secrets
+.env
+**/.env
+
+# Python caches
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Local artifacts (regenerate)
+Lexi/storage/
+Lexi/evals/results/

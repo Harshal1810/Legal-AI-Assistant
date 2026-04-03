@@ -2,9 +2,12 @@
 langchain>=0.3.0
 langchain-core>=0.3.0
 langchain-groq>=0.2.0        # ChatGroq with json_mode structured output
+langchain-openai>=0.2.0      # ChatOpenAI (optional OpenAI provider)
 
 # ── LLM provider ─────────────────────────────────────────────────────
 groq>=0.9.0
+openai>=1.0.0                # OpenAI Python SDK (needed by langchain-openai)
+python-dotenv>=1.0.0         # used by test_extraction.py
 
 # ── PDF parsing ───────────────────────────────────────────────────────
 pdfplumber>=0.11.0            # better layout than PyPDF2 for legal docs
@@ -22,6 +25,10 @@ sentence-transformers>=3.0.0  # local embeddings (BAAI/bge-base-en-v1.5)
 
 # ── Vector store ──────────────────────────────────────────────────────
 chromadb>=0.5.0               # persistent local vector store
+openpyxl>=3.1.0               # write Excel .xlsx reports (batch costs)
 
 # ── LangGraph (agent orchestration — installed separately) ────────────
 langgraph>=0.2.0
+
+#Streamlit UI Library
+streamlit>=1.37.0

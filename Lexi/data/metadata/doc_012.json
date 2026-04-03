@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_012",
+  "case_name": "Smt. Rekha Kumari W/o Late Sh. Sachin vs Sh. Gopal Malahakar & Ors.",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2018,
+  "judgment_date": "07.06.2018",
+  "citation": "MACT Nos. 416/16 & 417/16",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": false,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": false,
+  "pay_and_recover_applied": false,
+  "involves_death": true,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "Rs. 19,65,382/- (MACT 416/16: Rs. 15,33,904/-; MACT 417/16: Rs. 4,31,478/-)",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Smt. Rekha Kumari W/o Late Sh. Sachin and others (wife, two children, father and mother)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 15,33,904/-",
+      "final_amount": "Rs. 15,33,904/-",
+      "interest": "9% p.a. from the date of filing of petition till realization",
+      "notes": "Award includes Loss of dependency Rs.14,63,904; Loss of consortium Rs.40,000; Loss of estate Rs.15,000; Funeral expenses Rs.15,000; bank directed to place specified amounts in FDRs for minors and others."
+    },
+    {
+      "claimant_or_victim": "Sh. Naresh S/o Sh. Munesh (injured)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 4,31,478/-",
+      "final_amount": "Rs. 4,31,478/-",
+      "interest": "9% p.a. from the date of filing of petition till realization",
+      "notes": "Injured assessed with 33% permanent locomotor impairment of right upper limb; functional disability assessed 15% of whole body; award includes future loss of income, pain and suffering, attendant charges, conveyance/diet and loss of wages; bank directed to place Rs.4,00,000 in FDRs."
+    }
+  ],
+  "facts": "Two connected MACT petitions (MACT 416/16 and 417/16) arose from a road accident on 19.05.2016 near Rajiv Colony, Karheda, Mohan Nagar, Sahibabad (Ghaziabad, UP) involving motorcycle DL5SAM2688 ridden by deceased Sachin and vehicle UP14ET9761 driven by respondent No.1. As a result of the collision the motorcycle riders fell; Sachin died and Naresh was injured and later treated at Narender Mohan Hospital (Ghaziabad) and GTB Hospital, Delhi. FIR/CR No. 726/16 registered for offences u/s 279/338/304A IPC; petitioners filed claims under Sections 166 and 140 of the Motor Vehicles Act. Respondents include driver Gopal Malahakar (R-1), owner Sh. Sanjeev Kumar (R-2) and Reliance General Insurance Co. Ltd. (R-3).",
+  "arguments_claimant": "Claimants alleged the offending vehicle (UP14ET9761) was driven rashly and negligently by respondent No.1 causing death of Sachin and injuries to Naresh; they produced criminal record/FIR, treatment records and a disability certificate to establish negligence and injuries. For the death claim petitioners sought loss of dependency, consortium, estate and funeral expenses; for the injury claim the petitioner sought compensation for permanent disability, future earnings loss and attendant/other expenses.",
+  "arguments_respondent": "Respondents 1 and 2 denied the allegations, contending that respondent No.1 had not committed the accident and that petitioners were attempting to extort money; they also stated respondent No.1 had a valid driving licence. The insurance company produced the policy record and did not produce evidence of policy breach or of the driver\u0002s negligence.",
+  "ratio_decidendi": "The Tribunal held that \"To succeed in the claim petitions in view of Section 166 of the MV Act, it is for the claimant to prove that vehicle which caused the accident was being driven rashly and negligently by its driver.\" The court applied the civil standard of proof, observing that claimants \"were merely to establish their case on the touchstone of preponderance of probability\" and \"the standard of proof beyond reasonable doubt could not have been applied.\" The Tribunal further held that criminal records such as FIR/charge-sheet together with PW statements are \"sufficient to establish the fact that the driver of the vehicle in question was negligent\" especially where respondents did not adduce contrary evidence. Applying those principles to the facts, the Tribunal found the testimony and records to be \"prima facie suggestive of negligence of respondent No.1 in driving the vehicle\" and therefore allowed the claims.",
+  "final_order": "Both claim petitions (MACT 416/16 and 417/16) were allowed. Reliance General Insurance Co. Ltd. (respondent No.3) was directed to pay Rs.15,33,904/- in MACT 416/16 and Rs.4,31,478/- in MACT 417/16 within one month with interest @9% p.a. from the date of filing; specified amounts to be deposited in FDRs and bank directions issued for payment and custody.",
+  "summary": "This MACT judgment (Karkardooma, 07.06.2018) disposed two connected petitions from a 19.05.2016 accident near Sahibabad where vehicle UP14ET9761 hit a motorcycle, causing death of Sachin and injury to Naresh. The Tribunal found respondent-driver negligent on preponderance of probabilities, relying on FIR/charge-sheet and PW evidence; Reliance General Insurance (policy-holder) was held liable. Awards: Rs.15,33,904 for the death claim and Rs.4,31,478 for the injury claim, both with 9% interest and directions for FDR deposits and phased release.",
+  "embedding_summary": "MACT Nos. 416/16 & 417/16, Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, judgment dated 07.06.2018. Accident on 19.05.2016 near Rajiv Colony, Karheda, Mohan Nagar, Sahibabad (Ghaziabad, UP) involving motorcycle DL5SAM2688 (deceased Sachin) and vehicle UP14ET9761 driven by respondent No.1; FIR/CR No.726/16 registered u/s 279/338/304A IPC. Petitioners claimed under Sections 166 and 140 Motor Vehicles Act 1988; Reliance General Insurance Co. Ltd. was respondent insurer. Tribunal applied preponderance of probabilities, held FIR/charge-sheet and PW statements are \"sufficient to establish\" negligence where respondent produced no contrary evidence, used minimum wages for income in absence of proof, applied multiplier method, and awarded Rs.15,33,904 (death) and Rs.4,31,478 (injury) with interest @9% p.a.; specific bank FDR deposit directions given.",
+  "legal_principles": [
+    "Claimant must prove rashness/negligence under Section 166 MV Act on preponderance of probabilities",
+    "Criminal record (FIR/charge-sheet) and PW statements can be \"sufficient to establish\" driver\u0002s negligence where there is no contrary evidence",
+    "Where income is not proved, tribunal may adopt minimum wages as basis for monthly income",
+    "Use of multiplier with reference to the age of the deceased for loss of dependency",
+    "Assessment of functional disability (percent) for future loss of earnings separate from medical percentage of permanent impairment",
+    "Insurer is liable to pay compensation where a valid policy exists and no breach is proved",
+    "Deduction of one-fourth for personal expenses where a parent is not dependent"
+  ],
+  "sections_cited": [
+    "Section 166 Motor Vehicles Act 1988",
+    "Section 140 Motor Vehicles Act 1988",
+    "Section 279 IPC",
+    "Section 338 IPC",
+    "Section 304A IPC"
+  ],
+  "cases_cited": [
+    "Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530",
+    "Parmeshwari v. Amir Chand, (2011) 11 SCC 635",
+    "Kusum Lata v. Satbir, (2011) 3 SCC 646",
+    "United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2) T.A.C. 846 (Del.)",
+    "Cholamandalam M.S. General Insurance Co. Ltd. v. Kamlesh, 2009 (3) AD (Delhi) 310",
+    "National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287 (Delhi High Court)",
+    "Kaushnumma Begum v. New India Assurance Company Limited, 2001 ACJ 421 SC",
+    "United India Insurance Co. Ltd. v. Smt. Rinki @ Rinku & Ors., MACA No.200/2012 (Delhi High Court)",
+    "Nagappa v. Gurdayal Singh, 2003 (2) SCC 274",
+    "UP State Road Transport Corporation v. Trilok Chandra, (1996) 4 SCC 362",
+    "General Manager Kerala State Road Transport Corporation v. Susamma Thomas, (1994) 2 SCC 176",
+    "Sarla Verma v. DTC, (2009) 6 SCC 121",
+    "R.K. Malik v. Kiran Pal, 2009 (14) SCC 1",
+    "Munna Lal Jain and Others v. Vipin Kumar Sharma, MANU/SC/0640/2015",
+    "National Insurance Co. Ltd. v. Pranay Sethi & Ors., SLP (C) No.25590/2014",
+    "Laxmidhar Nayak & Ors. v. Juggal Kishore Behera & Ors., MANU/SC/1506/2017",
+    "Raj Kumar v. Ajay Kumar & Anr., (2011) 1 SCC 343",
+    "New India Assurance Co. Ltd. v. Gopali & Ors., 2012 ACJ 2131 SC",
+    "Jiju Kuruvila & Ors. v. Kunjujamma Mohan & Ors., 2013 ACJ 2141 SC",
+    "Puttamma v. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 SC",
+    "New India Assurance Company Limited v. Kashmiri Lal, 2007 ACJ 688"
+  ],
+  "bm25_text": "Smt. Rekha Kumari W/o Late Sh. Sachin vs Sh. Gopal Malahakar & Ors. Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi 2018 Two connected MACT petitions (MACT 416/16 and 417/16) arose from a road accident on 19.05.2016 near Rajiv Colony, Karheda, Mohan Nagar, Sahibabad (Ghaziabad, UP) involving motorcycle DL5SAM2688 ridden by deceased Sachin and vehicle UP14ET9761 driven by respondent No.1. As a result of the collision the motorcycle riders fell; Sachin died and Naresh was injured and later treated at Narender Mohan Hospital (Ghaziabad) and GTB Hospital, Delhi. FIR/CR No. 726/16 registered for offences u/s 279/338/304A IPC; petitioners filed claims under Sections 166 and 140 of the Motor Vehicles Act. Respondents include driver Gopal Malahakar (R-1), owner Sh. Sanjeev Kumar (R-2) and Reliance General Insurance Co. Ltd. (R-3). Claimants alleged the offending vehicle (UP14ET9761) was driven rashly and negligently by respondent No.1 causing death of Sachin and injuries to Naresh; they produced criminal record/FIR, treatment records and a disability certificate to establish negligence and injuries. For the death claim petitioners sought loss of dependency, consortium, estate and funeral expenses; for the injury claim the petitioner sought compensation for permanent disability, future earnings loss and attendant/other expenses. Respondents 1 and 2 denied the allegations, contending that respondent No.1 had not committed the accident and that petitioners were attempting to extort money; they also stated respondent No.1 had a valid driving licence. The insurance company produced the policy record and did not produce evidence of policy breach or of the driver\u0002s negligence. The Tribunal held that \"To succeed in the claim petitions in view of Section 166 of the MV Act, it is for the claimant to prove that vehicle which caused the accident was being driven rashly and negligently by its driver.\" The court applied the civil standard of proof, observing that claimants \"were merely to establish their case on the touchstone of preponderance of probability\" and \"the standard of proof beyond reasonable doubt could not have been applied.\" The Tribunal further held that criminal records such as FIR/charge-sheet together with PW statements are \"sufficient to establish the fact that the driver of the vehicle in question was negligent\" especially where respondents did not adduce contrary evidence. Applying those principles to the facts, the Tribunal found the testimony and records to be \"prima facie suggestive of negligence of respondent No.1 in driving the vehicle\" and therefore allowed the claims. Both claim petitions (MACT 416/16 and 417/16) were allowed. Reliance General Insurance Co. Ltd. (respondent No.3) was directed to pay Rs.15,33,904/- in MACT 416/16 and Rs.4,31,478/- in MACT 417/16 within one month with interest @9% p.a. from the date of filing; specified amounts to be deposited in FDRs and bank directions issued for payment and custody. This MACT judgment (Karkardooma, 07.06.2018) disposed two connected petitions from a 19.05.2016 accident near Sahibabad where vehicle UP14ET9761 hit a motorcycle, causing death of Sachin and injury to Naresh. The Tribunal found respondent-driver negligent on preponderance of probabilities, relying on FIR/charge-sheet and PW evidence; Reliance General Insurance (policy-holder) was held liable. Awards: Rs.15,33,904 for the death claim and Rs.4,31,478 for the injury claim, both with 9% interest and directions for FDR deposits and phased release. MACT Nos. 416/16 & 417/16, Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, judgment dated 07.06.2018. Accident on 19.05.2016 near Rajiv Colony, Karheda, Mohan Nagar, Sahibabad (Ghaziabad, UP) involving motorcycle DL5SAM2688 (deceased Sachin) and vehicle UP14ET9761 driven by respondent No.1; FIR/CR No.726/16 registered u/s 279/338/304A IPC. Petitioners claimed under Sections 166 and 140 Motor Vehicles Act 1988; Reliance General Insurance Co. Ltd. was respondent insurer. Tribunal applied preponderance of probabilities, held FIR/charge-sheet and PW statements are \"sufficient to establish\" negligence where respondent produced no contrary evidence, used minimum wages for income in absence of proof, applied multiplier method, and awarded Rs.15,33,904 (death) and Rs.4,31,478 (injury) with interest @9% p.a.; specific bank FDR deposit directions given. Smt. Rekha Kumari W/o Late Sh. Sachin and others (wife, two children, father and mother) Rs. 15,33,904/- Rs. 15,33,904/- 9% p.a. from the date of filing of petition till realization Award includes Loss of dependency Rs.14,63,904; Loss of consortium Rs.40,000; Loss of estate Rs.15,000; Funeral expenses Rs.15,000; bank directed to place specified amounts in FDRs for minors and others. Sh. Naresh S/o Sh. Munesh (injured) Rs. 4,31,478/- Rs. 4,31,478/- 9% p.a. from the date of filing of petition till realization Injured assessed with 33% permanent locomotor impairment of right upper limb; functional disability assessed 15% of whole body; award includes future loss of income, pain and suffering, attendant charges, conveyance/diet and loss of wages; bank directed to place Rs.4,00,000 in FDRs. Claimant must prove rashness/negligence under Section 166 MV Act on preponderance of probabilities Criminal record (FIR/charge-sheet) and PW statements can be \"sufficient to establish\" driver\u0002s negligence where there is no contrary evidence Where income is not proved, tribunal may adopt minimum wages as basis for monthly income Use of multiplier with reference to the age of the deceased for loss of dependency Assessment of functional disability (percent) for future loss of earnings separate from medical percentage of permanent impairment Insurer is liable to pay compensation where a valid policy exists and no breach is proved Deduction of one-fourth for personal expenses where a parent is not dependent Section 166 Motor Vehicles Act 1988 Section 140 Motor Vehicles Act 1988 Section 279 IPC Section 338 IPC Section 304A IPC Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530 Parmeshwari v. Amir Chand, (2011) 11 SCC 635 Kusum Lata v. Satbir, (2011) 3 SCC 646 United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2) T.A.C. 846 (Del.) Cholamandalam M.S. General Insurance Co. Ltd. v. Kamlesh, 2009 (3) AD (Delhi) 310 National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287 (Delhi High Court) Kaushnumma Begum v. New India Assurance Company Limited, 2001 ACJ 421 SC United India Insurance Co. Ltd. v. Smt. Rinki @ Rinku & Ors., MACA No.200/2012 (Delhi High Court) Nagappa v. Gurdayal Singh, 2003 (2) SCC 274 UP State Road Transport Corporation v. Trilok Chandra, (1996) 4 SCC 362 General Manager Kerala State Road Transport Corporation v. Susamma Thomas, (1994) 2 SCC 176 Sarla Verma v. DTC, (2009) 6 SCC 121 R.K. Malik v. Kiran Pal, 2009 (14) SCC 1 Munna Lal Jain and Others v. Vipin Kumar Sharma, MANU/SC/0640/2015 National Insurance Co. Ltd. v. Pranay Sethi & Ors., SLP (C) No.25590/2014 Laxmidhar Nayak & Ors. v. Juggal Kishore Behera & Ors., MANU/SC/1506/2017 Raj Kumar v. Ajay Kumar & Anr., (2011) 1 SCC 343 New India Assurance Co. Ltd. v. Gopali & Ors., 2012 ACJ 2131 SC Jiju Kuruvila & Ors. v. Kunjujamma Mohan & Ors., 2013 ACJ 2141 SC Puttamma v. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 SC New India Assurance Company Limited v. Kashmiri Lal, 2007 ACJ 688"
+}

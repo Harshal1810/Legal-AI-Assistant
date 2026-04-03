@@ -1,0 +1,71 @@
+{
+  "doc_id": "doc_039",
+  "case_name": "Smt. Kamla Devi vs Government Of Nct Of Delhi And Anr.",
+  "court": "High Court of Delhi",
+  "year": 2004,
+  "judgment_date": "10 September, 2004",
+  "citation": "III(2004)ACC335; 2005ACJ216; 114(2004)DLT57; 2004(76)DRJ739",
+  "involves_motor_accident": false,
+  "involves_commercial_vehicle": false,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": false,
+  "pay_and_recover_applied": false,
+  "involves_death": true,
+  "involves_injury": false,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "Rs 4,36,500/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Kamla Devi (for herself and minor son Mukesh)",
+      "claim_type": "death",
+      "tribunal_amount": null,
+      "final_amount": "Rs 4,36,500/-",
+      "interest": "Simple interest @ 7% p.a. from 20.4.1996 until date of payment",
+      "notes": "Final amount is after adjusting ex-gratia payment of Rs.50,000/- already paid by Govt. of NCT of Delhi."
+    }
+  ],
+  "facts": "On 20.4.1996 Uday Singh, an electrician from Wazirpur (Gurgaon), died in a massive explosion at/near Arjun Guest House in Paharganj, Delhi while a terrorist was assembling an improvised explosive device. The petitioner, widow Kamla Devi, and her infant son Mukesh survived; the State paid an ex-gratia Rs.50,000/- to the petitioner. The petitioner filed a writ petition under Article 226 seeking Rs.10 lakhs as compensation for breach of the fundamental right under Article 21.",
+  "arguments_claimant": "The petitioner argued that the State failed in its public duty to protect life under Article 21 and that the ex-gratia payment was only compassionate and not a recognition of a legal right to compensation. She sought compensation under the court's public law jurisdiction (Article 226) for deprivation of the right to life and relied on precedents enabling monetary relief for such breaches.",
+  "arguments_respondent": "The respondents contended that the ex-gratia payment of Rs.50,000/- was an act of compassion and did not constitute admission of legal liability. They also argued there was no dereliction of duty: constables were deployed and the guest house was private property, implying liability might lie with the guest house owner.",
+  "ratio_decidendi": "\"The claim in public law for compensation for unconstitutional deprivation of fundamental right to life and liberty ... is a claim based on strict liability\"; the Court held that where a fundamental right under Article 21 is established to have been infringed by State failure, the High Court can award monetary compensation under Article 226. The Court applied established precedent that such compensation is \"in addition to the claim available in private law for damages\" and emphasised that the award should be \"compensatory and not ... punitive\". For quantifying pecuniary loss the Court adopted the Supreme Court-endorsed \"multiplier method\": \"the multiplier method involves the ascertainment of the loss of dependency or the multiplicand ... and capitalizing the multiplicand by an appropriate multiplier.\" The Court qualified that a two-part award (a conventional/standard sum for non-pecuniary loss plus dependency calculated by the multiplier method) is appropriate, and any ex-gratia payment by the State should be adjusted against the award.",
+  "final_order": "The respondents (Government of NCT of Delhi) were directed to pay Rs.4,36,500/- to the petitioner (for herself and her minor son) with simple interest @7% p.a. from 20.4.1996 until payment, within four weeks; the writ petition was disposed of.",
+  "summary": "This is a 2004 Delhi High Court writ petition where widow Kamla Devi sought compensation after her husband, Uday Singh, died in a 1996 terrorist explosion in Paharganj, Delhi. The court held the State liable under Article 21 for failure to protect life and awarded public-law compensation under Article 226. The court applied the multiplier method for dependency and a conventional sum for non-pecuniary loss, adjusted the Rs.50,000 ex-gratia already paid, and directed payment of Rs.4,36,500 with interest. The judgment affirms the High Court's power to grant monetary relief to victims of crime where State duty has been breached.",
+  "embedding_summary": "Smt. Kamla Devi v. Government of NCT of Delhi, High Court of Delhi, 10 Sep 2004 (III(2004)ACC335; 2005ACJ216; 114(2004)DLT57; 2004(76)DRJ739). Facts: on 20.4.1996 Uday Singh died in a blast at Arjun Guest House, Paharganj, Delhi; petitioner widow sought Rs.10,00,000; State paid ex-gratia Rs.50,000. Key legal issues: State liability for breach of Article 21, availability of public-law compensation under Article 226/Article 32 jurisprudence (D.K. Basu, Nilabati Behera), applicability of \"multiplier method\" for dependency (G.M. Kerala SRTC v. Susamma Thomas), and use of a conventional/standard sum for non-pecuniary loss. Statutory and procedural hooks cited include Article 21, Article 226, Article 32, Section 357 CrPC, Second Schedule MV Act 1988 and reference to Section 110-B Motor Vehicles Act 1939. Outcome: State directed to pay Rs.4,36,500/- (after adjusting Rs.50,000 ex-gratia) with simple interest @7% from 20.4.1996; writ petition allowed.",
+  "legal_principles": [
+    "State liable under public law (Article 21/Article 226) for failure to protect life in terrorist/criminal acts",
+    "Public-law compensation is \"based on strict liability\" and is in addition to private law remedies",
+    "Use of two-part award: conventional/standard sum for non-pecuniary loss plus pecuniary dependency",
+    "Multiplier method for calculating dependency: \"ascertainment of the loss of dependency ... capitalizing the multiplicand by an appropriate multiplier\"",
+    "Ex-gratia payments by the State are to be adjusted against any compensation awarded",
+    "State entitled to be subrogated to recover compensation from wrongdoer(s) where appropriate",
+    "Courts should award compensatory (not punitive) relief and may apply international norms when domestic law is silent"
+  ],
+  "sections_cited": [
+    "Article 21 of the Constitution",
+    "Article 226 of the Constitution",
+    "Article 32 of the Constitution",
+    "Section 357 Code of Criminal Procedure, 1973",
+    "Probation of Offenders Act, 1958",
+    "Fatal Accidents Act, 1855",
+    "Section 110-B of the Motor Vehicles Act, 1939",
+    "Second Schedule to the Motor Vehicles Act, 1988"
+  ],
+  "cases_cited": [
+    "D.K. Basu v. State of W.B.",
+    "Nilabati Behera v. State of Orissa",
+    "G.M., Kerala SRTC v. Susamma Thomas",
+    "U.P. State Road Transport Corpn. v. Trilok Chandra",
+    "M.S. Grewal v. Deep Chand Sood",
+    "Mrs Sudha Rasheed v. Union of India",
+    "Lata Wadhwa v. State of Bihar",
+    "Charan Lal Sahu v. Union of India",
+    "M.V. Elisabeth v. Harwan Investment and Trading (P) Ltd.",
+    "Ward v. James",
+    "Andrews v. Grand and Toy Alberta Limited",
+    "R.D. Hattangadi v. Pest Control (India) (P) Ltd.",
+    "Nagappa v. Gurudayal Singh",
+    "State of Gujarat v. Hon'ble High Court of Gujarat"
+  ],
+  "bm25_text": "Smt. Kamla Devi vs Government Of Nct Of Delhi And Anr. High Court of Delhi 2004 On 20.4.1996 Uday Singh, an electrician from Wazirpur (Gurgaon), died in a massive explosion at/near Arjun Guest House in Paharganj, Delhi while a terrorist was assembling an improvised explosive device. The petitioner, widow Kamla Devi, and her infant son Mukesh survived; the State paid an ex-gratia Rs.50,000/- to the petitioner. The petitioner filed a writ petition under Article 226 seeking Rs.10 lakhs as compensation for breach of the fundamental right under Article 21. The petitioner argued that the State failed in its public duty to protect life under Article 21 and that the ex-gratia payment was only compassionate and not a recognition of a legal right to compensation. She sought compensation under the court's public law jurisdiction (Article 226) for deprivation of the right to life and relied on precedents enabling monetary relief for such breaches. The respondents contended that the ex-gratia payment of Rs.50,000/- was an act of compassion and did not constitute admission of legal liability. They also argued there was no dereliction of duty: constables were deployed and the guest house was private property, implying liability might lie with the guest house owner. \"The claim in public law for compensation for unconstitutional deprivation of fundamental right to life and liberty ... is a claim based on strict liability\"; the Court held that where a fundamental right under Article 21 is established to have been infringed by State failure, the High Court can award monetary compensation under Article 226. The Court applied established precedent that such compensation is \"in addition to the claim available in private law for damages\" and emphasised that the award should be \"compensatory and not ... punitive\". For quantifying pecuniary loss the Court adopted the Supreme Court-endorsed \"multiplier method\": \"the multiplier method involves the ascertainment of the loss of dependency or the multiplicand ... and capitalizing the multiplicand by an appropriate multiplier.\" The Court qualified that a two-part award (a conventional/standard sum for non-pecuniary loss plus dependency calculated by the multiplier method) is appropriate, and any ex-gratia payment by the State should be adjusted against the award. The respondents (Government of NCT of Delhi) were directed to pay Rs.4,36,500/- to the petitioner (for herself and her minor son) with simple interest @7% p.a. from 20.4.1996 until payment, within four weeks; the writ petition was disposed of. This is a 2004 Delhi High Court writ petition where widow Kamla Devi sought compensation after her husband, Uday Singh, died in a 1996 terrorist explosion in Paharganj, Delhi. The court held the State liable under Article 21 for failure to protect life and awarded public-law compensation under Article 226. The court applied the multiplier method for dependency and a conventional sum for non-pecuniary loss, adjusted the Rs.50,000 ex-gratia already paid, and directed payment of Rs.4,36,500 with interest. The judgment affirms the High Court's power to grant monetary relief to victims of crime where State duty has been breached. Smt. Kamla Devi v. Government of NCT of Delhi, High Court of Delhi, 10 Sep 2004 (III(2004)ACC335; 2005ACJ216; 114(2004)DLT57; 2004(76)DRJ739). Facts: on 20.4.1996 Uday Singh died in a blast at Arjun Guest House, Paharganj, Delhi; petitioner widow sought Rs.10,00,000; State paid ex-gratia Rs.50,000. Key legal issues: State liability for breach of Article 21, availability of public-law compensation under Article 226/Article 32 jurisprudence (D.K. Basu, Nilabati Behera), applicability of \"multiplier method\" for dependency (G.M. Kerala SRTC v. Susamma Thomas), and use of a conventional/standard sum for non-pecuniary loss. Statutory and procedural hooks cited include Article 21, Article 226, Article 32, Section 357 CrPC, Second Schedule MV Act 1988 and reference to Section 110-B Motor Vehicles Act 1939. Outcome: State directed to pay Rs.4,36,500/- (after adjusting Rs.50,000 ex-gratia) with simple interest @7% from 20.4.1996; writ petition allowed. Kamla Devi (for herself and minor son Mukesh) Rs 4,36,500/- Simple interest @ 7% p.a. from 20.4.1996 until date of payment Final amount is after adjusting ex-gratia payment of Rs.50,000/- already paid by Govt. of NCT of Delhi. State liable under public law (Article 21/Article 226) for failure to protect life in terrorist/criminal acts Public-law compensation is \"based on strict liability\" and is in addition to private law remedies Use of two-part award: conventional/standard sum for non-pecuniary loss plus pecuniary dependency Multiplier method for calculating dependency: \"ascertainment of the loss of dependency ... capitalizing the multiplicand by an appropriate multiplier\" Ex-gratia payments by the State are to be adjusted against any compensation awarded State entitled to be subrogated to recover compensation from wrongdoer(s) where appropriate Courts should award compensatory (not punitive) relief and may apply international norms when domestic law is silent Article 21 of the Constitution Article 226 of the Constitution Article 32 of the Constitution Section 357 Code of Criminal Procedure, 1973 Probation of Offenders Act, 1958 Fatal Accidents Act, 1855 Section 110-B of the Motor Vehicles Act, 1939 Second Schedule to the Motor Vehicles Act, 1988 D.K. Basu v. State of W.B. Nilabati Behera v. State of Orissa G.M., Kerala SRTC v. Susamma Thomas U.P. State Road Transport Corpn. v. Trilok Chandra M.S. Grewal v. Deep Chand Sood Mrs Sudha Rasheed v. Union of India Lata Wadhwa v. State of Bihar Charan Lal Sahu v. Union of India M.V. Elisabeth v. Harwan Investment and Trading (P) Ltd. Ward v. James Andrews v. Grand and Toy Alberta Limited R.D. Hattangadi v. Pest Control (India) (P) Ltd. Nagappa v. Gurudayal Singh State of Gujarat v. Hon'ble High Court of Gujarat"
+}

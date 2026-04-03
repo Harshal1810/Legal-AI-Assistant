@@ -1,0 +1,63 @@
+{
+  "doc_id": "doc_014",
+  "case_name": "Shivlal And Ors. Etc. vs Smt. Rukmabai And Ors. on 17 December, 1985",
+  "court": "High Court of Madhya Pradesh",
+  "year": 1985,
+  "judgment_date": "17 December, 1985",
+  "citation": "AIR1986MP228",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": true,
+  "pay_and_recover_applied": false,
+  "involves_death": true,
+  "involves_injury": false,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "partial",
+  "compensation_amount": "Rs. 32,000/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Smt. Rukmabai (widow) and minors Radheshyam & Jagdish (sons) - dependents of deceased Laxminarayan",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 32,000/-",
+      "final_amount": "Rs. 32,000/-",
+      "interest": null,
+      "notes": "Tribunal award of Rs.32,000/- confirmed against the owners; insurer's liability set aside."
+    }
+  ],
+  "facts": "On 24-4-1977 at about 11:30 a.m. the tractor bearing registration No. MPU 5571 (owned by Shivlal and Kanhaiyalal) turned turtle on the road between Bibdod and Ratlam near Sagod. The tractor was being driven by Shivlal and was carrying Laxminarayan (aged about 50), an agriculturist and milk vendor, who died instantly. The widow Rukmabai and minor sons sued for compensation (Claim Case No.16 of 1977), claiming Rs.1,50,000. The Motor Accident Claims Tribunal awarded a net sum of Rs.32,000; the owners and insurer appealed.",
+  "arguments_claimant": "Claimants argued the accident was caused by the negligence of the driver Shivlal who was driving at excessive speed and lost control when faced with a cow, and claimed net annual dependency of Rs.5,000 and large future longevity. They sought enhancement of the Tribunal's award. The claimants relied on the presumption of negligence in the circumstances and standard methods for assessing dependency.",
+  "arguments_respondent": "Owners contended the deceased had forcibly taken a seat and that the accident was not due to any negligence by the driver; different witnesses suggested alternative causes (driver bowing at a temple). The insurer denied liability arguing the insurance policy did not cover gratuitous passengers and thus under Section 95 the insurer was not liable.",
+  "ratio_decidendi": "“It is well settled that the liability for compensation is founded on negligence. Normally from the mere happening of a motor accident, negligence on the part of the driver cannot always be presumed in each and every case. But there is an exception to this normal rule. Where the accident is such that it attracts the doctrine of res ipsa loquitur, the mere proof of accident raises a rebuttable presumption of negligence.” The Court held that a heavy vehicle turning turtle ordinarily does not happen without negligence and therefore “the applicability of the maxim res ipsa loquitur is clearly, therefore, attracted in this case and there is no credible material to rebut the presumption of negligence.” On insurer liability the Court stated: “It is well settled that the insurer's liability is limited to the statutory minimum required by Section 95(2) of the Act.” Quoting Pushpabai, the Court held that “it is not required that a policy of insurance should cover risk to the passengers who are not carried for hire or reward,” and therefore where the deceased was a gratuitous passenger and the policy did not cover such risk the insurer could not be fastened with liability.",
+  "final_order": "Misc. Appeal No. 26 of 1981 by the owners is dismissed (award against owners confirmed). Misc. Appeal No. 55 of 1981 by the insurer is allowed and the award insofar as it directed payment by the insurer is set aside; cross-objections by the claimants are dismissed. Costs in this Court to be borne by the parties as incurred.",
+  "summary": "This is a motor-accident fatality case where the High Court held that the tractor turning turtle attracted the doctrine of res ipsa loquitur and therefore negligence of the driver was presumed. The Tribunal's award of Rs.32,000 to the deceased's dependents was upheld against the vehicle owners, but the insurer's appeal succeeded because the deceased was a gratuitous passenger and the policy did not cover such risk. Claimants' plea for enhancement failed.",
+  "embedding_summary": "Shivlal & Ors. v. Rukmabai & Ors., High Court of Madhya Pradesh, judgment 17 December 1985 (AIR1986MP228), Claim Case No.16 of 1977, M.A. 26/81 (owners) and M.A. 55/81 (insurer). Accident on 24-4-1977 near Bibdod-Ratlam: tractor (Reg. MPU 5571) turned turtle, causing death of Laxminarayan (aged ~50). Key issues: driver negligence (res ipsa loquitur), insurer liability for gratuitous passenger, scope of Section 95/95(2) and Section 96(2)(b)(i), Rule 111(1) M.P. Motor Vehicles Rules 1974, and assessment under Section 110-B. Court applied res ipsa loquitur to fix negligence on driver, confirmed Tribunal's compensation of Rs.32,000 against the owners, but allowed insurer's appeal and set aside insurer's liability because the policy did not cover gratuitous passengers. Cases relied on include Municipal Corporation of Delhi (AIR 1966 SC 1750), Pushpabai (AIR 1977 SC 1735), Patharibai (AIR 1985 Madh Pra 103) and several state decisions; compensation confirmed at Rs.32,000.",
+  "legal_principles": [
+    "Applicability of res ipsa loquitur where the accident (heavy vehicle turning turtle) is such that it is improbable to occur without negligence; burden shifts to driver to explain",
+    "Insurer's liability is limited to the statutory minimum under Section 95(2) of the Act",
+    "Insurance policy need not cover gratuitous passengers; insurer not liable for risks to passengers not carried for hire or reward unless policy expressly covers them",
+    "Assessment of compensation is discretionary under Section 110-B and often uses annual dependency (multiplicand) and multiplier method",
+    "Standard of proof for civil negligence is on balance of probabilities; criminal proof standard not required"
+  ],
+  "sections_cited": [
+    "Section 95(2) of the Act",
+    "Section 95 of the Act",
+    "Section 96(2)(b)(i) of the Act",
+    "Section 110-B of the Act",
+    "Sections 1A and 2 of the Fatal Accidents Act",
+    "Rule 111(1) M.P. Motor Vehicles Rules 1974"
+  ],
+  "cases_cited": [
+    "Municipal Corporation of Delhi, AIR 1966 SC 1750",
+    "Pushpabai, AIR 1977 SC 1735",
+    "Manguba (1982) 2 MPWN 193",
+    "New India Assurance Co. v. Mehrunnisa (1983 Jab LJ (Note) 21)",
+    "Thakurbai (1983 MPWN 355)",
+    "Chameli Devi (1982 Jab LJ 290)",
+    "Patharibai, AIR 1985 Madh Pra 103",
+    "Abdul Razak, AIR 1983 All 400",
+    "Ramesh Kumar, AIR 1979 Madh Pra 124",
+    "State of M.P. v. Devi Ramat, AIR 1981 Madh Pra 173"
+  ],
+  "bm25_text": "Shivlal And Ors. Etc. vs Smt. Rukmabai And Ors. on 17 December, 1985 High Court of Madhya Pradesh 1985 On 24-4-1977 at about 11:30 a.m. the tractor bearing registration No. MPU 5571 (owned by Shivlal and Kanhaiyalal) turned turtle on the road between Bibdod and Ratlam near Sagod. The tractor was being driven by Shivlal and was carrying Laxminarayan (aged about 50), an agriculturist and milk vendor, who died instantly. The widow Rukmabai and minor sons sued for compensation (Claim Case No.16 of 1977), claiming Rs.1,50,000. The Motor Accident Claims Tribunal awarded a net sum of Rs.32,000; the owners and insurer appealed. Claimants argued the accident was caused by the negligence of the driver Shivlal who was driving at excessive speed and lost control when faced with a cow, and claimed net annual dependency of Rs.5,000 and large future longevity. They sought enhancement of the Tribunal's award. The claimants relied on the presumption of negligence in the circumstances and standard methods for assessing dependency. Owners contended the deceased had forcibly taken a seat and that the accident was not due to any negligence by the driver; different witnesses suggested alternative causes (driver bowing at a temple). The insurer denied liability arguing the insurance policy did not cover gratuitous passengers and thus under Section 95 the insurer was not liable. “It is well settled that the liability for compensation is founded on negligence. Normally from the mere happening of a motor accident, negligence on the part of the driver cannot always be presumed in each and every case. But there is an exception to this normal rule. Where the accident is such that it attracts the doctrine of res ipsa loquitur, the mere proof of accident raises a rebuttable presumption of negligence.” The Court held that a heavy vehicle turning turtle ordinarily does not happen without negligence and therefore “the applicability of the maxim res ipsa loquitur is clearly, therefore, attracted in this case and there is no credible material to rebut the presumption of negligence.” On insurer liability the Court stated: “It is well settled that the insurer's liability is limited to the statutory minimum required by Section 95(2) of the Act.” Quoting Pushpabai, the Court held that “it is not required that a policy of insurance should cover risk to the passengers who are not carried for hire or reward,” and therefore where the deceased was a gratuitous passenger and the policy did not cover such risk the insurer could not be fastened with liability. Misc. Appeal No. 26 of 1981 by the owners is dismissed (award against owners confirmed). Misc. Appeal No. 55 of 1981 by the insurer is allowed and the award insofar as it directed payment by the insurer is set aside; cross-objections by the claimants are dismissed. Costs in this Court to be borne by the parties as incurred. This is a motor-accident fatality case where the High Court held that the tractor turning turtle attracted the doctrine of res ipsa loquitur and therefore negligence of the driver was presumed. The Tribunal's award of Rs.32,000 to the deceased's dependents was upheld against the vehicle owners, but the insurer's appeal succeeded because the deceased was a gratuitous passenger and the policy did not cover such risk. Claimants' plea for enhancement failed. Shivlal & Ors. v. Rukmabai & Ors., High Court of Madhya Pradesh, judgment 17 December 1985 (AIR1986MP228), Claim Case No.16 of 1977, M.A. 26/81 (owners) and M.A. 55/81 (insurer). Accident on 24-4-1977 near Bibdod-Ratlam: tractor (Reg. MPU 5571) turned turtle, causing death of Laxminarayan (aged ~50). Key issues: driver negligence (res ipsa loquitur), insurer liability for gratuitous passenger, scope of Section 95/95(2) and Section 96(2)(b)(i), Rule 111(1) M.P. Motor Vehicles Rules 1974, and assessment under Section 110-B. Court applied res ipsa loquitur to fix negligence on driver, confirmed Tribunal's compensation of Rs.32,000 against the owners, but allowed insurer's appeal and set aside insurer's liability because the policy did not cover gratuitous passengers. Cases relied on include Municipal Corporation of Delhi (AIR 1966 SC 1750), Pushpabai (AIR 1977 SC 1735), Patharibai (AIR 1985 Madh Pra 103) and several state decisions; compensation confirmed at Rs.32,000. Smt. Rukmabai (widow) and minors Radheshyam & Jagdish (sons) - dependents of deceased Laxminarayan Rs. 32,000/- Rs. 32,000/- Tribunal award of Rs.32,000/- confirmed against the owners; insurer's liability set aside. Applicability of res ipsa loquitur where the accident (heavy vehicle turning turtle) is such that it is improbable to occur without negligence; burden shifts to driver to explain Insurer's liability is limited to the statutory minimum under Section 95(2) of the Act Insurance policy need not cover gratuitous passengers; insurer not liable for risks to passengers not carried for hire or reward unless policy expressly covers them Assessment of compensation is discretionary under Section 110-B and often uses annual dependency (multiplicand) and multiplier method Standard of proof for civil negligence is on balance of probabilities; criminal proof standard not required Section 95(2) of the Act Section 95 of the Act Section 96(2)(b)(i) of the Act Section 110-B of the Act Sections 1A and 2 of the Fatal Accidents Act Rule 111(1) M.P. Motor Vehicles Rules 1974 Municipal Corporation of Delhi, AIR 1966 SC 1750 Pushpabai, AIR 1977 SC 1735 Manguba (1982) 2 MPWN 193 New India Assurance Co. v. Mehrunnisa (1983 Jab LJ (Note) 21) Thakurbai (1983 MPWN 355) Chameli Devi (1982 Jab LJ 290) Patharibai, AIR 1985 Madh Pra 103 Abdul Razak, AIR 1983 All 400 Ramesh Kumar, AIR 1979 Madh Pra 124 State of M.P. v. Devi Ramat, AIR 1981 Madh Pra 173"
+}

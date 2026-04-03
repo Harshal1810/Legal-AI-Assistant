@@ -1,0 +1,83 @@
+{
+  "doc_id": "doc_001",
+  "case_name": "United India Insurance Company Ltd vs Neelam Devi And Others",
+  "court": "High Court of Punjab and Haryana at Chandigarh",
+  "year": 2023,
+  "judgment_date": "06.11.2023",
+  "citation": "Neutral Citation No:=2023:PHHC:141930; FAO-1113-2018 (O&M) and other connected cases",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": true,
+  "involves_unlicensed_driver": true,
+  "insurance_contested_liability": true,
+  "pay_and_recover_applied": true,
+  "involves_death": true,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "partial",
+  "compensation_amount": "Rs. 72,78,036/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Munish Kumar (deceased)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 12,59,600/-",
+      "final_amount": "Rs. 40,60,400/-",
+      "interest": "9% p.a. as per Tribunal's award",
+      "notes": "Final amount after recalculation using ITR, 40% future prospects and multiplier 16; difference of Rs.28,00,800/- payable with interest as per award."
+    },
+    {
+      "claimant_or_victim": "Sunil @ Rohit (injured)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 1,36,336/-",
+      "final_amount": "Rs. 1,36,336/-",
+      "interest": "9% p.a. as per Tribunal's award",
+      "notes": "Tribunal award of Rs.1,36,336/- on medical, pain and suffering, transport/special diet and loss of education upheld."
+    },
+    {
+      "claimant_or_victim": "Ram Niwas (deceased)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 10,66,550/-",
+      "final_amount": "Rs. 12,71,300/-",
+      "interest": "9% p.a. as per Tribunal's award",
+      "notes": "Final amount after applying 25% future prospects and multiplier 13; difference of Rs.2,04,750/- payable with interest as per award."
+    },
+    {
+      "claimant_or_victim": "Sultan Singh (deceased)",
+      "claim_type": "death",
+      "tribunal_amount": "Rs. 13,88,300/-",
+      "final_amount": "Rs. 18,10,000/-",
+      "interest": "9% p.a. as per Tribunal's award",
+      "notes": "Final amount after applying 40% future prospects and multiplier 18; difference of Rs.4,21,700/- payable with interest as per award."
+    }
+  ],
+  "facts": "On 21.11.2013 at about 11:30 P.M. a Maruti Swift car (HR-99-QMTP-3245) with four occupants was found beneath a Truck/Tanker (HR-38-F-4365) near Narwana road, Jind. Three occupants (Sultan and Munish in the car, and later Ram Niwas in hospital) died and one (Sunil @ Rohit) was injured. FIR No. 938 dated 22.11.2013 under Sections 279, 337, 338 and 304-A IPC was registered alleging rash and negligent driving by the driver of the Truck/Tanker. Multiple MACP claims under Section 166 MV Act were filed by dependents and the injured for compensation.",
+  "arguments_claimant": "Claimants maintained the accident, deaths and injuries were proved through witness testimony, post-mortems, medical bills and ITRs; they argued the Tribunal's assessed incomes and awards were justified and that future prospects should be applied (relying on Pranay Sethi). The injured claimant produced hospital bills and MLR to support medical expenditure and non-pecuniary heads. Cross-objections sought enhancement where Tribunal awards were low.",
+  "arguments_respondent": "The insurance company contested quantum and the proof of incomes and medical bills, argued Tribunal erred by using Deputy Commissioner's rates instead of Minimum Wages and that driver lacked requisite endorsement for carrying hazardous goods making policy terms violated. The owner and insurer contended the driving license was valid and the vehicle insured, so insurer liable to pay; insurer sought liberty to recover if policy terms breached.",
+  "ratio_decidendi": "The Court held that \"The provision to grant compensation under Motor Vehicles Act is a beneficial legislation and in such like situation, the restriction to assess the income of deceased victim as provided under Minimum Wages Act is unjustified.\" The Court further observed that \"there cannot be any fixed rule in all the situations where there is no documentary evidence regarding income of the deceased nor there is any fixed rule that income of the deceased has to be taken only as per minimum wages revised from time to time.\" The Court applied the principle that \"By relying upon the authority cited in \"National Insurance Company Limited versus Pranay Sethi and Ors.\", 2017(4) R.C.R.(Civil) 1009, the future prospects have to be considered\" and recalculated compensation applying appropriate percentages and multipliers. On licensing and insurance, the Court held that \"a special endorsement is required on the driving license for driving a vehicle carrying dangerous or hazardous goods\" and concluded that \"there is no such endorsement on the driving license of Sandeep. Therefore, he was not competent to drive Truck/Tanker and there is clear cut violation of the terms and conditions of insurance policy\" but that \"the insurance company cannot escape its liability to make payment of compensation awarded in favour of the claimants. Once the payment is made, the insurance company has right to recover the same from the insured.\"",
+  "final_order": "The appeals were disposed of: the Tribunal's award in favour of Sunil @ Rohit (Rs.1,36,336/-) was upheld; the awards in death cases were recalculated and increased to Rs.40,60,400/- (Munish), Rs.12,71,300/- (Ram Niwas) and Rs.18,10,000/- (Sultan), respectively; findings on licensing were reversed to hold the driver lacked special endorsement, permitting the insurer to recover compensation from the insured though the insurer remains liable to pay.",
+  "summary": "This High Court appeal arose from a 2013 collision between a Maruti car and a tanker near Jind, causing three deaths and one injury. The insurer challenged the Tribunal's compensation awards and argued the tanker driver lacked the special endorsement required for hazardous goods. The Court recalculated and increased several death awards (and upheld the injured claimant's award), applied future prospects per Pranay Sethi, and held that lack of endorsement violated policy terms but the insurer must still pay and may recover from the owner. Practically, claimants received enhanced relief while the insurer retains a right of recovery against the insured.",
+  "embedding_summary": "United India Insurance Company Ltd v Neelam Devi & Ors., High Court of Punjab & Haryana, Neutral Citation No.=2023:PHHC:141930, pronounced 06.11.2023 (FAO-1113/1114/1119/1120). Accident on 21.11.2013 near Narwana road, Jind: Maruti Swift car (HR-99-QMTP-3245) crushed beneath a Truck/Tanker (HR-38-F-4365); deaths: Munish Kumar, Sultan Singh, Ram Niwas; injured: Sunil @ Rohit. Claims under Section 166 MV Act; FIR under IPC Sections 279, 337, 338, 304-A. Key issues: quantum of compensation (income assessment, future prospects per National Insurance Co. Ltd v Pranay Sethi), admissibility of ITRs, use of Deputy Commissioner's rates vs Minimum Wages, special endorsement requirement under CMVR Rule 9 / Rule 132(5) for hazardous goods drivers, insurer's right to recover. Outcome: Sunil's award Rs.1,36,336/- upheld; death awards modified to Rs.40,60,400/- (Munish), Rs.12,71,300/- (Ram Niwas), Rs.18,10,000/- (Sultan); insurer liable to pay but entitled to recover from insured; interest as per Tribunal (9% p.a.).",
+  "legal_principles": [
+    "Motor Vehicles Act is beneficial legislation; income assessment is not strictly bound by Minimum Wages Act rates",
+    "No fixed rule to assess income only by Deputy Commissioner's rates or Minimum Wages where documentary evidence is absent",
+    "Future prospects must be considered (Pranay Sethi) and applied with appropriate percentage and multiplier",
+    "Special endorsement required on driving license for vehicles carrying dangerous/hazardous goods (CMVR Rule 9 / Rule 132(5))",
+    "Insurer remains liable to pay compensation even if policy terms are breached but has a right to recover amounts from insured (pay-and-recover doctrine)"
+  ],
+  "sections_cited": [
+    "Section 166 Motor Vehicles Act",
+    "Section 14(2) Motor Vehicles Act",
+    "Sections 279, 337, 338 and 304-A IPC",
+    "Minimum Wages Act (referenced)",
+    "Rule 9 Central Motor Vehicles Rules, 1989",
+    "Rule 132(5) Central Motor Vehicles Rules, 1989",
+    "Rule 133 Central Motor Vehicles Rules, 1989"
+  ],
+  "cases_cited": [
+    "National Insurance Company Limited versus Pranay Sethi and Ors., 2017(4) R.C.R.(Civil) 1009",
+    "Smt. Sarla Verma and others Vs Delhi Transport Corporation and another, 2009 ACJ 1298 (Supreme Court of India)",
+    "Pappu versus Vinod Kumar Lamba, (2018) AIR(SCW) 592 (Supreme Court of India)",
+    "Hardeep Singh versus Rajesh Singh and others (FAO-5232-2013 (O&M))",
+    "United India Insurance Company Limited versus Smt. Ram Vati and others (FAO-303-2018 (O&M))"
+  ],
+  "bm25_text": "United India Insurance Company Ltd vs Neelam Devi And Others High Court of Punjab and Haryana at Chandigarh 2023 On 21.11.2013 at about 11:30 P.M. a Maruti Swift car (HR-99-QMTP-3245) with four occupants was found beneath a Truck/Tanker (HR-38-F-4365) near Narwana road, Jind. Three occupants (Sultan and Munish in the car, and later Ram Niwas in hospital) died and one (Sunil @ Rohit) was injured. FIR No. 938 dated 22.11.2013 under Sections 279, 337, 338 and 304-A IPC was registered alleging rash and negligent driving by the driver of the Truck/Tanker. Multiple MACP claims under Section 166 MV Act were filed by dependents and the injured for compensation. Claimants maintained the accident, deaths and injuries were proved through witness testimony, post-mortems, medical bills and ITRs; they argued the Tribunal's assessed incomes and awards were justified and that future prospects should be applied (relying on Pranay Sethi). The injured claimant produced hospital bills and MLR to support medical expenditure and non-pecuniary heads. Cross-objections sought enhancement where Tribunal awards were low. The insurance company contested quantum and the proof of incomes and medical bills, argued Tribunal erred by using Deputy Commissioner's rates instead of Minimum Wages and that driver lacked requisite endorsement for carrying hazardous goods making policy terms violated. The owner and insurer contended the driving license was valid and the vehicle insured, so insurer liable to pay; insurer sought liberty to recover if policy terms breached. The Court held that \"The provision to grant compensation under Motor Vehicles Act is a beneficial legislation and in such like situation, the restriction to assess the income of deceased victim as provided under Minimum Wages Act is unjustified.\" The Court further observed that \"there cannot be any fixed rule in all the situations where there is no documentary evidence regarding income of the deceased nor there is any fixed rule that income of the deceased has to be taken only as per minimum wages revised from time to time.\" The Court applied the principle that \"By relying upon the authority cited in \"National Insurance Company Limited versus Pranay Sethi and Ors.\", 2017(4) R.C.R.(Civil) 1009, the future prospects have to be considered\" and recalculated compensation applying appropriate percentages and multipliers. On licensing and insurance, the Court held that \"a special endorsement is required on the driving license for driving a vehicle carrying dangerous or hazardous goods\" and concluded that \"there is no such endorsement on the driving license of Sandeep. Therefore, he was not competent to drive Truck/Tanker and there is clear cut violation of the terms and conditions of insurance policy\" but that \"the insurance company cannot escape its liability to make payment of compensation awarded in favour of the claimants. Once the payment is made, the insurance company has right to recover the same from the insured.\" The appeals were disposed of: the Tribunal's award in favour of Sunil @ Rohit (Rs.1,36,336/-) was upheld; the awards in death cases were recalculated and increased to Rs.40,60,400/- (Munish), Rs.12,71,300/- (Ram Niwas) and Rs.18,10,000/- (Sultan), respectively; findings on licensing were reversed to hold the driver lacked special endorsement, permitting the insurer to recover compensation from the insured though the insurer remains liable to pay. This High Court appeal arose from a 2013 collision between a Maruti car and a tanker near Jind, causing three deaths and one injury. The insurer challenged the Tribunal's compensation awards and argued the tanker driver lacked the special endorsement required for hazardous goods. The Court recalculated and increased several death awards (and upheld the injured claimant's award), applied future prospects per Pranay Sethi, and held that lack of endorsement violated policy terms but the insurer must still pay and may recover from the owner. Practically, claimants received enhanced relief while the insurer retains a right of recovery against the insured. United India Insurance Company Ltd v Neelam Devi & Ors., High Court of Punjab & Haryana, Neutral Citation No.=2023:PHHC:141930, pronounced 06.11.2023 (FAO-1113/1114/1119/1120). Accident on 21.11.2013 near Narwana road, Jind: Maruti Swift car (HR-99-QMTP-3245) crushed beneath a Truck/Tanker (HR-38-F-4365); deaths: Munish Kumar, Sultan Singh, Ram Niwas; injured: Sunil @ Rohit. Claims under Section 166 MV Act; FIR under IPC Sections 279, 337, 338, 304-A. Key issues: quantum of compensation (income assessment, future prospects per National Insurance Co. Ltd v Pranay Sethi), admissibility of ITRs, use of Deputy Commissioner's rates vs Minimum Wages, special endorsement requirement under CMVR Rule 9 / Rule 132(5) for hazardous goods drivers, insurer's right to recover. Outcome: Sunil's award Rs.1,36,336/- upheld; death awards modified to Rs.40,60,400/- (Munish), Rs.12,71,300/- (Ram Niwas), Rs.18,10,000/- (Sultan); insurer liable to pay but entitled to recover from insured; interest as per Tribunal (9% p.a.). Munish Kumar (deceased) Rs. 12,59,600/- Rs. 40,60,400/- 9% p.a. as per Tribunal's award Final amount after recalculation using ITR, 40% future prospects and multiplier 16; difference of Rs.28,00,800/- payable with interest as per award. Sunil @ Rohit (injured) Rs. 1,36,336/- Rs. 1,36,336/- 9% p.a. as per Tribunal's award Tribunal award of Rs.1,36,336/- on medical, pain and suffering, transport/special diet and loss of education upheld. Ram Niwas (deceased) Rs. 10,66,550/- Rs. 12,71,300/- 9% p.a. as per Tribunal's award Final amount after applying 25% future prospects and multiplier 13; difference of Rs.2,04,750/- payable with interest as per award. Sultan Singh (deceased) Rs. 13,88,300/- Rs. 18,10,000/- 9% p.a. as per Tribunal's award Final amount after applying 40% future prospects and multiplier 18; difference of Rs.4,21,700/- payable with interest as per award. Motor Vehicles Act is beneficial legislation; income assessment is not strictly bound by Minimum Wages Act rates No fixed rule to assess income only by Deputy Commissioner's rates or Minimum Wages where documentary evidence is absent Future prospects must be considered (Pranay Sethi) and applied with appropriate percentage and multiplier Special endorsement required on driving license for vehicles carrying dangerous/hazardous goods (CMVR Rule 9 / Rule 132(5)) Insurer remains liable to pay compensation even if policy terms are breached but has a right to recover amounts from insured (pay-and-recover doctrine) Section 166 Motor Vehicles Act Section 14(2) Motor Vehicles Act Sections 279, 337, 338 and 304-A IPC Minimum Wages Act (referenced) Rule 9 Central Motor Vehicles Rules, 1989 Rule 132(5) Central Motor Vehicles Rules, 1989 Rule 133 Central Motor Vehicles Rules, 1989 National Insurance Company Limited versus Pranay Sethi and Ors., 2017(4) R.C.R.(Civil) 1009 Smt. Sarla Verma and others Vs Delhi Transport Corporation and another, 2009 ACJ 1298 (Supreme Court of India) Pappu versus Vinod Kumar Lamba, (2018) AIR(SCW) 592 (Supreme Court of India) Hardeep Singh versus Rajesh Singh and others (FAO-5232-2013 (O&M)) United India Insurance Company Limited versus Smt. Ram Vati and others (FAO-303-2018 (O&M))"
+}

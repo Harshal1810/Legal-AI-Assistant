@@ -1,0 +1,531 @@
+[
+  {
+    "id": "eval_001",
+    "title": "Invalid licence in commercial vehicle case – claimant-side research",
+    "query": "Find precedents supporting a claimant where the insurer denies liability because a commercial vehicle driver lacked a valid licence or required endorsement. Also identify adverse or mixed cases the insurer may rely on.",
+    "task_type": "deep_research",
+    "tags": [
+      "licence-defect",
+      "commercial-vehicle",
+      "insurer-liability",
+      "pay-and-recover"
+    ],
+    "gold_relevant_cases": [
+      "doc_001",
+      "doc_006",
+      "doc_027",
+      "doc_032",
+      "doc_033",
+      "doc_035",
+      "doc_031"
+    ],
+    "gold_must_find_cases": [
+      "doc_001",
+      "doc_006",
+      "doc_032",
+      "doc_033"
+    ],
+    "gold_supporting_cases": [
+      "doc_006",
+      "doc_027",
+      "doc_032",
+      "doc_033",
+      "doc_035"
+    ],
+    "gold_adverse_cases": [
+      "doc_031"
+    ],
+    "gold_mixed_cases": [
+      "doc_001"
+    ],
+    "expected_principles": [
+      "insurer must satisfy third-party award despite licence defect in many third-party cases",
+      "pay-and-recover may be directed against the insured",
+      "absence of a separate endorsement for some commercial vehicles does not automatically exonerate the insurer",
+      "insurer bears burden to prove fundamental or wilful breach"
+    ],
+    "expected_risk_themes": [
+      "recovery rights for insurer against owner/insured",
+      "difference between third-party claims and own-damage/consumer disputes"
+    ],
+    "notes": "doc_001 is mixed rather than purely supportive because the insurer remains liable to claimants but gets recovery rights due to hazardous-goods endorsement defect."
+  },
+  {
+    "id": "eval_002",
+    "title": "Pay-and-recover doctrine – broad benchmark",
+    "query": "Find precedents on when courts apply pay-and-recover after breach of policy conditions, and identify cases where courts refused to apply pay-and-recover.",
+    "task_type": "deep_research",
+    "tags": [
+      "pay-and-recover",
+      "policy-breach",
+      "third-party",
+      "adverse-identification"
+    ],
+    "gold_relevant_cases": [
+      "doc_001",
+      "doc_003",
+      "doc_006",
+      "doc_024",
+      "doc_025",
+      "doc_026",
+      "doc_027",
+      "doc_028",
+      "doc_029",
+      "doc_030",
+      "doc_031",
+      "doc_032",
+      "doc_033",
+      "doc_034",
+      "doc_035"
+    ],
+    "gold_must_find_cases": [
+      "doc_025",
+      "doc_029",
+      "doc_030",
+      "doc_031",
+      "doc_032"
+    ],
+    "gold_supporting_cases": [
+      "doc_003",
+      "doc_006",
+      "doc_024",
+      "doc_025",
+      "doc_026",
+      "doc_027",
+      "doc_032",
+      "doc_033",
+      "doc_034",
+      "doc_035"
+    ],
+    "gold_adverse_cases": [
+      "doc_028",
+      "doc_029",
+      "doc_030"
+    ],
+    "gold_mixed_cases": [
+      "doc_001",
+      "doc_031"
+    ],
+    "expected_principles": [
+      "pay-and-recover commonly protects third-party victims despite policy breach",
+      "courts may refuse pay-and-recover where the claimant is outside statutory/policy coverage",
+      "Article 142 style directions cannot be assumed as general statutory power for tribunals",
+      "breach must be analysed against the statutory structure of Sections 147 and 149"
+    ],
+    "expected_risk_themes": [
+      "non-covered passengers",
+      "mudguard/unauthorised occupant claims",
+      "difference between discretionary equitable relief and statutory liability"
+    ],
+    "notes": "This task is ideal for adverse-identification scoring because the corpus contains both strong pro-claimant pay-and-recover cases and strong anti-claimant/non-coverage cases."
+  },
+  {
+    "id": "eval_003",
+    "title": "LMV licence vs commercial endorsement",
+    "query": "Research whether the insurer can avoid liability merely because the driver had an LMV licence but lacked a separate commercial or badge endorsement.",
+    "task_type": "deep_research",
+    "tags": [
+      "lmv",
+      "endorsement",
+      "commercial-endorsement",
+      "insurer-defence"
+    ],
+    "gold_relevant_cases": [
+      "doc_032",
+      "doc_035",
+      "doc_001"
+    ],
+    "gold_must_find_cases": [
+      "doc_032",
+      "doc_035"
+    ],
+    "gold_supporting_cases": [
+      "doc_032"
+    ],
+    "gold_adverse_cases": [
+      "doc_035"
+    ],
+    "gold_mixed_cases": [
+      "doc_001"
+    ],
+    "expected_principles": [
+      "absence of separate commercial endorsement on LMV licence may not by itself defeat third-party claim",
+      "some courts still treat missing transport badge/authorisation as breach but apply pay-and-recover",
+      "vehicle class and specific endorsement requirements matter"
+    ],
+    "expected_risk_themes": [
+      "jurisdiction-specific rule treatment",
+      "difference between lack of endorsement and total absence of licence"
+    ],
+    "notes": "doc_032 is the key supportive Supreme Court authority; doc_035 is adverse/more insurer-friendly on badge requirement; doc_001 is a tanker/hazardous-goods mixed authority."
+  },
+  {
+    "id": "eval_004",
+    "title": "Hazardous goods endorsement for tanker drivers",
+    "query": "Find precedents dealing with special endorsement requirements for drivers of tankers or vehicles carrying hazardous goods, and explain whether claimants still recover against the insurer.",
+    "task_type": "deep_research",
+    "tags": [
+      "hazardous-goods",
+      "tanker",
+      "special-endorsement",
+      "pay-and-recover"
+    ],
+    "gold_relevant_cases": [
+      "doc_001",
+      "doc_027",
+      "doc_032"
+    ],
+    "gold_must_find_cases": [
+      "doc_001"
+    ],
+    "gold_supporting_cases": [],
+    "gold_adverse_cases": [],
+    "gold_mixed_cases": [
+      "doc_001",
+      "doc_027",
+      "doc_032"
+    ],
+    "expected_principles": [
+      "special endorsement may be required for hazardous goods vehicles",
+      "insurer may still have to satisfy third-party claim and recover later",
+      "not every endorsement defect leads to complete exoneration"
+    ],
+    "expected_risk_themes": [
+      "fine distinction between transport-vehicle competency and hazardous-goods endorsement",
+      "mixed authorities that help claimants on payment but help insurers on recovery"
+    ],
+    "notes": "This is intentionally a mixed-authority task; a good agent should avoid overstating any case as purely supportive."
+  },
+  {
+    "id": "eval_005",
+    "title": "Gratuitous/unauthorised passengers – adverse precedent benchmark",
+    "query": "Find adverse precedents where claimants failed or the insurer was exonerated because the victim was a gratuitous or unauthorised passenger in a goods vehicle, tractor, or private hired vehicle.",
+    "task_type": "deep_research",
+    "tags": [
+      "gratuitous-passenger",
+      "unauthorised-passenger",
+      "goods-vehicle",
+      "adverse"
+    ],
+    "gold_relevant_cases": [
+      "doc_014",
+      "doc_028",
+      "doc_029",
+      "doc_030",
+      "doc_026",
+      "doc_025"
+    ],
+    "gold_must_find_cases": [
+      "doc_029",
+      "doc_030",
+      "doc_028"
+    ],
+    "gold_supporting_cases": [
+      "doc_025",
+      "doc_026"
+    ],
+    "gold_adverse_cases": [
+      "doc_014",
+      "doc_028",
+      "doc_029",
+      "doc_030"
+    ],
+    "gold_mixed_cases": [],
+    "expected_principles": [
+      "Act-only policies do not automatically cover gratuitous passengers",
+      "pay-and-recover is not always available where the claimant is outside statutory coverage",
+      "some courts still direct pay-and-recover on equitable/discretionary grounds"
+    ],
+    "expected_risk_themes": [
+      "difference between true statutory third party and non-covered passenger",
+      "tractor mudguard and hired-private-vehicle passenger cases are especially risky for claimants"
+    ],
+    "notes": "This query is purpose-built for Dimension 4 because the system should surface insurer-favourable cases, not just claimant-friendly pay-and-recover authorities."
+  },
+  {
+    "id": "eval_006",
+    "title": "Contributory negligence",
+    "query": "Find precedents on contributory negligence in motor accident claims, especially where the insurer or respondent argues the victim also contributed to the accident.",
+    "task_type": "deep_research",
+    "tags": [
+      "contributory-negligence",
+      "negligence",
+      "head-on-collision"
+    ],
+    "gold_relevant_cases": [
+      "doc_006",
+      "doc_009",
+      "doc_023"
+    ],
+    "gold_must_find_cases": [
+      "doc_006",
+      "doc_009"
+    ],
+    "gold_supporting_cases": [
+      "doc_006",
+      "doc_023"
+    ],
+    "gold_adverse_cases": [
+      "doc_009"
+    ],
+    "gold_mixed_cases": [],
+    "expected_principles": [
+      "contributory negligence needs evidentiary foundation and cannot be assumed from an unproved site plan alone",
+      "tribunal may reduce compensation proportionately where claimant conduct contributes to accident",
+      "res ipsa / surrounding facts may defeat contributory-negligence defence"
+    ],
+    "expected_risk_themes": [
+      "lack of helmet/licence by victim may support deduction",
+      "site plan arguments can overstate contributory negligence if not proved"
+    ],
+    "notes": "doc_006 is claimant-supportive on rejecting weak contributory-negligence arguments; doc_009 is adverse because it imposes a 50% deduction."
+  },
+  {
+    "id": "eval_007",
+    "title": "Income proof, minimum wages, and documentary evidence",
+    "query": "Find precedents on how courts assess income for compensation when documentary proof is weak or disputed, including use of minimum wages, DC rates, or ITRs.",
+    "task_type": "deep_research",
+    "tags": [
+      "income",
+      "minimum-wages",
+      "dc-rates",
+      "itr",
+      "quantum"
+    ],
+    "gold_relevant_cases": [
+      "doc_001",
+      "doc_006",
+      "doc_012",
+      "doc_019",
+      "doc_024"
+    ],
+    "gold_must_find_cases": [
+      "doc_001",
+      "doc_012",
+      "doc_024"
+    ],
+    "gold_supporting_cases": [
+      "doc_001",
+      "doc_024"
+    ],
+    "gold_adverse_cases": [],
+    "gold_mixed_cases": [
+      "doc_006",
+      "doc_012",
+      "doc_019"
+    ],
+    "expected_principles": [
+      "minimum wages may be used when income is not proved",
+      "ITRs and stronger documentary evidence can displace rough notional approaches",
+      "courts need not rigidly confine themselves to one income benchmark if the record supports a different figure"
+    ],
+    "expected_risk_themes": [
+      "income inflation by unsupported oral claims",
+      "tension between beneficial legislation and proof discipline"
+    ],
+    "notes": "doc_001 is especially useful because it discusses DC rates, minimum wages, and ITR-based reassessment in connected matters."
+  },
+  {
+    "id": "eval_008",
+    "title": "Future prospects and multiplier in death cases",
+    "query": "Find precedents on applying future prospects and selecting the correct multiplier in motor accident death claims.",
+    "task_type": "deep_research",
+    "tags": [
+      "future-prospects",
+      "multiplier",
+      "death-claim",
+      "quantum"
+    ],
+    "gold_relevant_cases": [
+      "doc_001",
+      "doc_004",
+      "doc_007",
+      "doc_018",
+      "doc_019"
+    ],
+    "gold_must_find_cases": [
+      "doc_001",
+      "doc_019",
+      "doc_004"
+    ],
+    "gold_supporting_cases": [
+      "doc_001",
+      "doc_004",
+      "doc_018",
+      "doc_019"
+    ],
+    "gold_adverse_cases": [
+      "doc_007"
+    ],
+    "gold_mixed_cases": [],
+    "expected_principles": [
+      "future prospects depend on age and employment category",
+      "multiplier is selected with reference to age under Sarla Verma/Pranay Sethi style rules",
+      "number of actual dependents affects deductions and therefore final quantum"
+    ],
+    "expected_risk_themes": [
+      "non-dependent legal representatives may reduce dependency component",
+      "tribunals sometimes omit future prospects and require appellate correction"
+    ],
+    "notes": "doc_007 is adverse on dependency because it excludes a non-dependent son from the dependency calculation."
+  },
+  {
+    "id": "eval_009",
+    "title": "Child death compensation",
+    "query": "Find precedents on compensation methodology where the deceased is a child in a motor accident claim.",
+    "task_type": "deep_research",
+    "tags": [
+      "child-death",
+      "notional-income",
+      "cii",
+      "quantum"
+    ],
+    "gold_relevant_cases": [
+      "doc_021",
+      "doc_022"
+    ],
+    "gold_must_find_cases": [
+      "doc_021",
+      "doc_022"
+    ],
+    "gold_supporting_cases": [
+      "doc_021",
+      "doc_022"
+    ],
+    "gold_adverse_cases": [],
+    "gold_mixed_cases": [],
+    "expected_principles": [
+      "use of notional income with inflation/CII adjustment in child death cases",
+      "multiplier and non-pecuniary components are handled through a specialized formula",
+      "criminal-record evidence plus claimant testimony may suffice to prove negligence on preponderance"
+    ],
+    "expected_risk_themes": [
+      "child compensation is formula-sensitive and easy for an agent to misstate"
+    ],
+    "notes": "A good system should cite both Delhi MACT-style child death authorities here rather than only general death-compensation cases."
+  },
+  {
+    "id": "eval_010",
+    "title": "Permanent disability and future medical expenses",
+    "query": "Find precedents on compensation in serious injury cases involving permanent disability, loss of earning capacity, and future medical expenses.",
+    "task_type": "deep_research",
+    "tags": [
+      "injury",
+      "permanent-disability",
+      "functional-disability",
+      "future-medicals"
+    ],
+    "gold_relevant_cases": [
+      "doc_020",
+      "doc_024",
+      "doc_010"
+    ],
+    "gold_must_find_cases": [
+      "doc_020",
+      "doc_024"
+    ],
+    "gold_supporting_cases": [
+      "doc_020",
+      "doc_024",
+      "doc_010"
+    ],
+    "gold_adverse_cases": [],
+    "gold_mixed_cases": [],
+    "expected_principles": [
+      "functional disability is not always equal to medical disability percentage",
+      "future prospects may apply in severe injury cases affecting earning capacity",
+      "future medical and attendant charges may be recoverable"
+    ],
+    "expected_risk_themes": [
+      "agents often confuse medical impairment with economic disability"
+    ],
+    "notes": "doc_020 is the key benchmark case for functional disability and future medicals; doc_024 adds a spinal-injury/pay-and-recover variant."
+  },
+  {
+    "id": "eval_011",
+    "title": "Commercial vehicles with insurer-contested liability – corpus Q&A",
+    "query": "Which judgments in this corpus involve commercial vehicles and contested insurer liability?",
+    "task_type": "qa",
+    "tags": [
+      "corpus-qa",
+      "commercial-vehicle",
+      "insurer-liability",
+      "metadata"
+    ],
+    "gold_relevant_cases": [
+      "doc_001",
+      "doc_005",
+      "doc_006",
+      "doc_011",
+      "doc_014",
+      "doc_018",
+      "doc_019",
+      "doc_025",
+      "doc_026",
+      "doc_027",
+      "doc_028",
+      "doc_029",
+      "doc_030",
+      "doc_032",
+      "doc_033",
+      "doc_034",
+      "doc_035",
+      "doc_041",
+      "doc_045"
+    ],
+    "gold_must_find_cases": [
+      "doc_001",
+      "doc_006",
+      "doc_025",
+      "doc_028",
+      "doc_032"
+    ],
+    "gold_supporting_cases": [],
+    "gold_adverse_cases": [],
+    "gold_mixed_cases": [],
+    "expected_principles": [],
+    "expected_risk_themes": [
+      "metadata filtering should be accurate; false positives indicate weak extraction or filter logic"
+    ],
+    "notes": "This task is mainly for checking metadata-aware retrieval and precision on a general corpus query rather than legal synthesis."
+  },
+  {
+    "id": "eval_012",
+    "title": "Owner-use/policy-use breach in tractor or attached trolley cases",
+    "query": "Find precedents where insurer liability turned on the nature of vehicle use, especially tractors, attached trolleys, or vehicles used outside the policy's permitted purpose.",
+    "task_type": "deep_research",
+    "tags": [
+      "tractor",
+      "policy-use-breach",
+      "trolley",
+      "permitted-use"
+    ],
+    "gold_relevant_cases": [
+      "doc_002",
+      "doc_014",
+      "doc_029",
+      "doc_030"
+    ],
+    "gold_must_find_cases": [
+      "doc_002",
+      "doc_030"
+    ],
+    "gold_supporting_cases": [],
+    "gold_adverse_cases": [
+      "doc_002",
+      "doc_014",
+      "doc_029",
+      "doc_030"
+    ],
+    "gold_mixed_cases": [],
+    "expected_principles": [
+      "tractor/trolley coverage can depend on whether the use remained within insured/agricultural purpose",
+      "unauthorised carriage or use outside policy purpose may exonerate insurer",
+      "tractor mudguard occupant cases are especially insurer-favourable"
+    ],
+    "expected_risk_themes": [
+      "agents may over-generalize pay-and-recover into non-covered use cases"
+    ],
+    "notes": "This task complements the gratuitous-passenger benchmark by focusing on use/purpose breach rather than only passenger status."
+  }
+]

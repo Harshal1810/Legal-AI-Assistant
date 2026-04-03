@@ -1,0 +1,80 @@
+{
+  "doc_id": "doc_009",
+  "case_name": "Kamal S/O Shiv Ram vs Mursleem S/O Mohd. Akil",
+  "court": "Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi",
+  "year": 2019,
+  "judgment_date": "04.01.2019",
+  "citation": "DAR Nos. 402/18, 403/18 & 404/18",
+  "involves_motor_accident": true,
+  "involves_commercial_vehicle": false,
+  "involves_unlicensed_driver": false,
+  "insurance_contested_liability": false,
+  "pay_and_recover_applied": false,
+  "involves_death": false,
+  "involves_injury": true,
+  "compensation_awarded": true,
+  "outcome_for_claimant": "won",
+  "compensation_amount": "DAR No.402/18: Rs. 55,844/-; DAR No.403/18: Rs. 48,500/-; DAR No.404/18: Rs. 48,500/-",
+  "compensation_breakdown": [
+    {
+      "claimant_or_victim": "Kamal S/o Shiv Ram (injured)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 55,844/-",
+      "final_amount": "Rs. 55,844/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "50% deduction made towards contributory negligence (claimant admitted driving without DL and no helmet)."
+    },
+    {
+      "claimant_or_victim": "Rajni D/o Shiv Ram (injured)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 48,500/-",
+      "final_amount": "Rs. 48,500/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "50% deduction made towards contributory negligence (claimant was a pillion rider; contributory negligence found based on admission that rider had no DL and none wore helmets)."
+    },
+    {
+      "claimant_or_victim": "Tannu D/o Ramesh Kumar (injured)",
+      "claim_type": "injury",
+      "tribunal_amount": "Rs. 48,500/-",
+      "final_amount": "Rs. 48,500/-",
+      "interest": "9% p.a. from date of filing of petition till realization",
+      "notes": "50% deduction made towards contributory negligence (same basis as above)."
+    }
+  ],
+  "facts": "On 31.08.2018 at about 20:00 hrs near 4th Pushta, Sonia Vihar, Delhi, vehicle bearing No. DL 1 LX 2320 driven by respondent No.1 collided with a motorcycle carrying Kamal and two pillion riders Rajni and Tannu. All three sustained serious injuries and were admitted to Sushruta Trauma Centre (Kamal remained admitted 19 days and underwent operations). FIR No. 188/18 was registered at PS Sonia Vihar. Claim petitions under Section 166 and 140 of the Motor Vehicles Act, 1988 (DAR Nos. 402/18, 403/18 & 404/18) were filed against the driver, owner and Bajaj Allianz General Insurance Co. Ltd.",
+  "arguments_claimant": "Claimants relied on their testimony, FIR and medical records to establish rash and negligent driving by the driver of vehicle DL 1 LX 2320 and sought compensation under Sections 166 and 140 MV Act. They claimed loss of wages, pain and suffering, attendant charges, conveyance/special diet and loss of education (for the minor claimants). The claimants invoked established principles for compensation assessment as laid down in Raj Kumar and similar authorities.",
+  "arguments_respondent": "Respondent Nos.1 and 2 denied negligence, contended the petition was not maintainable and alleged the petitioners falsely implicated the vehicle. Respondent No.3 (insurance company) produced the insurance policy details accepting the vehicle was insured but contested quantum and pointed to contributory negligence by the injured (claimant-driver admitted he had no driving licence and none wore helmets) and lack of documentary proof of monetary loss/medical bills.",
+  "ratio_decidendi": "\"The claimants were merely to establish their case on the touchstone of preponderance of probability. The standard of proof beyond reasonable doubt could not have been applied.\" The Tribunal applied the settled principle that \"the proceedings under the Motor Vehicles Act are not akin to the proceedings in a civil suit and hence strict rules of evidence are not required to be followed in this regard,\" and relied upon criminal record/FIR and medical records as sufficient to establish negligence. On compensation the Tribunal followed Raj Kumar that \"the award must be just, which means that compensation should, to the extent possible, fully and adequately restore the claimant to the position prior to the accident,\" and assessed damages under appropriate heads (loss of wages, pain and suffering, attendant charges, conveyance/special diet, loss of education). The Tribunal also applied contributory negligence principles to reduce the award by 50% due to admitted lack of driving licence and non-use of helmets.",
+  "final_order": "All three DAR petitions are allowed. Insurance Company (Respondent No.3) is directed to pay: Rs.55,844/- (DAR No.402/18) and Rs.48,500/- each (DAR Nos.403/18 & 404/18) within one month, with interest @9% p.a. from the date of filing of petition till realization; amounts to be deposited with UCO Bank, KKD Courts Branch and Form-V to be part of the judgment.",
+  "summary": "This is a motor-accident claim (DAR Nos. 402/18, 403/18 & 404/18) from Karkardooma MACT where a vehicle (DL 1 LX 2320) hit a motorcycle on 31.08.2018 at Sonia Vihar, injuring three persons. The Tribunal found the offending driver negligent on the preponderance of probabilities and awarded compensation to each injured claimant (Rs.55,844; Rs.48,500; Rs.48,500), but reduced each award by 50% for contributory negligence because the rider admitted lacking a driving licence and none wore helmets. Bajaj Allianz (insurer) was directed to pay the awards with interest at 9% p.a.; deposit and bank-withdrawal safeguards were ordered.",
+  "embedding_summary": "Kamal S/O Shiv Ram v. Mursleem S/O Mohd. Akil, Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, 2019 (DAR Nos. 402/18, 403/18 & 404/18). Accident on 31.08.2018 at 4th Pushta Sonia Vihar: vehicle DL 1 LX 2320 struck a motorcycle injuring Kamal, Rajni and Tannu; FIR No.188/18 and medical records produced. Claims under Section 166 and 140 MV Act 1988 against driver, owner and Bajaj Allianz General Insurance Co. Ltd. Tribunal applied preponderance of probabilities and held negligence established (citing Bimla Devi, Pushpa Rana); awarded Rs.55,844; Rs.48,500; Rs.48,500 respectively but applied 50% deduction for contributory negligence (no driving licence, no helmets). Insurance policy No. OG 19 1101 1803 00003171 (15.08.2018-14.08.2019) noted; insurer directed to pay with interest @9% p.a., deposit in UCO Bank KKD Courts branch. Key legal issues: negligence proof standard in MV claims, MV Act as benevolent legislation, contributory negligence reduction, insurer liability where valid policy exists.",
+  "legal_principles": [
+    "Preponderance of probabilities is the applicable standard in Motor Vehicles Act claims; \"The standard of proof beyond reasonable doubt could not have been applied.\"",
+    "Proceedings under the Motor Vehicles Act are benevolent and \"are not akin to the proceedings in a civil suit and hence strict rules of evidence are not required to be followed in this regard.\"",
+    "Compensation awards must be \"just\" and aim to \"fully and adequately restore the claimant to the position prior to the accident\" (Raj Kumar principles).",
+    "Contributory negligence can proportionately reduce compensation (50% deduction applied here for lack of driving licence and absence of helmets).",
+    "Where a valid insurance policy exists the insurer is liable to pay the award (insurer directed to pay and deposit the award with bank)."
+  ],
+  "sections_cited": [
+    "Section 166 Motor Vehicles Act, 1988",
+    "Section 140 Motor Vehicles Act, 1988",
+    "Section 279 IPC",
+    "Section 304A IPC"
+  ],
+  "cases_cited": [
+    "Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530",
+    "Parmeshwari v. Amir Chand, (2011) 11 SCC 635",
+    "Kusum Lata v. Satbir, (2011) 3 SCC 646",
+    "United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2) T.A.C. 846 (Del.)",
+    "National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287 (Delhi High Court)",
+    "Kaushnumma Begum and others v. New India Assurance Company Limited, 2001 ACJ 421 (SC)",
+    "United India Insurance Co. Ltd. V/s. Smt. Rinki @ Rinku & Ors, MAC App. No.200/2012 (Delhi High Court) decided 23/07/2012",
+    "Delhi Transport Corporation and Anr. v. Lalita, AIR 1981 Delhi 558",
+    "Narayan Bahadur v. Sumeet Gupta and Anr., MAC APP. No. 762/11 dated 04.07.12 (Delhi High Court)",
+    "New India Assurance Co. Ltd. Vs. Gopali & Ors., 2012 ACJ 2131 (SC)",
+    "Jiju Kuruvila & Ors. Vs. Kunjujamma Mohan & Ors., 2013 ACJ 2141 (SC)",
+    "Puttamma Vs. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 (SC)",
+    "New India Assurance Company Limited Vs. Kashmiri Lal, 2007 ACJ 688 (Delhi High Court)"
+  ],
+  "bm25_text": "Kamal S/O Shiv Ram vs Mursleem S/O Mohd. Akil Motor Accident Claims Tribunal (Pilot Court), Karkardooma Courts, Delhi 2019 On 31.08.2018 at about 20:00 hrs near 4th Pushta, Sonia Vihar, Delhi, vehicle bearing No. DL 1 LX 2320 driven by respondent No.1 collided with a motorcycle carrying Kamal and two pillion riders Rajni and Tannu. All three sustained serious injuries and were admitted to Sushruta Trauma Centre (Kamal remained admitted 19 days and underwent operations). FIR No. 188/18 was registered at PS Sonia Vihar. Claim petitions under Section 166 and 140 of the Motor Vehicles Act, 1988 (DAR Nos. 402/18, 403/18 & 404/18) were filed against the driver, owner and Bajaj Allianz General Insurance Co. Ltd. Claimants relied on their testimony, FIR and medical records to establish rash and negligent driving by the driver of vehicle DL 1 LX 2320 and sought compensation under Sections 166 and 140 MV Act. They claimed loss of wages, pain and suffering, attendant charges, conveyance/special diet and loss of education (for the minor claimants). The claimants invoked established principles for compensation assessment as laid down in Raj Kumar and similar authorities. Respondent Nos.1 and 2 denied negligence, contended the petition was not maintainable and alleged the petitioners falsely implicated the vehicle. Respondent No.3 (insurance company) produced the insurance policy details accepting the vehicle was insured but contested quantum and pointed to contributory negligence by the injured (claimant-driver admitted he had no driving licence and none wore helmets) and lack of documentary proof of monetary loss/medical bills. \"The claimants were merely to establish their case on the touchstone of preponderance of probability. The standard of proof beyond reasonable doubt could not have been applied.\" The Tribunal applied the settled principle that \"the proceedings under the Motor Vehicles Act are not akin to the proceedings in a civil suit and hence strict rules of evidence are not required to be followed in this regard,\" and relied upon criminal record/FIR and medical records as sufficient to establish negligence. On compensation the Tribunal followed Raj Kumar that \"the award must be just, which means that compensation should, to the extent possible, fully and adequately restore the claimant to the position prior to the accident,\" and assessed damages under appropriate heads (loss of wages, pain and suffering, attendant charges, conveyance/special diet, loss of education). The Tribunal also applied contributory negligence principles to reduce the award by 50% due to admitted lack of driving licence and non-use of helmets. All three DAR petitions are allowed. Insurance Company (Respondent No.3) is directed to pay: Rs.55,844/- (DAR No.402/18) and Rs.48,500/- each (DAR Nos.403/18 & 404/18) within one month, with interest @9% p.a. from the date of filing of petition till realization; amounts to be deposited with UCO Bank, KKD Courts Branch and Form-V to be part of the judgment. This is a motor-accident claim (DAR Nos. 402/18, 403/18 & 404/18) from Karkardooma MACT where a vehicle (DL 1 LX 2320) hit a motorcycle on 31.08.2018 at Sonia Vihar, injuring three persons. The Tribunal found the offending driver negligent on the preponderance of probabilities and awarded compensation to each injured claimant (Rs.55,844; Rs.48,500; Rs.48,500), but reduced each award by 50% for contributory negligence because the rider admitted lacking a driving licence and none wore helmets. Bajaj Allianz (insurer) was directed to pay the awards with interest at 9% p.a.; deposit and bank-withdrawal safeguards were ordered. Kamal S/O Shiv Ram v. Mursleem S/O Mohd. Akil, Motor Accident Claims Tribunal, Karkardooma Courts, Delhi, 2019 (DAR Nos. 402/18, 403/18 & 404/18). Accident on 31.08.2018 at 4th Pushta Sonia Vihar: vehicle DL 1 LX 2320 struck a motorcycle injuring Kamal, Rajni and Tannu; FIR No.188/18 and medical records produced. Claims under Section 166 and 140 MV Act 1988 against driver, owner and Bajaj Allianz General Insurance Co. Ltd. Tribunal applied preponderance of probabilities and held negligence established (citing Bimla Devi, Pushpa Rana); awarded Rs.55,844; Rs.48,500; Rs.48,500 respectively but applied 50% deduction for contributory negligence (no driving licence, no helmets). Insurance policy No. OG 19 1101 1803 00003171 (15.08.2018-14.08.2019) noted; insurer directed to pay with interest @9% p.a., deposit in UCO Bank KKD Courts branch. Key legal issues: negligence proof standard in MV claims, MV Act as benevolent legislation, contributory negligence reduction, insurer liability where valid policy exists. Kamal S/o Shiv Ram (injured) Rs. 55,844/- Rs. 55,844/- 9% p.a. from date of filing of petition till realization 50% deduction made towards contributory negligence (claimant admitted driving without DL and no helmet). Rajni D/o Shiv Ram (injured) Rs. 48,500/- Rs. 48,500/- 9% p.a. from date of filing of petition till realization 50% deduction made towards contributory negligence (claimant was a pillion rider; contributory negligence found based on admission that rider had no DL and none wore helmets). Tannu D/o Ramesh Kumar (injured) Rs. 48,500/- Rs. 48,500/- 9% p.a. from date of filing of petition till realization 50% deduction made towards contributory negligence (same basis as above). Preponderance of probabilities is the applicable standard in Motor Vehicles Act claims; \"The standard of proof beyond reasonable doubt could not have been applied.\" Proceedings under the Motor Vehicles Act are benevolent and \"are not akin to the proceedings in a civil suit and hence strict rules of evidence are not required to be followed in this regard.\" Compensation awards must be \"just\" and aim to \"fully and adequately restore the claimant to the position prior to the accident\" (Raj Kumar principles). Contributory negligence can proportionately reduce compensation (50% deduction applied here for lack of driving licence and absence of helmets). Where a valid insurance policy exists the insurer is liable to pay the award (insurer directed to pay and deposit the award with bank). Section 166 Motor Vehicles Act, 1988 Section 140 Motor Vehicles Act, 1988 Section 279 IPC Section 304A IPC Bimla Devi and Ors. v. Himachal Road Transport Corporation and Ors., (2009) 13 SC 530 Parmeshwari v. Amir Chand, (2011) 11 SCC 635 Kusum Lata v. Satbir, (2011) 3 SCC 646 United India Insurance Company Ltd. Vs. Deepak Goel & Ors., 2014 (2) T.A.C. 846 (Del.) National Insurance Company Limited Vs. Pushpa Rana, 2009 ACJ 287 (Delhi High Court) Kaushnumma Begum and others v. New India Assurance Company Limited, 2001 ACJ 421 (SC) United India Insurance Co. Ltd. V/s. Smt. Rinki @ Rinku & Ors, MAC App. No.200/2012 (Delhi High Court) decided 23/07/2012 Delhi Transport Corporation and Anr. v. Lalita, AIR 1981 Delhi 558 Narayan Bahadur v. Sumeet Gupta and Anr., MAC APP. No. 762/11 dated 04.07.12 (Delhi High Court) New India Assurance Co. Ltd. Vs. Gopali & Ors., 2012 ACJ 2131 (SC) Jiju Kuruvila & Ors. Vs. Kunjujamma Mohan & Ors., 2013 ACJ 2141 (SC) Puttamma Vs. K.L. Naraynan Reddy & Ors., 2014 ACJ 526 (SC) New India Assurance Company Limited Vs. Kashmiri Lal, 2007 ACJ 688 (Delhi High Court)"
+}

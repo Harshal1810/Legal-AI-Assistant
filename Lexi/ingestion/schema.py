@@ -11,20 +11,72 @@ from typing import Literal, Optional
 from pydantic import BaseModel, Field
 
 
+class CompensationAward(BaseModel):
+    """
+    One compensation award item from the judgment (often multiple petitions/claimants).
+    Amounts should reflect the FINAL operative figures in this judgment when available.
+    """
+
+    claimant_or_victim: str = Field(
+        default="",
+        description=(
+            "Name/identifier of the claimant or victim for this award item, "
+            "e.g. 'Munish Kumar (deceased)', 'Sunil @ Rohit (injured)'."
+        ),
+    )
+    claim_type: Literal["death", "injury", "unknown"] = Field(
+        default="unknown",
+        description="Type of claim for this item: death, injury, or unknown.",
+    )
+    tribunal_amount: Optional[str] = Field(
+        default=None,
+        description=(
+            "Compensation amount as awarded by the Tribunal/MACT (if mentioned), "
+            "e.g. 'Rs. 12,59,600/-'. Null if not available."
+        ),
+    )
+    final_amount: Optional[str] = Field(
+        default=None,
+        description=(
+            "FINAL operative compensation amount as modified/confirmed by this judgment "
+            "(High Court/Supreme Court) for this item, e.g. 'Rs. 40,60,400/-'. "
+            "Null if not determinable."
+        ),
+    )
+    interest: Optional[str] = Field(
+        default=None,
+        description=(
+            "Interest rate/terms if specified for this item, e.g. '9% p.a. from date of petition'. "
+            "Null if not mentioned or same for all items."
+        ),
+    )
+    notes: Optional[str] = Field(
+        default=None,
+        description="Any short clarifying note (1 sentence) if needed. Null otherwise.",
+    )
+
+
 class JudgmentMetadata(BaseModel):
     """Structured representation of one Indian court judgment."""
 
     # ── Identity ──────────────────────────────────────────────────────
+    # NOTE: Most fields have defaults so extraction doesn't fail hard when the LLM
+    # omits fields. This keeps the pipeline running while still encouraging the
+    # model (via descriptions) to populate everything.
+
     doc_id: str = Field(
+        default="",
         description="Document filename without extension, e.g. 'doc_001'"
     )
     case_name: str = Field(
+        default="",
         description=(
             "Full case name exactly as it appears in the judgment header, "
             "e.g. 'United India Insurance Co. Ltd. vs Neelam Devi And Others'"
         )
     )
     court: str = Field(
+        default="",
         description=(
             "Full name of the court that delivered this judgment, "
             "e.g. 'Supreme Court of India', 'High Court of Punjab and Haryana at Chandigarh', "
@@ -32,6 +84,7 @@ class JudgmentMetadata(BaseModel):
         )
     )
     year: int = Field(
+        default=0,
         description="Year the judgment was delivered as a 4-digit integer, e.g. 2023"
     )
     judgment_date: Optional[str] = Field(
@@ -48,44 +101,53 @@ class JudgmentMetadata(BaseModel):
 
     # ── Boolean flags for fast metadata filtering ─────────────────────
     involves_motor_accident: bool = Field(
+        default=False,
         description="True if the case involves a motor vehicle accident claim"
     )
     involves_commercial_vehicle: bool = Field(
+        default=False,
         description=(
             "True if the accident involved a commercial vehicle such as a truck, "
             "bus, tanker, goods carriage, or any vehicle used for commercial purposes"
         )
     )
     involves_unlicensed_driver: bool = Field(
+        default=False,
         description=(
             "True if the driver of the offending vehicle did not hold a valid and "
             "effective driving license at the time of the accident, including expired licenses"
         )
     )
     insurance_contested_liability: bool = Field(
+        default=False,
         description=(
             "True if the insurance company contested its liability to pay compensation, "
             "e.g. argued policy was void or sought to recover from the insured"
         )
     )
     pay_and_recover_applied: bool = Field(
+        default=False,
         description=(
             "True if the court applied the 'pay and recover' or 'pay first, recover later' "
             "doctrine — directing the insurer to pay the claimant and then recover from the owner/driver"
         )
     )
     involves_death: bool = Field(
+        default=False,
         description="True if the accident resulted in the death of one or more persons"
     )
     involves_injury: bool = Field(
+        default=False,
         description="True if the accident resulted in injuries (not death) to one or more persons"
     )
     compensation_awarded: bool = Field(
+        default=False,
         description="True if the court awarded or upheld monetary compensation to the claimant(s)"
     )
 
     # ── Outcome ───────────────────────────────────────────────────────
     outcome_for_claimant: Literal["won", "lost", "partial", "remanded", "unclear"] = Field(
+        default="unclear",
         description=(
             "Final outcome from the claimant's perspective. "
             "'won' = full relief granted. "
@@ -98,13 +160,26 @@ class JudgmentMetadata(BaseModel):
     compensation_amount: Optional[str] = Field(
         default=None,
         description=(
-            "Total compensation amount awarded as a string with currency symbol, "
-            "e.g. 'Rs. 40,60,400/-'. Include all components if itemised. Null if not awarded."
+            "Total compensation amount awarded/confirmed in the FINAL operative result of this judgment "
+            "as a string with currency symbol, e.g. 'Rs. 40,60,400/-'. "
+            "If there are multiple connected petitions/claims, either provide a combined total OR "
+            "a clear semicolon-separated breakdown (e.g. 'Munish Kumar: ...; Ram Niwas: ...'). "
+            "Do NOT report only the Tribunal's figures if the appellate court modified them. "
+            "Null if not awarded."
         )
+    )
+    compensation_breakdown: list[CompensationAward] = Field(
+        default_factory=list,
+        description=(
+            "List of per-claim compensation items (often multiple connected cases). "
+            "For each item, include Tribunal amount (if mentioned) and FINAL amount in this judgment. "
+            "Prefer the appellate court's final figures where available."
+        ),
     )
 
     # ── Substantive legal content ──────────────────────────────────────
     facts: str = Field(
+        default="",
         description=(
             "3–5 sentence summary of the key background facts: who was involved, "
             "what happened, what injury/loss occurred, and what claim was filed. "
@@ -112,6 +187,7 @@ class JudgmentMetadata(BaseModel):
         )
     )
     arguments_claimant: str = Field(
+        default="",
         description=(
             "2–4 sentence summary of the main legal and factual arguments made "
             "by the claimant or petitioner. Focus on the core legal positions, "
@@ -119,6 +195,7 @@ class JudgmentMetadata(BaseModel):
         )
     )
     arguments_respondent: str = Field(
+        default="",
         description=(
             "2–4 sentence summary of the main legal and factual arguments made "
             "by the respondent (usually the insurance company or vehicle owner). "
@@ -126,6 +203,7 @@ class JudgmentMetadata(BaseModel):
         )
     )
     ratio_decidendi: str = Field(
+        default="",
         description=(
             "The actual legal holding of the court — the principle of law on which "
             "the decision rests. This is the single most important field. "
@@ -137,6 +215,7 @@ class JudgmentMetadata(BaseModel):
         )
     )
     final_order: str = Field(
+        default="",
         description=(
             "1–2 sentences stating exactly what was ordered: e.g. appeal allowed/dismissed, "
             "compensation amount confirmed/modified, liability on insurer/owner, "
@@ -144,6 +223,7 @@ class JudgmentMetadata(BaseModel):
         )
     )
     summary: str = Field(
+        default="",
         description=(
             "3–4 sentence plain-English summary of the entire case suitable for a "
             "lawyer doing quick triage. Should capture: type of case, key legal issue, "
@@ -151,9 +231,22 @@ class JudgmentMetadata(BaseModel):
             "Do NOT use legal jargon — write as if explaining to a client."
         )
     )
+    embedding_summary: str = Field(
+        default="",
+        description=(
+            "Retrieval-optimized summary for embeddings (5–8 sentences, query-dense). "
+            "Include concrete searchable terms: parties, court, year, citation/case number, "
+            "accident date/place, vehicle types (e.g. truck/tanker/commercial vehicle), "
+            "key legal issues/doctrines (e.g. 'pay and recover', 'hazardous goods endorsement', "
+            "'breach of policy', relevant MV Act/CMVR sections/rules), and the outcome "
+            "including compensation amount if available. "
+            "This CAN use legal terminology (unlike `summary`)."
+        )
+    )
 
     # ── Legal principles and citations ────────────────────────────────
     legal_principles: list[str] = Field(
+        default_factory=list,
         description=(
             "List of specific legal principles, doctrines, or rules applied or established "
             "by this judgment. Each entry should be a short phrase, e.g.: "
@@ -164,6 +257,7 @@ class JudgmentMetadata(BaseModel):
         )
     )
     sections_cited: list[str] = Field(
+        default_factory=list,
         description=(
             "List of statutory sections, rules, or provisions cited in the judgment. "
             "Use the exact citation format, e.g.: "
@@ -206,6 +300,13 @@ class JudgmentMetadata(BaseModel):
             self.ratio_decidendi,
             self.final_order,
             self.summary,
+            self.embedding_summary,
+            " ".join(
+                [
+                    " ".join(filter(None, [a.claimant_or_victim, a.tribunal_amount or "", a.final_amount or "", a.interest or "", a.notes or ""]))
+                    for a in self.compensation_breakdown
+                ]
+            ),
             " ".join(self.legal_principles),
             " ".join(self.sections_cited),
             " ".join(self.cases_cited),
@@ -220,7 +321,7 @@ class JudgmentMetadata(BaseModel):
         Used to build per-section embeddings for Stage 2 retrieval.
         """
         return {
-            "summary": self.summary,
+            "summary": self.embedding_summary or self.summary,
             "facts": self.facts,
             "ratio": self.ratio_decidendi,
             "order": f"{self.final_order}. Principles: {', '.join(self.legal_principles)}",
